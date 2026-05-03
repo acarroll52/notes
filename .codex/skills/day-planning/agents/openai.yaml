@@ -1,0 +1,4 @@
+interface:
+  display_name: "Day Planning"
+  short_description: "Executive day triage from Outlook and Teams"
+  default_prompt: "Use $day-planning to triage today's meetings, emails, and Teams follow-ups."

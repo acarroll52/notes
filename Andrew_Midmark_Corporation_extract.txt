@@ -1,0 +1,3210 @@
+===== PAGE 1 =====
+Meisterplan - A0meister
+FDA - Aa0fdafda
+Passwords
+Monday, January 26, 2026
+9:30 AM
+   
+Wiki Page 1
+   
+
+
+===== PAGE 2 =====
+Acronyms
+OGSIM: Objectives Goals Implementations Measures
+-
+MIP: Midmark Innovation Process (NPD process) 
+-
+ADO: Azure DevOps
+-
+NIBP: Non Invasive Blood Pressure
+-
+WAF: Work Authorization Form
+-
+MPL: Master Project List
+-
+CMR: Component Master Record
+-
+CVD: Continuous Value Delivery
+-
+CQR: Component Qualification Requirements
+-
+CQP: Component Qualification Process
+-
+CQW: Component Qualification Warrant
+-
+CTA: Critical to Attribute 
+Balloons on drawings
+○
+-
+PMM: Project Management Mastery
+-
+CMA: Commercialization Maturity Assessment
+-
+IDN: Integrated Delivery Network
+-
+Ambulatory: Outpatient (clinic, ER, same-day surgery, etc)
+-
+Projects
+NGO: Next Gen Operatory
+Value
+Dental chair with touchpad
+▪
+○
+Value+
+Adds touchscreen and electric integration
+▪
+○
+-
+Horizon
+New medical chair
+○
+-
+Atlas
+Midmark 631 Procedure Chair
+○
+-
+NGS2
+-
+Acronyms / Project Names
+Tuesday, January 13, 2026
+8:41 AM
+   
+Wiki Page 2
+   
+
+
+===== PAGE 3 =====
+Managers generally have a "Base" budget
+For engineering, this includes headcount, travel, and tools or low cost 
+equipment/components
+○
+Not sure if I have my own Base or if my team is just under Jeff
+○
+Use Cost Center 4125 Business Unit 100 Loc 1150 (Cinci)
+200.100.10.1080.4125.601260.21062.000
+▪
+○
+-
+Everything else is charged to a project
+Cor1.0 Project Cost Center: 21062 (full string: 200.100.10.1080.4125.601260.21062)
+○
+-
+Global Logic
+SOW opened May 1st 2025 by Trinidad
+Covers Cor1.0 and Cor2.0 wireless PoC
+▪
+Looks like it only covers through Dec. 2025
+▪
+○
+GL is coming out of Josh's cost center (A&I project, 2199 cost center)
+Coming out of Irvine transfer
+▪
+Project run rate doesn't include GL
+▪
+Corscience is included in our Cor1.0 run rate through the year even though they are 
+ramping down. Should be able to move this to GL.
+▪
+March 19th budget app for Cor1.0
+▪
+○
+-
+Invoices go to Accounts Payable (apinquiry@midmark.com)
+-
+Budget
+Monday, February 9, 2026
+3:05 PM
+   
+Wiki Page 3
+   
+
+
+===== PAGE 4 =====
+Manager Intake Form and examples
+Manager
+Intake
+Agile
+Product ...
+Manager
+Intake_Co...
+Pay bands
+Engineer III: 118k, min 125, mid 139 and max 153k
+-
+Senior: 130-168 with a midpoint of 153,500
+-
+Hiring
+Monday, January 5, 2026
+11:32 AM
+   
+Wiki Page 4
+   
+
+
+===== PAGE 5 =====
+R&D Onboarding Sharepoint
+Safety Shoes/Glasses: https://midmark.sharepoint.com/teams/EHS/SitePages/Versailles-Safety-
+Benefits.aspx?csf=1&web=1&e=TjyDJD
+Jama Access
+Complete the following training and then contact Jon Ayers to give you access
+Requirements training
+https://midmark.workvivo.com/spaces/57976/pages
+Additional Intro & Navigation video
+https://fast.wistia.net/embed/iframe/ahilhdud1v?popover=true
+-
+Outlook/Teams Access on Phone
+Just an IT ticket
+-
+Silicon Expert
+Nick Stammen can grant access
+-
+Altium
+Andrew Pottkotter can grant access
+-
+Onboarding
+Friday, January 9, 2026
+8:02 AM
+   
+Wiki Page 5
+   
+
+
+===== PAGE 6 =====
+Career Ladder
+Engineering
+Career La...
+Bonus/Celebrations
+Project bonuses / monetary rewards are a thing. Need to check project budgets.
+-
+Catered/go out to lunch could be a thing, check with other managers
+-
+Promotions usually come with ~10% raise on average
+-
+Merit Increases
+Budget is 3% per teammate
+-
+Use Oracle HCM
+-
+If started in Nov-Jan, eligible for merit at mid-year (July)
+-
+Everyone under Josh needs to average out to 3%
+-
+Performance
+Mid-year and End-of-year
+-
+IDP: Individual Development Plan (may or may not still be a thing per Bethany)
+Training, conferences
+○
+Immersion with another team
+○
+Education
+○
+Project budget should have dedicated lines for travel and training (ask Jeff who our financial 
+partner is)
+○
+-
+Leave
+Sick time can be used for immediate family member or birth of a child, doctor apt, etc
+-
+2 weeks paid bonding time for men and women
+-
+MLOA covers 12 weeks of leave for birth of child (not paid)
+-
+Manager Stuff
+Thursday, January 8, 2026
+4:26 PM
+   
+Wiki Page 6
+   
+
+
+===== PAGE 7 =====
+Process
+Friday, January 9, 2026
+6:27 AM
+   
+Wiki Page 7
+   
+
+
+===== PAGE 8 =====
+Important Docs
+Hardware Requirements Specification (HRS) – Document used to define design requirements for a PCB 
+assembly
+Hardware Design Document (HDD) – Document that contains rationale for design choices and 
+calculations for a PCB assembly 
+Hardware Test Specification (HTS) – Document that contains a list of tests used to verify/validate the 
+design of a PCB assembly
+Electrical
+Friday, January 9, 2026
+6:27 AM
+   
+Wiki Page 8
+   
+
+
+===== PAGE 9 =====
+20-73-WI00031: Agile structures (describes part structures including where BOM, schematic, etc goes 
+for PCBAs.
+QMS13366: Quality Manual
+Important Docs
+Friday, January 9, 2026
+6:32 AM
+   
+Wiki Page 9
+   
+
+
+===== PAGE 10 =====
+Project Management Mastery
+PMM
+Wednesday, February 4, 2026
+10:53 AM
+   
+Wiki Page 10
+   
+
+
+===== PAGE 11 =====
+MIP
+Wednesday, February 4, 2026
+10:44 AM
+   
+Wiki Page 11
+   
+
+
+===== PAGE 12 =====
+Goal
+Phase 0 is where you turn “a good idea” into an “approved, fundable opportunity” with enough 
+clarity on:
+Who the target customer is
+○
+What problem/need you’re solving (supported by customer evidence)
+○
+What it will take (scope / cost / time triangle assumptions)
+○
+What could kill it (RISDA-driven risks + mitigations)
+○
+How we’ll win commercially (early commercialization plan)
+○
+Gate Inputs
+Solution Development Charter
+Owner: Technically Upstream Marketing, but project lead generally drives
+▪
+Content:
+Opportunity statement + target customer/persona
+1)
+Proposed solution concept + boundaries (in-scope / out-of-scope)
+2)
+Success metrics (commercial + customer + quality/regulatory as applicable)
+3)
+High-level plan + key milestones (ties to “Establish Key Project Milestones”)
+4)
+Top RISDA items (ties to “Create Project RISDA”)
+5)
+Resourcing + spend assumptions for next phases (so leadership knows what 
+they’re funding)
+6)
+▪
+○
+Customer Research Plan and Summary
+Owner: Upstream Marketing
+▪
+Plan for gathering customer inputs (needs)
+▪
+Summary of results
+▪
+○
+Phase 0 Review Summary + Pre-Gate 0 Review Summary
+○
+Commercialization Maturity Assessment (CMA)
+○
+RISDA
+○
+Outputs
+MIP Gate 0 review
+○
+Solution Development Charter approval (“go fund and go build” authorization)
+○
+Governance
+Phase Review led by Manager or Project Lead
+○
+Pre-Gate Review led by Director Sponsor
+○
+Gate Review led by Executive Sponsor
+○
+Typical content for Pre-Gate + Gate:
+○
+Phase review recommendations
+○
+Charter
+○
+RISDA
+○
+CMA (current + next-phase target)
+○
+Phase 0
+Wednesday, February 18, 2026
+9:37 AM
+   
+Wiki Page 12
+   
+
+
+===== PAGE 13 =====
+Minimum Deliverables
+Customer + Needs evidence
+MIP-P0-001: Establish Target Customer Personas
+○
+MIP-P0-002: Create Customer Research Plan and Summary
+○
+Commercial path
+MIP-P0-731: Establish Commercialization Plan
+○
+Project / program oversight backbone
+Solution Development Charter activity (shown as Phase 0 charter work)
+○
+MIP-P0-615: Establish Key Project Milestones
+○
+MIP-P0-616: Create Project RISDA
+○
+   
+Wiki Page 13
+   
+
+
+===== PAGE 14 =====
+Example CMA, Phase 3
+CMA
+Wednesday, February 4, 2026
+10:44 AM
+   
+Wiki Page 14
+   
+
+
+===== PAGE 15 =====
+January Priorities
+Business
+Friday, January 9, 2026
+8:07 AM
+   
+Wiki Page 15
+   
+
+
+===== PAGE 16 =====
+Products
+Thursday, January 15, 2026
+8:27 AM
+   
+Wiki Page 16
+   
+
+
+===== PAGE 17 =====
+IQVitals Zone
+Wirelessly connects to PC over BLE
+Uses a USB dongle
+○
+Wired models are also available (USB)
+○
+-
+Control vitals device from touchscreen or from PC software
+-
+Comes with Exergen TemporalScanner thermometer
+-
+Integrates with EMR
+-
+Connects to Midmark 626 Exam Chair to get weight data and control chair position
+-
+Not a good solution if PC is fixed in each room
+-
+Uses same NIBP PCBA as Cor1.0
+-
+Two options: cart or wall mount
+-
+BP Measurements
+"SPRINT" (Systolic Blood Pressure Intervention Trial) protocol
+Specifies 5 minutes of seated rest followed by an average of 3 oscillometric 
+measurements with no observer in the room
+▪
+○
+Custom protocol: customize to reduce start timer, set interval between measurements, 
+more averaging, etc
+○
+-
+Agile Part #'s
+1-200-0310: Non-wireless, no SPO2
+○
+1-200-0320: Non-wireless, Nellcor
+○
+1-200-0330: Non-wireless, Masimo
+○
+1-200-0340: Wireless, no SPO2
+○
+1-200-0350: Wireless
+○
+1-200-0360
+○
+-
+Midmark Digital Vital Signs Device (Zoe)
+Digital Diagnostics
+Tuesday, January 13, 2026
+5:59 AM
+   
+Wiki Page 17
+   
+
+
+===== PAGE 18 =====
+Predecessor to Cor1.0
+-
+Blood pressure, temp, SPO2, pulse rate
+-
+Touch screen
+-
+OEM from company called Zoe, now closing down
+-
+Integrates with IQConnect
+-
+Integrates with EMR
+-
+Connects to Midmark 626 Exam Chair to get weight data and control chair position
+-
+Windows based
+-
+Accessories
+Fairbanks Teleweigh Digital Scale
+○
+Midmark branded BP cuffs
+○
+Thermal printer: printed record of vital signs measurements
+○
+Cart with a basket
+○
+Midmark 6214 Procedure Workstation
+○
+-
+   
+Wiki Page 18
+   
+
+
+===== PAGE 19 =====
+Midmark 800 DVSD (Cor1.0)
+BP Modes
+Averaging: 5 readings. Ignores first and averages next 4.
+○
+Spot: Single reading
+○
+SPRINT
+○
+Custom
+○
+Deflation Method
+Linear: Estimates systolic reading during inflation and then increases 30 mmHg more. 
+Allows to only inflate cuff as much as necessary, preventing discomfort. Linearly 
+deflates at rapid pace and determines systolic and diastolic pressures during that 
+time.
+▪
+Step: User sets maximum inflation pressure. Deflates at preset (configurable) pressure 
+steps. Takes longer.
+▪
+○
+-
+Midmark Digital ECG
+Optional DICOM (Digital Imaging and Comms) upgrade
+Standard for managing, storing, printing, transmitting medical imaging info
+○
+-
+Integrated with EMR and auto sends result to cardiologist CVIS
+CVIS (Cardiovascular Information System): Specialized system for cardiac care
+○
+-
+   
+Wiki Page 19
+   
+
+
+===== PAGE 20 =====
+No integrated display, connects to PC
+-
+Sprio?
+Holter?
+   
+Wiki Page 20
+   
+
+
+===== PAGE 21 =====
+Blood Pressure
+Thursday, January 15, 2026
+11:40 AM
+   
+Wiki Page 21
+   
+
+
+===== PAGE 22 =====
+1) What is blood pressure?
+Blood pressure is the force that circulating blood exerts on the walls of blood vessels. It’s reported as 
+two numbers in millimeters of mercury (mmHg):
+Systolic BP (SBP) — the top number. Pressure when the heart contracts and ejects blood.
+•
+Diastolic BP (DBP) — the bottom number. Pressure when the heart relaxes between beats.
+•
+A related value: Mean arterial pressure (MAP) — an average pressure driving blood through the 
+circulation. Approximate formula:
+MAP ≈DBP + 1/3 × (SBP −DBP)
+2) How BP is measured — two main methods
+A. Auscultatory (manual) method — sphygmomanometer + 
+stethoscope
+You place a cuff around the upper arm (over the brachial artery), inflate it to stop blood flow, then 
+slowly deflate while listening with a stethoscope at the antecubital fossa.
+•
+Korotkoff sounds:
+Phase I: first clear tapping — systolic pressure.
+○
+Phase V: disappearance of sounds — diastolic pressure (used in adults).
+(Phase IV is muffling — sometimes used in special populations.)
+○
+•
+B. Oscillometric (automated) devices
+Most automatic BP monitors detect oscillations in the cuff pressure produced by arterial pulse 
+during deflation. Many calculate mean arterial pressure from the oscillation amplitude and 
+algorithms, then estimate systolic and diastolic from that.
+•
+Advantages: easy, less operator-dependent. Limitations: can be less accurate with arrhythmias, 
+very low or very high pressures, or improper cuff size.
+•
+3) Preparing the patient (keys to accuracy)
+Before measuring, make sure:
+Patient has rested quietly for 5 minutes (no exercise immediately prior).
+•
+No caffeine, smoking, or heavy meal for 30 minutes if possible.
+•
+Seated with back supported, feet flat on floor, legs uncrossed.
+•
+Arm supported at heart level (on table), palm up.
+•
+Remove tight clothing over the arm — cuff directly on bare skin.
+•
+Use an appropriately sized cuff (see next section).
+•
+If possible, avoid talking during measurement.
+•
+4) Cuff size & placement
+Cuff bladder width ≈40% of mid-arm circumference.
+•
+Cuff bladder length ≈80% of arm circumference.
+•
+If cuff is too small → false high readings. If too large → false low readings.
+•
+Place the cuff so bladder center lies over the brachial artery, ~2–3 cm above the antecubital fossa.
+•
+5) Step-by-step: Manual (auscultatory) BP measurement
+Overview
+Thursday, January 15, 2026
+11:38 AM
+   
+Wiki Page 22
+   
+
+
+===== PAGE 23 =====
+Seat and prepare patient as above; support the arm at heart level.
+1.
+Palpate the brachial artery; place stethoscope over it.
+2.
+Inflate cuff to ~20–30 mmHg above the point where the radial pulse disappears (or to ~180 mmHg 
+if unknown).
+3.
+Deflate cuff slowly (≈2–3 mmHg/second).
+4.
+Listen for first Korotkoff sound → record systolic.
+5.
+Continue to deflate until sounds disappear → record diastolic (Phase V).
+6.
+Wait 1–2 minutes; repeat 1–2 more times and average the readings (if used clinically take multiple 
+readings).
+7.
+For accuracy, measure both arms once initially — if substantial difference, use the higher arm for 
+future measurements.
+8.
+6) Using automated devices
+Use a validated device for clinical use (many consumer devices are not validated).
+•
+Use correct cuff size and arm position at heart level.
+•
+Take 2–3 automated readings 1–2 minutes apart and average them.
+•
+Be cautious with arrhythmias — automated devices may be inaccurate.
+•
+7) Interpreting BP (commonly used thresholds)
+Guidelines vary by organization. A commonly used classification (2017 ACC/AHA) is:
+Normal: < 120 / < 80 mmHg
+•
+Elevated: 120–129 / < 80 mmHg
+•
+Hypertension — Stage 1: 130–139 or 80–89 mmHg
+•
+Hypertension — Stage 2: ≥140 or ≥90 mmHg
+•
+Home / daytime ambulatory thresholds: average daytime ABPM or average home BP ≥135/85 mmHg
+is often considered hypertensive (again, thresholds differ by guideline).
+Important: diagnose hypertension on the basis of multiple readings taken on different days, or with 
+ambulatory/home monitoring when needed.
+8) Accuracy problems / common sources of error
+Things that raise readings:
+Cuff too small, arm below heart level, patient talking, anxiety (“white coat”), recent 
+caffeine/smoking/exercise, full bladder.
+•
+Things that lower readings:
+Cuff too large, arm above heart level, deflating too quickly, observer bias.
+•
+Other issues:
+Arrhythmias (AF, PVCs) cause unreliable oscillometric and auscultatory readings. Use manual 
+palpation and consider multiple readings, or an auscultatory technique with experienced observer.
+•
+Measuring over clothing, or with the arm unsupported, increases error.
+•
+9) Special situations
+Orthostatic (postural) BP: measure supine (after 5 min), then standing at 1 and 3 minutes. A drop
+in SBP ≥20 mmHg or DBP ≥10 mmHg within 3 minutes of standing indicates orthostatic 
+hypotension.
+•
+White coat hypertension: elevated office BP but normal out-of-office readings. Consider home or 
+ambulatory monitoring.
+•
+Masked hypertension: normal office BP but elevated out-of-office BP; also detected with 
+ambulatory/home monitoring.
+•
+Children: cuff size and BP norms are age/height dependent — use pediatric tables.
+•
+Pregnancy: special considerations (e.g., preeclampsia assessment) — thresholds and follow-up 
+•
+   
+Wiki Page 23
+   
+
+
+===== PAGE 24 =====
+differ.
+   
+Wiki Page 24
+   
+
+
+===== PAGE 25 =====
+1) The basic physical idea
+When the cuff is inflated above systolic pressure it occludes the artery and there are no pulse-related 
+pressure oscillations in the cuff. As the cuff pressure falls below systolic, pulsatile blood flow returns and 
+small pressure pulses inside the cuff begin to appear. These cuff pressure pulses increase in amplitude 
+as cuff pressure approaches the arterial mean pressure, reach a maximum at MAP, then decrease as the 
+cuff pressure falls further (because the transmural pressure changes and the arterial wall dynamics 
+change). The device measures the cuff pressure and the superimposed oscillations and uses that 
+relationship to estimate MAP, SBP, and DBP.
+2) Hardware and raw signal
+Cuff + bladder transmits arterial pulsations to a pressure transducer.
+•
+Analog front end: pressure transducer → amplifier → anti-alias filter → ADC.
+•
+Sampling rates are usually in the tens to low hundreds of Hz (enough to capture heartbeats and 
+motion artifacts).
+•
+The device collects two things in real time: absolute cuff pressure (slowly changing DC 
+component) and AC component = small oscillations.
+•
+3) Signal processing pipeline (typical)
+Acquire raw cuff pressure Pcuff(t)P_{cuff}(t)Pcuff(t). This contains a slowly varying baseline 
+Pbase(t)P_{base}(t)Pbase(t) plus pulsatile oscillations posc(t)p_{osc}(t)posc(t).
+1.
+Detrend / remove baseline — subtract a low-frequency estimate so only pulsatile content 
+remains (helps remove deflation slope).
+2.
+Bandpass filter the pulsatile signal to keep the cardiac frequency band (typical band ≈0.5–10 Hz; 
+exact edges depend on device). This removes drift and very fast noise.
+3.
+Rectify / envelope detection — take absolute value and low-pass filter or compute peak-to-peak 
+per beat to form an oscillation-amplitude time series. A common approach: detect beat peaks and 
+measure peak amplitude (or compute peak-to-trough). Then associate that amplitude with the 
+cuff pressure at that time.
+4.
+Produce the oscillation envelope: amplitude vs cuff pressure. Interpolate to get a smooth 
+envelope (e.g., spline).
+5.
+Find the maximum amplitude on the envelope → pressure at that maximum = MAP (by 
+convention).
+6.
+Estimate SBP and DBP: find cuff pressures on either side of the MAP where the envelope crosses 
+empirically determined fractions of the maximum amplitude (these fractions are device-
+dependent). Example: if Amax is the max amplitude, find pressure where amplitude rises to R_s × 
+Amax on the inflation/ascending side = SBP; find pressure where amplitude falls to R_d × Amax on 
+the deflation/descending side = DBP. Some algorithms use more advanced regression models 
+rather than single fixed ratios.
+7.
+Quality checks: check beat-to-beat variability, SNR, motion artifacts, too few pulses, arrhythmic 
+beats; flag or discard and repeat if poor quality.
+8.
+4) How SBP and DBP are determined (ratios and 
+algorithms)
+MAP determination (max amplitude) is relatively robust and is the strongest, most device-
+•
+Oscillometric Deep Dive
+Thursday, January 15, 2026
+11:40 AM
+   
+Wiki Page 25
+   
+
+
+===== PAGE 26 =====
+independent step.
+SBP and DBP estimation: classic oscillometric algorithms use fixed amplitude ratios:
+SBP = cuff pressure where envelope rises to R_s × Amax on the ascending side (before 
+MAP), and
+○
+DBP = cuff pressure where envelope falls to R_d × Amax on the descending side (after MAP).
+○
+•
+Typical ratios reported in the literature and device docs vary: R_s commonly ≈0.5–0.7, R_d 
+commonly ≈0.7–0.9. There is no universal standard — many manufacturers tune these via 
+clinical calibration studies (and some use models or look-up tables that depend on heart rate, age, 
+arterial stiffness, etc.).
+•
+Because SBP/DBP require these empirical mappings, different devices can systematically differ vs 
+auscultatory readings.
+•
+5) Important signal/algorithm details & variations
+Deflation vs inflation mode: Most devices measure during deflation (continuous slow deflation). 
+Some measure during inflation (faster, sometimes more comfortable). Algorithms must account 
+for different dynamics.
+•
+Deflation rate: recommended ≈2–3 mmHg/sec for auscultation; many oscillometric devices also 
+use similar rates or step/hold methods. Too fast deflation yields too few samples; too slow is 
+uncomfortable and prone to drift.
+•
+Peak detection: must be robust to missing beats, ectopics, and variable pulse amplitude. Many 
+implementations use beat templates and cross-correlation or adaptive thresholding.
+•
+Envelope smoothing & interpolation: spline or polynomial fits give smoother envelope for 
+threshold crossing calculation.
+•
+Artifact rejection: motion, talking, tremor produce large, noncardiac oscillations. Devices detect 
+sudden irregular peaks, inconsistent RR intervals, or amplitude outliers to reject those beats.
+•
+Beat averaging: many devices average amplitudes from several consecutive beats at each 
+pressure level to reduce beat-to-beat variability.
+•
+Adaptive algorithms: modern devices may adjust the SBP/DBP thresholds depending on patient 
+age, heart rate, waveform shape or arterial stiffness indices.
+•
+6) Practical and clinical limitations
+Arrhythmias (AF, frequent PVCs): beat-to-beat amplitude is irregular → envelope is noisy and 
+SBP/DBP estimates can be inaccurate. Many devices either flag the measurement as unreliable or 
+attempt robust averaging / outlier rejection (but accuracy remains limited).
+•
+Low perfusion (cold extremities, shock): oscillation amplitudes are small → poor SNR and 
+increased error.
+•
+Motion artefact: patient movement is a major cause of error.
+•
+Arterial stiffness / atherosclerosis / elderly: waveform shape changes; amplitude envelope may 
+be flattened or shifted, causing systematic bias. Oscillometric devices can overestimate SBP or 
+underestimate DBP in stiff arteries.
+•
+Cuff misfit (too small / too large / wrong placement) still affects oscillometric devices the same 
+way as auscultatory.
+•
+Obesity: cuff fit and effective bladder dimensions change readings.
+•
+Pediatrics & neonates: small-amplitude pulses and need special cuffs — many oscillometric 
+devices are not validated for infants.
+•
+Calibration & validation: device accuracy depends on clinical validation (AAMI/ESH/ISO 
+protocols). Unvalidated consumer devices can be quite inaccurate.
+•
+7) Clinical comparison to auscultation
+Oscillometric devices directly estimate MAP (the strongest signal) — this is why MAP estimates 
+are often reasonably accurate across devices.
+•
+   
+Wiki Page 26
+   
+
+
+===== PAGE 27 =====
+SBP and DBP are indirect estimates and vary with the algorithm, so agreement with auscultation 
+varies. In practice oscillometric SBP tends to be slightly higher and DBP slightly lower in some 
+devices, but this isn’t universal. Therefore validated devices are essential for clinical use.
+•
+8) Validation and standards
+Clinical accuracy is judged by standards such as AAMI/ANSI, European Society of Hypertension (ESH)
+protocols, and ISO 81060-2 (device validation for non-invasive sphygmomanometers). Always choose a 
+device that has passed a recognized validation standard for the population you’ll be measuring.
+9) Practical tips for best oscillometric readings
+Use a validated device (check published validation studies).
+•
+Use the correct cuff size, arm at heart level, seated, rested.
+•
+Avoid motion and talking.
+•
+For arrhythmias, try multiple measurements and consider manual/auscultatory check if possible.
+•
+If readings are unexpectedly abnormal, remeasure after repositioning and confirming cuff fit; use 
+ambulatory/home monitoring if needed.
+•
+10) Advanced / research topics (brief)
+Model-based estimation: rather than fixed ratios, some devices use machine-learning or 
+parametric models that estimate SBP/DBP from entire waveform features (pulse shape, slope, 
+harmonics).
+•
+Pulse transit time (PTT) and cuffless methods: research into estimating BP from PTT and PPG 
+(plethysmoggraphic, ie SPO2). These are not yet standard replacements for cuff methods clinically.
+•
+Arterial stiffness indices: features of the oscillation waveform relate to arterial compliance and 
+can be extracted for research/diagnostics.
+•
+   
+Wiki Page 27
+   
+
+
+===== PAGE 28 =====
+Top-level block diagram (conceptual)
+Cuff & tubing (mechanical)
+1.
+Pneumatic subsystem — pump, reservoir, valves, pressure relief
+2.
+Pressure sensing — pressure transducer(s) + analog front end
+3.
+Optional physiological sensors — PPG (SpO₂/pleth), ECG, accelerometer
+4.
+Analog front end (AFE) — amplifiers, filters, ADCs
+5.
+Controller & firmware — MCU/SoC running measurement algorithm
+6.
+Power & safety — battery, charger, isolation, power management
+7.
+User interface & communications — display, buttons, LEDs, USB/Bluetooth/EMR
+8.
+Mechanical/packaging & service — connectors, quick-release, calibration port
+9.
+Below I unpack each block in detail.
+1) Cuff and tubing (mechanical)
+Cuff bladder: inflatable rubber or PVC bladder sized for adult/pediatric arms (bladder width ≈40% 
+arm circumference, length ≈80%). Multi-size cuffs are supplied.
+•
+Outer cuff shell: fabric/frame to hold bladder, Velcro closure, printed sizing.
+•
+Tubing & connectors: flexible hose (often 3–6 mm ID) with quick-connect fittings to console. 
+Longer tubing increases damping and delays; many designs keep tubing short.
+•
+Hardware features: cuff pressure port, pressure-relief strap, reinforced seams; connectors may be 
+keyed for pediatric vs adult.
+•
+Design notes: Cuff size and bladder geometry critically affect accuracy — device IFU specifies 
+recommended cuffs and warnings for wrong size.
+2) Pneumatic subsystem
+This is the “air” side that inflates/deflates the cuff.
+a. Pump (inflation)
+Types: miniature diaphragm (membrane) pump, piston pump, or micro-blower.
+•
+Requirements: must inflate cuff to target pressure (often up to 250–300 mmHg) within a few 
+seconds (e.g., 3–10 s). Typical pump flow is a few hundred mL/min to several L/min depending on 
+cuff volume.
+•
+Implementation: small DC motor with diaphragm/plenum or piezo/brushless micro pumps. For 
+continuous finger-cuff or CNAP systems pumps must be faster and more responsive.
+•
+b. Valves (deflation/control)
+Solenoid valve (on/off): common and low cost. Deflation rate is controlled by pulsed operation 
+(PWM) or duty cycle control.
+•
+Proportional valve: provides continuous, smoothly variable orifice for precise deflation control 
+(preferred for high-precision/continuous systems).
+•
+Check valves / one-way valves: prevent backflow into pump and protect components.
+•
+Pressure relief / over-pressure valve: mechanical safety to open above a set pressure.
+•
+c. Reservoir / plenum (optional)
+Small internal volume to smooth pump output and reduce pulsation.
+•
+d. Tubing routing & quick release
+Quick-disconnect with automatic shutoff is common to prevent sudden loss of cuff pressure.
+•
+Design notes: Deflation must be controlled (≈2–3 mmHg/s for standard measurements) or performed in 
+discrete steps for step-deflation devices. Proportional valves give best control and reduce oscillatory 
+artifact; solenoids are cheaper.
+Oscillometric Hardware
+Thursday, January 15, 2026
+11:52 AM
+   
+Wiki Page 28
+   
+
+
+===== PAGE 29 =====
+3) Pressure sensing
+a. Pressure transducer(s):
+Type: piezoresistive (silicon), piezoelectric (less common), or capacitive MEMS gauge. 
+Piezoresistive MEMS is typical.
+•
+Range: 0–300 mmHg typical; some devices spec 0–400 mmHg.
+•
+Accuracy: clinical devices aim for ±2–3 mmHg accuracy (or better) and low nonlinearity.
+•
+Resolution: device target is typically 1 mmHg readout resolution; ADC resolution and analog gain 
+must support that (see AFE).
+•
+Placement: usually in console near pump. Some designs integrate transducer near cuff connector 
+for reduced tubing effects.
+•
+b. Sensor considerations
+Temperature drift: need temperature compensation or digital calibration.
+•
+Linearity & hysteresis: good sensors have small hysteresis and predictable linearity.
+•
+Response time: should be fast enough to capture oscillations (bandwidth up to ~10 Hz or more).
+•
+c. Differential vs absolute pressure
+Devices usually measure gauge pressure relative to ambient. Some AFE implementations measure 
+absolute and subtract ambient or use differential sensors.
+•
+4) Optional physiological sensors (commonly integrated)
+PPG / SpO₂ sensor (finger probe): LEDs (red & infrared), photodiode, transimpedance amplifier, 
+ambient light cancellation. Used for pulse rate and plethysmogram (for PTT, artifact detection, 
+fusion).
+•
+ECG leads (3-lead commonly): for R-peak timing (PAT) or arrhythmia detection. Requires patient 
+isolation circuitry and right-leg drive.
+•
+Accelerometer / motion sensor: detect motion to reject corrupted beats.
+•
+Microphone / phonocardiogram: sometimes used to detect heart sound (S1/S2) or valve opening.
+•
+Tonometry/pressure sensor (for specialized devices).
+•
+Design notes: If implementing ECG/PPG the AFE and electrical isolation (IEC 60601) requirements 
+become stricter.
+5) Analog front-end (AFE) & data acquisition
+a. Pressure AFE
+Instrumentation amplifier or sensor bridge excitation circuit for piezoresistive sensors.
+•
+Low-drift op amps for sensor excitation and conditioning.
+•
+Anti-aliasing filter (analog low-pass) before ADC.
+•
+ADC: 12–24 bit depending on design. For pressure oscillation detection, a 12–16 bit ADC sampled 
+at 50–200 Hz is common. Higher resolution helps with small oscillation amplitudes.
+•
+b. PPG AFE
+Transimpedance amplifier (TIA) to convert photodiode current to voltage.
+•
+Programmable LED drive currents, synchronous detection (LED multiplexing) to reject ambient 
+light.
+•
+Bandpass / filter (0.5–8 Hz typical).
+•
+ADC: 12–16 bit, sampling 100–500+ Hz (higher if you want precise PTT timing).
+•
+c. ECG AFE
+Instrumentation amplifier, right-leg drive, high common-mode rejection, notch filter for mains 
+(50/60 Hz), sampling 250–1000 Hz.
+•
+Isolated inputs and patient protection circuits.
+•
+d. Microcontroller / ADC considerations
+MCU with DMA, timers, and sufficient CPU for DSP (filtering, envelope detection). Some designs 
+use a separate DSP or Cortex-M family SoC.
+•
+   
+Wiki Page 29
+   
+
+
+===== PAGE 30 =====
+6) Controller & firmware
+Microcontroller / SoC: runs the measurement sequence (inflate/deflate), reads ADCs, runs 
+oscillometric algorithms (detrend, bandpass, envelope, MAP/SBP/DBP derivation), handles UI and 
+communications.
+•
+Real-time control loop: controls pump/valve to achieve target pressure and deflation profile. 
+Closed-loop pressure control (from pressure sensor) is typical.
+•
+Memory: flash for firmware, RAM for data buffers; nonvolatile storage for logs and patient 
+reports.
+•
+Real-time clock: timestamp measurements for EMR transfer.
+•
+7) Power, battery & isolation
+AC mains adaptor and internal power supplies (SMPS). Isolation and leakage current limits per IEC 
+60601-1 (medical safety).
+•
+Battery: Li-ion pack + battery management system (charging IC, fuel gauge) for portable devices; 
+battery must meet safety standards.
+•
+Isolation: patient-connected circuitry must be electrically safe (BF applied part). Isolation barriers 
+between mains and patient circuits are required.
+•
+Surge & EMI protection: design to meet EMC requirements (IEC 60601-1-2).
+•
+8) Example parts / component types (for an engineer)
+Pressure sensor: MEMS piezoresistive gauge 0–300 mmHg (gauge).
+•
+Pump: miniature diaphragm pump (DC) with ~1–5 L/min peak.
+•
+Valve: 2-port solenoid valve or proportional microvalve (pneumatics).
+•
+MCU: ARM Cortex-M4/M7 or a small SoC with DSP for real-time filtering.
+•
+ADC: 12–24 bit SAR or delta-sigma depending on sensor and bandwidth.
+•
+Op-amps: low-noise, low-drift instrumentation op amps for sensor conditioning.
+•
+LED/PD: For PPG, high-efficiency IR and red LEDs and a PIN photodiode or APD.
+•
+Accelerometer: 3-axis MEMS for motion detection.
+•
+   
+Wiki Page 30
+   
+
+
+===== PAGE 31 =====
+Rick Schuman
+Background
+InDesign (Indianapolis)
+○
+Various medical devices
+○
+-
+CI/CD/DevOps Experience
+Most extensive use was Steamscape product
+Confluence
+▪
+Git server
+▪
+Azure Pipeline
+Unit Tests
+□
+Involved with planning
+□
+▪
+Feature branches
+Code review before merge
+□
+▪
+○
+Used Jira, Trello
+○
+Used to scrum, agile
+○
+Not used Bamboo but heard of it
+○
+-
+Verification
+Glucose meter
+Wrote unit tests to meet requirements
+▪
+Hazard analysis
+▪
+○
+Zigbee gateway
+○
+Mostly unit test level, not system/functional
+○
+-
+Hardware
+Used a lot of different microprocessors
+○
+NXP for Linux/Android BSPs
+○
+Logic analyzer (saleae, joule scope)
+○
+FW part of PCB review process
+○
+-
+Complex project you're proud of
+Sanhave and go
+Air quality detection
+▪
+Algorithm developed by company but all coding 
+was given to InDesign
+▪
+Led team of developers
+Lot of turnover throughout project
+□
+▪
+Customer requirements were sparse
+▪
+Multiple micros (ESP, Microchip main)
+▪
+Cost was a big factor
+▪
+Every peripheral under the sun
+Audio codec
+□
+LED driver
+□
+Cap touch
+□
+▪
+15 min check-in every day
+▪
+Regular check-ins with partners (EE)
+▪
+○
+-
+IEC 62304
+Not familiar with standard
+○
+Checksums
+○
+Secure boot
+○
+-
+FW Senior
+Thursday, January 8, 2026
+12:22 PM
+   
+Hiring Page 31
+   
+
+
+===== PAGE 32 =====
+Logs
+○
+Mitigations
+○
+Dev Phases
+○
+Figure out requirements first before writing any code
+○
+"Federated design"
+Block diagrams to split out features
+▪
+Isolate changes to "modules"
+▪
+○
+UML diagrams
+○
+Not familiar with the term Fault Tree Analysis but has 
+worked through risks and coding analyses
+○
+Wireless security
+BLE
+By default unencrypted but does give option to 
+request different levels of security
+▪
+Simple key exchange
+Safe only if no one is listening at the 
+beginning
+□
+▪
+BLE 5.0 allows for diffe-hellman
+▪
+Security on top of BLE (application level). ChaCha
+▪
+Prevent man-in-the-middle
+▪
+○
+WiFi
+Not as much experience
+▪
+Used Digicert to sign certs and load into device
+▪
+○
+-
+Why Midmark?
+Really enjoys InDesign
+○
+Startup clients try to cut cost. Bare minimum designs
+○
+Interested in long term code development
+○
+Start to finish project
+○
+Spoke with Nick and Jeff
+○
+-
+   
+Hiring Page 32
+   
+
+
+===== PAGE 33 =====
+FW III
+Thursday, January 8, 2026
+12:22 PM
+   
+Hiring Page 33
+   
+
+
+===== PAGE 34 =====
+Candidates
+Clay Mangette
+Applied 7/13/25
+○
+Lives in New York
+○
+Bethany says she phone screened, not sure when
+○
+6 years industry experience
+○
+Experience: Raymond Corp, Lockheed
+○
+-
+Gene Norris
+Applied on 12/29/25
+○
+Lives in Athens, OH
+○
+32 years industry experience
+○
+Currently at Global Cooling (industrial freezers)
+○
+Resume lists medical, but I don't see any medical companies
+○
+Certainly sounds like a capable engineer
+○
+Bethany says technical depth is not there
+○
+Pass
+○
+-
+Rajaram Munusamy
+Applied on 1/5
+○
+Lives in New Jersey
+○
+20 years experience
+○
+Has been working on lab diagnostic medical devices
+○
+Bethany will setup interview with me
+○
+-
+Kristopher Desrochers
+Lives in Maineville
+○
+26 years experience 
+○
+Experience: Prodigy, Apex, Nuvation
+○
+Plenty of good EE experience. No medical.
+○
+Bethany will setup interview with me
+○
+-
+Zuhair
+Nick interviewed and passed
+○
+-
+Kristopher Desrochers
+Background
+Has done some AI/machine learning, but not much since most of his work needs to be 
+deterministic
+○
+Nuvation
+Very high end electronics
+▪
+Worked on 3D projectors
+▪
+Got a lot of experience with high speed design
+▪
+Worked on some medical stuff here (eye exam device, medical temp regulator, UI 
+boards for medical devices, pump control for dialysis)
+▪
+Usually got very well defined requirements from customers
+▪
+Has done in depth DFMEA, PMEA, risk analysis
+▪
+Did some mechanical enclosures
+▪
+○
+Apex
+○
+-
+2026 - EE Senior
+Thursday, January 8, 2026
+12:23 PM
+   
+Hiring Page 34
+   
+
+
+===== PAGE 35 =====
+Worked for Jamie Allen
+▪
+Prodigy
+Design services
+▪
+Laser eye surgery for J&J
+▪
+○
+Has green card
+○
+Altium is preferred tool
+○
+Component selection: Tell me about your component selection process. Specifically, consider a 
+microcontroller.
+-
+Obsolescence: If you have a MOSFET in an existing design that is going obsolete, how would you 
+go about selecting a replacement part?
+Go to field app engineer first and look for recommended alternate
+○
+Likes to have good relationships with chip vendors
+○
+Go to Avnet/Arrow for cross-referencing
+○
+Gate and drain voltages
+○
+Gth
+○
+Drain current is high enough
+○
+Leakage (gate)
+○
+Gate capacitance (too high makes a low pass filter)
+○
+-
+EMC: Can you tell me some general best practices or strategies during PCB design for minimizing 
+risk of EMC failures?
+Book "right the first time"
+○
+Don't split ground planes
+○
+Don't plop down ferrite beads unless you know what you're doing
+○
+Protect any user/tech input for ESD
+○
+Termination on buses (clocks especially)
+○
+Bypass caps on ICs (smaller + bulk). Placement is critical.
+○
+Segregate digital and sensitive analog
+○
+Ground planes with power planes (big capacitor)
+○
+Driver close to choke and connector
+○
+Did EMC testing a lot with CTS. Hasn't done it in a while.
+○
+-
+Troubleshooting: See ppt
+-
+Isolation: You're designing electrical isolation for a patient-facing touchscreen + sensors in a 
+battery-powered medical device that may be charged from an external AC→DC adapter.
+-
+Describe your approach to ensuring patient safety through appropriate isolation requirements.
+Has used isolation for digital buses (IR)
+○
+Transformers
+○
+Doesn't seem to know about medical leakage current
+○
+Creepage and clearance
+○
+Battery powered devices
+Asked about testing
+Plotted time vs drain curve
+▪
+○
+-
+Free time
+Designing and building things
+3D printers, laser cutters, milling machines
+▪
+○
+-
+Rajaram Munusamy
+Background
+-
+   
+Hiring Page 35
+   
+
+
+===== PAGE 36 =====
+Medical systems development
+○
+NPD and sustaining
+○
+Siemens for 17 years
+○
+Currently electrical change leader
+Changes to existing products (field issues, cost reductions)
+▪
+○
+Started working on customer requirements
+○
+Battery experience
+○
+Been to Intertek for EMC testing
+○
+Done a little C. Nothing production level.
+○
+Can solder small components
+○
+Comfortable with wearing a lot of hats and doing different things
+○
+Component selection: Tell me about your component selection process. Specifically, 
+consider a microcontroller.
+Clock speed
+○
+Memory, internal or external, dual port RAM?
+○
+Input/Outputs. How many? I/O expander is a possibility
+○
+Timers/counters
+○
+Interfaces: I2C to battery, discrete, SPI, RS-232, CAN
+○
+-
+Obsolescence: If you have a MOSFET in an existing design that is going obsolete, how 
+would you go about selecting a replacement part?
+N/P channel
+○
+Gate capacitance
+○
+Drain voltage rating (choose double applied)
+○
+Current rating (Ids)
+○
+Rds
+○
+Package
+○
+Find Chips, Google, Chat GPT
+○
+-
+EMC: Can you tell me some general best practices or strategies during PCB design for 
+minimizing risk of EMC failures?
+If wires are not close together, create loop and radiate
+Re-route to prevent loop
+▪
+○
+Ground reference for current path (avoid slots)
+Drew a picture for me
+▪
+○
+Keep power and ground layers close together. Create capacitance.
+○
+Ground plane for each signal layer
+○
+-
+Troubleshooting: See ppt
+Check correct USB driver
+○
+Check USB cable, continuity
+○
+Check power (LED). Use multimeter.
+○
+Check USB compatibility (USB3?)
+○
+Check clock
+○
+Check I2C lines
+Logic analyzer
+▪
+○
+Check USB signaling
+○
+How check micro?
+Blink LED?
+▪
+If using external memory, check those lines
+▪
+○
+-
+Isolation: You're designing electrical isolation for a patient-facing touchscreen + sensors 
+in a battery-powered medical device that may be charged from an external AC→DC 
+adapter. Describe your approach to ensuring patient safety through appropriate isolation 
+requirements.
+MOOP, MOP
+○
+-
+   
+Hiring Page 36
+   
+
+
+===== PAGE 37 =====
+Different limits for operator vs patient
+▪
+Conductive "dirt" can connect to conductors
+○
+Conductors required to be separated
+○
+If you apply voltage on one side, how much shows up on other
+○
+Leakage current
+Touch instrument
+▪
+Unclear what he said further
+▪
+○
+PCB Design
+Generally had separate team do this
+○
+Mentor Graphics
+○
+Has worked on 1G LVDS interface
+Small trace length
+▪
+No 90 deg turn
+▪
+Termination
+▪
+○
+-
+Battery powered devices
+-
+Questions
+What is team responsible for?
+○
+-
+   
+Hiring Page 37
+   
+
+
+===== PAGE 38 =====
+Competencies
+MBSE
+-
+Use cases
+-
+User needs -> System Requirements
+-
+System verification
+-
+Device to device 
+-
+Gina Fasano
+Background
+Aerospace bachelors
+○
+Test engineer at boeing for most of early career
+○
+Ottava
+Started with endocutter
+▪
+Moved to HAT
+▪
+Accessories
+▪
+System releases
+▪
+○
+-
+MBSE
+Used for fluid ingress
+Modeled all the different scenarios/steps in procedure or after procedure where 
+fluid exposure could be an issue
+▪
+Used activity diagrams
+▪
+○
+-
+Marketing/Engineering tradeoffs
+Use analysis to support decision making
+○
+-
+Experience pulling teams together to define architecture
+-
+Experience with SW dev
+Worked on Ottava SW requirements
+○
+Worked with Epic team on ECSS requirements
+○
+Clearly little technical understanding of EE/SW
+○
+Felt like wrong person to write SW requirements
+○
+Little bit of modeling on the interface. Described as "flow chart" or inputs/outputs
+○
+-
+Cybersecurity
+No experience. On development plan.
+○
+-
+ICD
+Didn't own ICD at J&J, but owned decomposition
+○
+-
+Convert ambiguous customer needs to requirements
+Benchmarking
+○
+Some other stuff
+○
+-
+Gina Questions
+How has culture accepted systems engineering?
+○
+-
+What is your approach to developing system requirements so they are clear enough for software 
+teams, test teams, and downstream integration teams to execute effectively?
+-
+Give an example of when you found that requirements were incomplete, ambiguous, or 
+conflicting late in development. How did you handle it?
+-
+Tell me about a time you aligned multiple technical teams around a system-level decision when 
+they had competing priorities. What did you do, and what was the outcome?
+-
+How do you build credibility and influence with software, hardware, test, and product teams 
+when you do not directly manage them?
+-
+Describe a situation where software constraints significantly affected system architecture or 
+product requirements. How did you help the teams work through it?
+-
+What role do you think a Staff Systems Engineer should play in Agile ceremonies such as backlog 
+refinement, sprint planning, and retrospectives?
+-
+Tell me about a time when a software team was moving quickly, but system-level risks or 
+dependencies were not being surfaced clearly. How did you intervene?
+-
+How do you ensure interface definitions and system behaviors are understood consistently 
+across teams, especially when software is being developed in parallel with other disciplines?
+-
+Jamie Allen
+Ritesh
+Background
+Sort of startup for a while (Viro Biotech)
+Nirtric oxide to neonates
+▪
+○
+Mammotome
+○
+Has not used modeling tools
+○
+No wireless experience
+○
+-
+Flow of systems for product and his role
+-
+2026 - Staff Systems
+Wednesday, January 21, 2026
+8:28 AM
+   
+Hiring Page 38
+   
+
+
+===== PAGE 39 =====
+Cancer probe (20 yr old product looking to improve)
+○
+Gathering user needs
+○
+Software/Firmware
+Has written firmware
+○
+Algorithms for nitric oxide delivery
+○
+Wrote SW requirements
+○
+-
+Questions for us
+What does success look like
+○
+-
+   
+Hiring Page 39
+   
+
+
+===== PAGE 40 =====
+Andrew Dilley
+Background
+BME background
+○
+K-scope
+Design lead for medical devices
+▪
+○
+What drew to Midmark
+Wants to go back to quality
+▪
+People-centric, looking for collaborative environment
+▪
+○
+Likes working with data/analyses
+○
+Certs on data analysis
+6 sigma yellow belt
+▪
+○
+-
+ME/SE/EE understanding
+ME solid
+○
+EE comfortable
+○
+SW comfortable
+Comfortable with python, matlab, labview
+▪
+Mostly test equipment, hasn't worked with a medical device with embedded FW
+▪
+○
+-
+QMS
+Usually used client QMS but not always
+○
+Has authored K-scope QMS documentation
+SW Validation Protocol
+▪
+○
+-
+FMEA
+Has led filling these out
+○
+Team effort to build out
+○
+Relied on EE/SW depts for SME input
+○
+-
+Give me an example of a time there was a disagreement between quality and design teams. How 
+did you handle this and how was it resolved?
+Approach analytically. Sit down with design.
+○
+Assume anything is up for change
+○
+Example
+Drug device inject into eye
+▪
+Hazard analysis
+▪
+○
+-
+How challenge principal engineer SME?
+1:1 meeting
+○
+Walk through thought process
+○
+Be prepared
+○
+No issue with challenging others
+○
+-
+Has received feedback that he can be intense, not necessarily negative
+-
+Can you tell me about a time you had incomplete data or understanding but still had to make a 
+quality decision?
+Eye injection devices
+○
+Spent a lot of time in and out of work learning about anatomy, devices, etc
+○
+Meet with someone who has experience 
+○
+-
+Give me an example of a time a late identified risk changed the design or architecture of a 
+-
+2026 - Quality Senior
+Monday, January 26, 2026
+7:40 AM
+   
+Hiring Page 40
+   
+
+
+===== PAGE 41 =====
+product?
+Tell me about your experience with software development. How do you ensure software risks are 
+adequately controlled?
+-
+For a critical supplier, what does good enough supplier quality evidence look like to you?How do 
+you decide when a quality activity is necessary for compliance or patient safety versus when it's 
+just overengineering or being overly risk-adverse?
+-
+Example of being in a minority position
+-
+Jonah Campbell
+Intro
+Currently at Baxter. Make IV bags.
+○
+Typical day/week:
+Understand mfg issues (quality, efficiency, etc)
+▪
+On the floor talking to operators every day
+▪
+Have driven CAPAs in the past, but not right now
+▪
+Most difficult part of role: pulled in a lot of directions. Which fire today?
+▪
+○
+-
+How do you achieve buy-in?
+Safety jumps to top of the list
+○
+Financials (production efficiency, scrap)
+○
+Put together business case
+○
+-
+Give me an example of a time there was a disagreement between quality and design teams. How 
+did you handle this and how was it resolved?
+FDA Audit. Visual inspection observation in mfg. 
+○
+Redesign during visual inspection change.
+○
+Design wanted to do inspection during packaging. 
+○
+Would be easier to see during filling.
+○
+Based on studies (GR&R), placed in filling. Not loved by everyone. 
+○
+-
+SW/Electronics
+Limited experience with electronics from internship at Medtronic.
+○
+Limited SW
+○
+How would you supplement lack of knowledge?
+Study standards
+▪
+Ask a lot of questions
+▪
+○
+Would you be comfortable leading SW/EE FMEA
+Have FMEA experience
+▪
+Draw in technical experience from others
+▪
+○
+-
+Example of being in a minority position
+Having a conservative viewpoint can save a life
+○
+Risk-based
+○
+-
+Tools for assessing risk
+AQL 
+○
+Anything related to a leak (IV bag) is held to the highest standard.
+○
+-
+Strongest ability
+Building relationships
+○
+-
+Things working on
+FDA audits
+○
+Communicating effectively, including reasoning behind decisions
+○
+Getting a little better every time
+○
+-
+Give me an example of a time a late identified risk changed the design or architecture of a 
+product?
+-
+Tell me about your experience with software development. How do you ensure software risks are 
+adequately controlled?
+-
+   
+Hiring Page 41
+   
+
+
+===== PAGE 42 =====
+For a critical supplier, what does good enough supplier quality evidence look like to you?
+-
+Can you tell me about a time you had incomplete data or understanding but still had to make a 
+quality decision?
+-
+How do you decide when a quality activity is necessary for compliance or patient safety versus 
+when it's just overengineering or being overly risk-adverse?
+-
+   
+Hiring Page 42
+   
+
+
+===== PAGE 43 =====
+Seth Butler, P.E.
+Excellent senior mechanical engineer with regulated and medical-adjacent experience.
+Strong hands-on mechanical design, FEA, test fixture development, and DFM/DFMA across medical, 
+industrial, and defense systems. Demonstrated technical leadership and mentoring; slightly more test-
+equipment-centric than product-owning, but still a strong senior contributor.
+Phone screen 2/20
+Decent interview. No med device.
+○
+-
+Sumanth Kuntla
+Best overall fit for the role.
+10+ years in FDA-regulated medical devices spanning R&D, manufacturing, quality, supplier 
+management, and validation, with direct ownership of DHFs, DFMEA/PFMEA, V&V, and design transfer. 
+Brings exactly the kind of cross-functional leadership and reliability mindset needed for a senior 
+mechanical lead in diagnostics.
+Willing to relocate
+-
+Thought we did catheters…
+-
+Currently a contractor, not available until 3/15
+-
+Had drafters do most CAD works
+-
+Arvind Muthukumur Subramanian
+Senior medical device product development engineer with hands-on ownership of Class I and II 
+electromechanical devices from VOC and concept through FEA, prototyping, V&V, design transfer, and 
+production. Strong fit for a senior IC role in regulated environments, with proven experience in IEC 
+60601, ISO 13485, FDA design controls, cost reduction, CAPA, and cross-functional technical leadership.
+Might not be ready for senior
+-
+Needs H1B visa
+-
+Comfortable with python, arduinos, etc
+-
+Good, not "wow"
+-
+Rakesh Pemmada
+Strong R&D engineer in regulated medical devices with advanced manufacturing depth.
+Solid experience in implantable devices, additive manufacturing, polymers, FEA, and ISO 13485/FDA 
+design controls. Very capable technically; slightly more materials/process-focused than system-level 
+mechanical product leadership, but still a strong candidate.
+Phone screen 2/18
+Contractor at Stryker
+○
+-
+2026 - ME Senior
+Monday, February 9, 2026
+8:56 AM
+   
+Hiring Page 43
+   
+
+
+===== PAGE 44 =====
+Chris O'Brien
+Background
+Lot of aerospace (GE, Northrup)
+○
+C#, Java, Python, etc
+○
+-
+Quality by design
+-
+2026 - SW Architect
+Friday, March 6, 2026
+12:30 PM
+   
+Hiring Page 44
+   
+
+
+===== PAGE 45 =====
+Direct Report 1:1
+Tuesday, January 13, 2026
+6:03 AM
+   
+Meetings Page 45
+   
+
+
+===== PAGE 46 =====
+2/26/26
+Compensation
+Due to bonus incentive package in May, no merit increase
+○
+-
+Jama review
+-
+Schematic update/review
+Nelson to schedule the week of the 9th
+○
+-
+CS Known Issues
+-
+Critical component list
+Drawings, datasheets
+○
+-
+1/14/26
+We use Altium
+Irvine has dedicated floating licenses (do we need to combine)
+○
+-
+Been at Midmark for 4 years
+-
+Started working before requirements were set
+-
+Corscience only sent design files after they were complete and built
+-
+Nelson has made changes to main board
+Mounting hole fixes
+○
+Changed connector board mounting to improve assembly
+○
+-
+Background
+Abbott Vision for a few years
+○
+J&J Vision for 1.5 years
+○
+Always in California 
+○
+-
+Married with 3 kids: 11 and 9 year-old twins
+-
+Rarely going to lab now
+Simulator, ESD gun, calibrated equipment are only reasons to go to lab
+○
+-
+Difficult to travel end of January
+-
+February could probably work. Week of the 9th.
+-
+Nelson
+Tuesday, January 13, 2026
+6:03 AM
+   
+Meetings Page 46
+   
+
+
+===== PAGE 47 =====
+3/18/26
+Sen will set up Cor 2.0 meetings
+-
+2/19/26
+Scheduled time with Nick tomorrow to cover a few questions from 
+Yuri
+-
+Working on getting up to speed with existing best Agile ADO/Agile 
+practices
+-
+2/3/26
+Will own meisterplan once everything is fully up and running at end 
+of Feb.
+-
+1/16/26
+Why not on Cor1.0?
+-
+Bio
+Lives in Mason, near Atricure
+-
+From East India
+-
+Married with one kid (2.5 years old girl)
+Goes to Kam day care
+○
+-
+Started working with Depuy from India in 2009, mostly lived in US since 2013
+-
+Soumajit
+Tuesday, January 13, 2026
+6:04 AM
+   
+Meetings Page 47
+   
+
+
+===== PAGE 48 =====
+2/19/26
+Clinical study
+Safety valve issue
+Triggers at 290 mmHg, shouldn't be getting above 210 mmHg
+▪
+No idea how this could happen
+▪
+Radouane doesn't think a safety valve trip goes in the log
+▪
+No warning or indication that inflation isn't occurring
+We should fix this!
+□
+▪
+○
+First set of 15 data looks pretty good
+One outlier for squirmy kid
+▪
+○
+Currently preparing report for FDA
+May or may not provide Parameters report to FDA
+▪
+○
+-
+Performing some kind of NIBP reliability testing…?
+-
+Talked compensation update (lump sum)
+-
+2/3/26
+Lives in San Diego
+-
+Had box of equipment labeled Radouane
+Welltech BP simulator was most important
+Used to be at his house
+▪
+Why different from Fluke?
+Automation
+□
+Replay data
+□
+▪
+○
+-
+Reva
+Gave toulan data
+○
+Waiting on dev kit from Toulan
+○
+What are thoughts?
+Promising
+▪
+Usability is an issue (keeping stethoscope pressed against skin)
+▪
+○
+-
+1/14/26
+BP algorithm
+-
+Have to do a lot of clinical testing for these algorithms
+Variability and environmental factors cause common failures
+○
+What is the standard IEC 80601 (maybe, might have missed numbers)
+○
+-
+Helps with clinical study protocols and reviews
+-
+Opportunities for improvement
+Mitigate motion artifacts
+Use SPO2 to measure blood pressure? Apple watch working on this.
+▪
+○
+Speed of measurement
+○
+Number of cuffs
+○
+-
+Cor1.0 detects type of cuff attached with 92% accuracy. More to do here.
+-
+Doesn't think Reva is for doctor office. They don't care that much about accuracy here. Might be good in a hospital 
+setting for specific situations.
+-
+Out of memory on Cor1.0 NIBP board for further algorithm improvements
+-
+Typically not writing embedded code. Using MATLAB.
+-
+Was in Versailles in September. Can't travel now. March might work.
+-
+Bio
+Lives in San Diego
+-
+Always been remote
+-
+Research scientist, algorithm design
+-
+Midmark for 7 years
+-
+Radouane
+Wednesday, January 14, 2026
+2:01 PM
+   
+Meetings Page 48
+   
+
+
+===== PAGE 49 =====
+2/26/26
+Compensation
+Reza pointed out the severance agreement letter does specifically state they ARE eligible for 
+merit increase
+○
+-
+NIBP Pipeline
+Repo is currently under a different project
+○
+Unclear where NIBP source is. Sounds like we need to migrate to the 
+Diagnostic_Engineering_Yocto
+○
+-
+Jama Reviews
+Started looking
+○
+-
+Working on ECO
+-
+Jeromy meetings
+-
+1/16/26
+Midmark since 2019
+Hired for Zone device
+Worked on main board
+▪
+NIBP module designed by different group
+▪
+○
+-
+Worked on all digital diagnostics devices
+-
+Worked on latest version of Spiro over Covid
+Project cancelled and we pulled out of the market
+○
+-
+Cor1.0
+NIBP firmware and tester
+Corscience did not write any of the NIBP code
+▪
+○
+Refactored code
+○
+-
+Now
+Heart rate showing up without good blood pressure measurement on NIBP tester
+Debugging this
+▪
+○
+Build pipeline for NIBP firmware
+○
+-
+NIBP safety processor
+Monitors independent pressure sensor
+○
+Timer starts when pressure gets higher than 15 mmHg. If it stays above this threshold for 
+2.5 minutes, open release valve.
+○
+Also opens valve in over-pressure condition (290 - 300 mmHg)
+○
+-
+Reza
+Friday, January 16, 2026
+2:00 PM
+   
+Meetings Page 49
+   
+
+
+===== PAGE 50 =====
+2/26/26
+Compensation
+-
+Cor2.0
+Johnny thinks we still need the NIBP safety processor. Didn't catch why.
+○
+-
+Doesn't have access to Jama
+-
+1/16/26
+Medical EE for 15 years
+-
+Analog, high speed digital
+-
+Little microcontroller coding
+-
+Midmark 5 years
+-
+Led sustaining HW design of IQ Vital Zone
+Original design came out 20 years ago
+○
+Had to make big updates for EMC, obsolescence, etc
+○
+-
+Cor1.0 is totally new. Didn't borrow from Zone (except NIBP)
+-
+Now
+New NIBP module
+Existing module can't meet single fault condition required by NIBP standard 
+▪
+○
+-
+Johnny
+Friday, January 16, 2026
+2:32 PM
+   
+Meetings Page 50
+   
+
+
+===== PAGE 51 =====
+1:1's
+Wednesday, February 4, 2026
+7:24 AM
+   
+Meetings Page 51
+   
+
+
+===== PAGE 52 =====
+Bio
+Lives in West Chester
+-
+Two kids (baby boy and 4.5 years old girl)
+-
+Came from Mammotome
+-
+3/13/26
+Should we discontinue Zone?
+Will consider after 2.0 takes off
+○
+-
+How important is BP accuracy?
+-
+2/27/26
+Force registering device before use
+Supposedly Cor1.0 doesn't store serial number digitally
+○
+-
+3 big scopes
+Wireless
+○
+Riva
+○
+Continuous monitoring
+It's been said we are excluded from consideration on a lot of existing Baxter 
+accounts because we don't have this feature ("not a complete product")
+▪
+Agreed we need some kind of business case outlined for this feature. Maybe 
+it's just the number of oncology or other clinics that require this.
+▪
+○
+-
+Arjun is aligned on plan to replace Cor1.0 with a non-wireless or wireless-disabled Cor2.0 
+to achieve COGS reduction
+-
+Arjun (Marketing)
+Monday, January 12, 2026
+7:50 AM
+   
+Meetings Page 52
+   
+
+
+===== PAGE 53 =====
+First husband passed away
+-
+Engaged
+-
+Bethany Menke (HR)
+Monday, January 12, 2026
+7:50 AM
+   
+Meetings Page 53
+   
+
+
+===== PAGE 54 =====
+Bio
+Lives in Reeshi (15 minutes away)
+-
+Been at Midmark 5 years
+-
+Came from a nearby forklift company
+-
+ECG
+Service is basically just replace the device 
+at half the cost
+○
+Would like to know if yearly service 
+protocol could be updated to use lower 
+cost test equipment (currently requires 
+pro sim 8)
+○
+-
+Midmark had no service at all 5 years ago
+-
+Field service is farmed out to 3-4 different 
+regional companies
+-
+Cor 1
+Field service is pretty limited. Basically just 
+troubleshooting connections and battery 
+replacement 
+○
+-
+Brad Muhlenkamp
+Monday, March 23, 2026
+1:58 PM
+   
+Meetings Page 54
+   
+
+
+===== PAGE 55 =====
+From northern ohio
+-
+Bengals fan
+-
+Engaged
+Getting married in October at Wetherington
+○
+-
+Casey Smith (FIN)
+Monday, January 12, 2026
+7:51 AM
+   
+Meetings Page 55
+   
+
+
+===== PAGE 56 =====
+2/3/26
+Team supports UI/UX as well as industrial design
+-
+Four member team including Chris
+James Lua
+○
+Brad
+○
+Don't recall the fourth
+○
+-
+Bio
+Lives in Morrow/Maineville/South Lebanon ish
+-
+Older kids (26 and 18 I believe)
+-
+Has worked with Eichman in the past
+-
+Worked at Eli Lilly for a time (IDHF director)
+-
+Chris Collins
+Tuesday, February 3, 2026
+11:00 AM
+   
+Meetings Page 56
+   
+
+
+===== PAGE 57 =====
+Owns parts of test function (there are 1-2 other test groups)
+-
+Jacobis reports to Craig
+-
+Known for pushing culture (sets up celebration events, etc)
+-
+Craig Rammel (test lab)
+Monday, January 12, 2026
+7:51 AM
+   
+Meetings Page 57
+   
+
+
+===== PAGE 58 =====
+Bio
+Traverse City Michigan
+-
+Was leading RTLS when acquired in 2016
+-
+Used to be a consultant
+-
+3 kids
+1 in LA 
+○
+Anne Arbor
+○
+-
+3/6/26
+When was RTLS started?
+-
+RTLS Use Cases
+Patient workflow
+○
+Asset tracking
+○
+Safety button (need help)
+○
+Used in ERs, medical offices, etc
+○
+-
+Tech
+IR + RF (433 MHz)
+RF "rarely" used for location. Used 
+mostly for comms.
+▪
+○
+Can focus detection geometry to very isolated 
+area (over a chair, bed, etc)
+○
+BLE replacing 433MHz RF
+○
+Can use WiFi infrastructure that can also use 
+BLE (most wireless access points)
+Need to know physical locations of 
+these devices
+▪
+○
+If infrastructure is not available, also have plug 
+adapters that can act as BLE anchors
+○
+Looking at channels sounding and angle of 
+arrival
+HT has "opinions"
+▪
+Bring
+▪
+○
+UWB is promising
+RTLS is working with a partner they 
+really like
+▪
+○
+-
+How big is the market?
+-
+What are impediments to growth?
+-
+Limitations of technology
+-
+Feasibility of using for device detection?
+-
+HT Snowday (RTLS)
+Friday, March 6, 2026
+1:46 PM
+   
+Meetings Page 58
+   
+
+
+===== PAGE 59 =====
+Been here ~25 years
+-
+6 kids
+-
+From Versailles
+-
+Lives nearby on 5 acres
+-
+No pets
+-
+Jake Broering (MIP Owner)
+Monday, January 12, 2026
+7:51 AM
+   
+Meetings Page 59
+   
+
+
+===== PAGE 60 =====
+Owns Cincinnati facility opening/development 
+-
+Jennifer Brickler
+Monday, January 12, 2026
+7:51 AM
+   
+Meetings Page 60
+   
+
+
+===== PAGE 61 =====
+1/21/26
+Year-End Reviews / Compensation
+Jeff will discuss compensation with Bethany
+○
+We will jointly complete year-end reviews
+○
+-
+Lifecycle
+-
+Soumajit Cor1.0 involvement
+-
+Budget
+Chrome river hasn't gone away yet
+○
+Finance can move across account codes (work with Casey)
+○
+Try charging to department (diagnostics) as opposed to project 
+○
+-
+Supplies/Equipment
+-
+Celebrations
+-
+Jeff
+Tuesday, January 20, 2026
+1:09 PM
+   
+Meetings Page 61
+   
+
+
+===== PAGE 62 =====
+3/12/26
+How far do we need to take Riva before ready for 
+MIP Gate 0?
+-
+What is FE role in wireless feasibility testing?
+-
+March SIR Meeting (March 30th) 
+-
+Bio
+Lives in Germantown
+-
+Will spend 1-2 days a week in Versailles going forward
+-
+Jennifer Serres
+Wednesday, February 11, 2026
+10:09 AM
+   
+Meetings Page 62
+   
+
+
+===== PAGE 63 =====
+2/3/26
+Current sustaining support
+NIBP leaks
+○
+NIBP pump part obsolescence
+○
+Mounting solutions
+○
+-
+Jim's team can support part obsolescence
+-
+Generally rely on supplier notifications for obsolescence
+May get to sustaining through supply chain, sourcing, or commercial team
+○
+-
+Product marked as end-of-service, typically has 7-10 years of support from sustaining 
+-
+Bio
+Jim is new to sustaining. Came from vet business.
+-
+Jim Hempker
+Tuesday, February 3, 2026
+3:39 PM
+   
+Meetings Page 63
+   
+
+
+===== PAGE 64 =====
+Bio
+Likes cooking and foodie. Spent a week in 
+France at a cooking school with wife and 
+friends.
+-
+Lives in Cincinnati, has a house/condo in 
+Versailles he stays at during the week
+-
+Plays pickleball
+-
+3/12/26
+Cinci team
+-
+Board meeting
+-
+Cor 1
+-
+Cor 2
+Wireless and Riva are biggest unknowns
+○
+What happens if Riva is not successful
+○
+Held wireless workshop
+Rick Jr taking 50% on wireless
+▪
+Bringing in suppliers
+▪
+Working on engaging Kinetic Vision
+▪
+○
+-
+Use Jennifer for feasibility budget
+6135 is Jennifer's FE budget cost center
+$75k for Cor2.0 is not spent 
+(currently says "GL" on it)
+▪
+○
+-
+Talk to "Katie" from finance about budget
+-
+Josh Shenk (VP R+D ENG)
+Monday, January 12, 2026
+7:50 AM
+   
+Meetings Page 64
+   
+
+
+===== PAGE 65 =====
+2/4/26
+Master GlobalLogic SOW
+Get rid of extra time for getting new resources
+○
+There are still individual Work Authorizations under the SOW
+Email template with project owner, project code, resources, deliverables
+▪
+○
+This is not implemented yet. Still using individual project SOWs
+○
+-
+GL invoicing per project
+-
+Roman is Lauren's primary GL contact
+-
+Lauren Pangilinan (Sourcing)
+Wednesday, February 4, 2026
+9:26 AM
+   
+Meetings Page 65
+   
+
+
+===== PAGE 66 =====
+1/13/26
+How much prep needed for Summative Usability?
+-
+Go over schedule
+-
+Mechanical engineer
+Will open req
+○
+-
+Direct report handoff
+Go ahead and move
+○
+Bethany does this, I will reach out
+○
+Communicate to Irvine team
+○
+Leslie will do year-end summary, I'll set something up to set expectations going forward
+○
+Start at 9
+○
+-
+Full list of DD products
+-
+Document matrix
+-
+Maggie
+-
+Fly Nelson out here
+Yes, needs babysitting
+○
+If not, can Nick Stammen's group support?
+○
+-
+Leslie
+Monday, January 12, 2026
+10:23 AM
+   
+Meetings Page 66
+   
+
+
+===== PAGE 67 =====
+Bio
+Went to Dayton
+-
+Lives in Sydney (between Versailles and Dayton)
+-
+Started as mechanical engineer
+-
+Family all moved close to her current home
+-
+1/21/26
+Agile
+All TMs using Agile
+○
+3 Agile teams
+○
+-
+Software Dev Process (62304) 
+-
+Product Owner / Scrum Master
+-
+Rick Jr
+-
+Owns UI and Linux based software
+-
+Lindzi Hoersten
+Wednesday, January 21, 2026
+2:55 PM
+   
+Meetings Page 67
+   
+
+
+===== PAGE 68 =====
+1/21/26
+How are drawings and BOMs managed?
+Guidelines/processes in place… didn't talk about where they live
+○
+-
+Is there an existing design process?
+There are a couple dedicated techs / engineers for part creation. No 
+formal request process (or Nick just didn't know)
+○
+-
+SDP
+These are created for each project. No standard template.
+○
+-
+Altium
+Shouldn't be an issue to share licenses
+○
+Irvine does have separate licenses, need to figure out what to do with 
+these
+○
+-
+Who tracks and handles PCNs for electronic components?
+Board Mfg -> Supplier Quality -> EE team owns change
+○
+-
+Started Agile dev processes last year
+Product owner / scrum master is same person. Using contractors for the 
+most part (SEI and some other company
+○
+Quarterly PI planning meetings, 2 week sprints
+○
+-
+Bio
+Lives in small town 25 
+minutes away (ft henry?)
+-
+3 kids (11, 9, 5)
+-
+Went to Ohio State
+-
+Nick Stammen
+Friday, January 16, 2026
+8:41 AM
+   
+Meetings Page 68
+   
+
+
+===== PAGE 69 =====
+2/3/26
+Code built on fragile architecture
+-
+Have been a lot of customer complaints
+-
+Last year focused on new team and stability
+-
+This year focus on new processes to prepare for next gen SW
+-
+Six releases planned this year. All will be avilable to the field
+-
+Rig is AI an champion
+-
+Copilot can use multiple models (including Claude)
+-
+BISCOM (or maybe VISCOM): interface to access software
+-
+New releases communicated through downstream marketing bulletin
+-
+Issues
+Forget diagnostics is not only Cor1.0
+○
+Need to plan out releases
+○
+Breaking the interface has not been common but does happen
+Would be good to have automated solution for testing interface on regular basis
+▪
+○
+Need to align on roadmap
+Talks about discontinuing Zone, talks about revamping ECG
+▪
+○
+-
+Bio
+Been at Midmark for 5 years
+-
+Rig
+Tuesday, February 3, 2026
+10:16 AM
+   
+Meetings Page 69
+   
+
+
+===== PAGE 70 =====
+2/6/26
+Brooke is dedicated to DD
+-
+Bio
+Live in Rushy
+-
+Four kids
+-
+from versailles
+-
+Been at Midmark for 11 years
+-
+Tracy Timmerman (DS Marketing)
+Monday, January 12, 2026
+7:50 AM
+   
+Meetings Page 70
+   
+
+
+===== PAGE 71 =====
+1/9/26: Oleksander Intro
+May need more devices
+-
+Might need weekly or bi-weekly 1:1 meeting to touch base 
+-
+Global Logic
+Friday, January 9, 2026
+8:52 AM
+   
+Meetings Page 71
+   
+
+
+===== PAGE 72 =====
+1/14/26
+If we drop a contractor, just let Bethany know. Triggers IT to cutoff access
+-
+There's a Microsoft Form for new contractor
+Bethany can send the form to me as-needed
+○
+-
+There are 2 FW manager reqs open for Versailles
+One will be located in Cincinnati
+○
+Opens door to finding candidates in Cincinnati
+○
+-
+Irvine People Meeting
+Wednesday, January 14, 2026
+3:38 PM
+   
+Meetings Page 72
+   
+
+
+===== PAGE 73 =====
+1/15/26
+CVD = Continuous Value Delivery
+Small incremental changes (SW updates)
+○
+Alternative path to MIP
+○
+-
+Smooth transition process from Front End to R&D (MIP)
+-
+MPL = Master Project List
+-
+How do projects get on the MPL?
+Market driven (upstream marketing)
+○
+How do quality issues or obsolescence percolate up to this 
+list?
+○
+-
+Anumana: AI powered ECG disease state analysis
+-
+"Ambient Listening" early tech project
+Passive listening with a  microphone in the room
+○
+Phase 3 = How many and what type of microphones 
+would we need to make this reliable?
+○
+Point is not to implement the AI or transcription or 
+whatever. Point is how to get good audio in the office 
+environment and send it to the preferred tool, agent, etc.
+○
+-
+Links
+Master Project List
+-
+Strategic Innovation Review (SIR)
+Thursday, January 15, 2026
+1:01 PM
+   
+Meetings Page 73
+   
+
+
+===== PAGE 74 =====
+1/27/26 - Irvine Cleanout Meeting (Katie Hamilton)
+Sub-lease usually takes 60-90 days (in case we need to move out quickly)
+-
+Remote workers need to take Midmark equipment home, do we let the Irvine team do this?
+-
+Radouane will need a BP simulator ongoing
+-
+Will ask for extra dumpster in Irvine
+-
+Getting rid of everything on the MFG_AQE bench
+-
+Chair should be on the move plan to Cincinnati
+-
+Leftover equipment in May can be mailed back (no need for truck)
+-
+Rework and Parts bench items will be shipped to Cinci. Just the stuff, not the benches themselves.
+-
+Unclear if packaging material is available but we can have a ULINE dropoff if needed
+-
+1/16/26
+Everything Jacobis needs is on a small workbench. He'll take this when he moves.
+-
+Jacobis will be here on 2/23
+-
+Much of Cincinnati lab is on backorder for a month
+3 electrical benches
+○
+Storage boxes
+○
+Tool boxes
+○
+2 makers tables
+○
+-
+Will ship stuff from basement in Versailles the second week of march
+-
+Bench wise, only taking ESD bench 
+-
+Everything that leaves Irvine will go to Cinci
+-
+Craig will have Jacobis set aside a bench, simulator, and calibrated DMM/Scope
+-
+Cincinnati Transition
+Friday, January 16, 2026
+10:03 AM
+   
+Meetings Page 74
+   
+
+
+===== PAGE 75 =====
+1/21/26
+n
+-
+Rob Sackett Staff Mtg
+Wednesday, January 21, 2026
+12:28 PM
+   
+Meetings Page 75
+   
+
+
+===== PAGE 76 =====
+DVSD 800 / Cor1.0
+1)
+Welcome teammates!
+2)
+Where we Are
+3)
+What We're Working Through
+4)
+Commercial Readiness
+5)
+Thursday, February 19, 2026
+12:02 PM
+   
+Meetings Page 76
+   
+
+
+===== PAGE 77 =====
+3/11/26
+Customer Immersions
+-
+Cor 2.0
+-
+Cost Centers
+-
+Copilot
+-
+DD Staff Meetings
+Monday, March 9, 2026
+8:05 PM
+   
+Meetings Page 77
+   
+
+
+===== PAGE 78 =====
+ECG
+Monday, March 23, 2026
+3:08 PM
+   
+Meetings Page 78
+   
+
+
+===== PAGE 79 =====
+3/27/26 - AI
+Jeff Staff Meetings
+Friday, March 27, 2026
+1:01 PM
+   
+Meetings Page 79
+   
+
+
+===== PAGE 80 =====
+Firmware
+Process
+-
+AI
+-
+Internal vs External
+-
+Electrical
+Process
+-
+Components
+-
+PCBA Supplier
+-
+Systems
+Test
+Automation
+-
+Simulators
+-
+Workstreams
+Friday, March 6, 2026
+10:24 AM
+   
+Strategy Page 80
+   
+
+
+===== PAGE 81 =====
+What does this location enable?
+I know Blue Ash was a strategic location choice, because this area is a hub for medical device 
+companies. J&J Medtech, Mammotome, Hillrom, Atricure, and others are all co-located close by. 
+That strategy has already bared fruit as myself and more than half my team recently joined from 
+J&J Medtech just up the street where we designed and launched many complex surgical devices 
+supporting a multi-billion dollar business.
+-
+How is Cor 1.0 going?
+The Versailles team inherited Cor 1.0 last summer and had to work through a number of gaps in 
+requirements, documentation, manufacturability, and testing. When I joined in January, I was 
+genuinely impressed with both the product and the progress the team had made. Since then, 
+we’ve grown the team and added even more testing and engineering rigor, which has helped us 
+find and fix smaller issues ahead of launch. Cor 1.0 is a solid product, and overall it’s in a very good 
+place. FDA deficiencies. At this point, we’re focused on ironing out the remaining wrinkles and 
+getting it launch ready.
+-
+What's the status of Cor 2.0?
+My team is currently very focused on launching Cor 1.0 on schedule, however, we have been 
+deliberately carving out time to reduce risks on Cor 2.0. Right now, that work is centered on 
+understanding customer and market needs and advancing two technical feasibility workstreams in 
+partnership with Jennifer Serres. The first is the Riva blood pressure technology we acquired 
+earlier this year, which I believe Dr. Tom will speak to later today. The second is wireless location 
+tracking. Last month, we hired Rick Schuman, a senior engineer with deep wireless product 
+development experience. Rick is leading early research with potential suppliers and building test 
+plans to evaluate options, with the goal of establishing a baseline technical approach and 
+confirming feasibility ahead of Gate 0 later this year.
+-
+What will the lab enable?
+Historically, Midmark has outsourced much of the design and testing work for diagnostics 
+products, which has led to inefficiencies, poor communication, and ultimately schedule slips and 
+cost overruns. We are changing that. This lab enables us to bring core hardware and firmware 
+development in-house here in Cincinnati, including electrical design, prototyping, and test. It gives 
+us the ability to test prototypes and early builds ourselves, which increases confidence in the 
+design and helps us identify issues earlier in the development process. It also improves 
+collaboration with our cross-functional partners, because other teams can get hands-on with 
+prototypes quickly and provide feedback much earlier.
+-
+Board Tour Questions
+Wednesday, March 18, 2026
+11:43 AM
+   
+Strategy Page 81
+   
+
+

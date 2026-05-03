@@ -1,0 +1,174 @@
+===== PAGE 1 =====
+Will replace 1.0
+-
+Adds connectivity
+-
+Team
+Systems
+Rashid Shaibu
+○
+-
+Firmware
+-
+Electrical
+-
+Mechanical
+-
+Project Management
+-
+Quality
+-
+Upstream Marketing
+-
+Manufacturing
+-
+Regulatory
+-
+Compliance
+-
+Verification
+-
+Cybersecurity
+-
+Reliability and Robustness
+-
+Supply Chain
+-
+IDHF
+-
+Backend software
+-
+Cor2.0
+Project Ch...
+Onboarding Notes
+Friday, January 9, 2026
+10:49 AM
+   
+General Page 1
+
+===== PAGE 2 =====
+NIBP improvements
+Algorithm updates
+○
+Additional hardware
+○
+-
+Cost reductions
+-
+Requirements
+-
+Agile process
+-
+Key Decisions/Opportunities
+Thursday, January 22, 2026
+1:55 PM
+   
+General Page 2
+
+===== PAGE 3 =====
+PDP Phase 0
+Customer Needs
+-
+Business Needs
+-
+Proof of Concept Plan and Summary
+-
+Build, Risk Reduction and Mitigation Plan
+-
+Reliability, Robustness, and Warranty Plan
+-
+Regulatory Plan
+-
+Quality Plan
+-
+MIP Phase 0
+Create Customer Research Plan and Summary
+-
+Establish Commercialization Plan
+-
+Create RISDA
+-
+PDP Phase 1
+Customer, business, service, packaging, cyber 
+requirements
+-
+Software plan
+-
+Risk management plan
+-
+Cybersecurity plan
+-
+Threat model
+-
+DFMEA
+-
+MIP Phase 1
+-
+Opportunity Charter
+-
+Schedule
+Tuesday, March 3, 2026
+10:21 AM
+   
+General Page 3
+
+===== PAGE 4 =====
+Key Customer Needs
+Workflow efficiency
+Typical time is ~15 min in exam room (high volume family care)
+○
+-
+Vitals History on Device
+Pull patient record from EMR
+○
+-
+Continuous monitoring
+Important for outpatient infusion treatment
+○
+-
+Reduce # of BP Cuffs
+-
+Motion tolerant BP
+-
+Remote SW Update
+-
+RTLS
+BLE and IR
+-
+IR for room detection, BLE for comms
+-
+IR needs line of sight
+-
+IR up to 30 ft cone
+-
+Very interested in getting out of line-of-sight
+UWB
+○
+BLE 6 channel sounding
+○
+-
+IR is not for data transmission, but it could broadcast something like a unique ID for BLE pairing
+-
+Sensor can be battery powered or wired
+Battery should last at least 2 years
+○
+3 D cells
+○
+-
+Misc
+May want DVSD to be connected to plug-in even when not taking vitals. May want to stream data 
+from chair status or other equipment data in the room.
+-
+Is retrofitting to older chairs in scope?
+-
+BLE 6 requires stationary anchors
+-
+Curtain dividers are uncommon and likely out of scope
+-
+LiFi?
+-
+Wireless Workshop
+Wednesday, January 14, 2026
+1:12 PM
+   
+Meetings Page 4

@@ -1,0 +1,93 @@
+PAGE 1: images=0 preview=Meisterplan - A0meister | FDA - Aa0fdafda | Passwords | Monday, January 26, 2026
+PAGE 2: images=0 preview=Acronyms | OGSIM: Objectives Goals Implementations Measures | - | MIP: Midmark Innovation Process (NPD process) 
+PAGE 3: images=0 preview=Managers generally have a "Base" budget | For engineering, this includes headcount, travel, and tools or low cost  | equipment/components | ○
+PAGE 4: images=2 preview=Manager Intake Form and examples | Manager | Intake | Agile
+  image 1: xref=34 48x48 bpc=3 cs=DeviceRGB
+  image 2: xref=38 599x89 bpc=3 cs=DeviceRGB
+PAGE 5: images=1 preview=R&D Onboarding Sharepoint | Safety Shoes/Glasses: https://midmark.sharepoint.com/teams/EHS/SitePages/Versailles-Safety- | Benefits.aspx?csf=1&web=1&e=TjyDJD | Jama Access
+  image 1: xref=49 718x240 bpc=3 cs=DeviceRGB
+PAGE 6: images=1 preview=Career Ladder | Engineering | Career La... | Bonus/Celebrations
+  image 1: xref=52 48x48 bpc=3 cs=DeviceRGB
+PAGE 7: images=0 preview=Process | Friday, January 9, 2026 | 6:27 AM |    
+PAGE 8: images=0 preview=Important Docs | Hardware Requirements Specification (HRS) – Document used to define design requirements for a PCB  | assembly | Hardware Design Document (HDD) – Document that contains rationale for design choices and 
+PAGE 9: images=0 preview=20-73-WI00031: Agile structures (describes part structures including where BOM, schematic, etc goes  | for PCBAs. | QMS13366: Quality Manual | Important Docs
+PAGE 10: images=0 preview=Project Management Mastery | PMM | Wednesday, February 4, 2026 | 10:53 AM
+PAGE 11: images=0 preview=MIP | Wednesday, February 4, 2026 | 10:44 AM |    
+PAGE 12: images=0 preview=Goal | Phase 0 is where you turn “a good idea” into an “approved, fundable opportunity” with enough  | clarity on: | Who the target customer is
+PAGE 13: images=0 preview=Minimum Deliverables | Customer + Needs evidence | MIP-P0-001: Establish Target Customer Personas | ○
+PAGE 14: images=1 preview=Example CMA, Phase 3 | CMA | Wednesday, February 4, 2026 | 10:44 AM
+  image 1: xref=103 1183x552 bpc=1 cs=DeviceGray
+PAGE 15: images=1 preview=January Priorities | Business | Friday, January 9, 2026 | 8:07 AM
+  image 1: xref=106 1389x676 bpc=3 cs=DeviceRGB
+PAGE 16: images=0 preview=Products | Thursday, January 15, 2026 | 8:27 AM |    
+PAGE 17: images=1 preview=IQVitals Zone | Wirelessly connects to PC over BLE | Uses a USB dongle | ○
+  image 1: xref=112 269x405 bpc=3 cs=DeviceRGB
+PAGE 18: images=2 preview=Predecessor to Cor1.0 | - | Blood pressure, temp, SPO2, pulse rate | -
+  image 1: xref=115 514x365 bpc=3 cs=DeviceRGB
+  image 2: xref=116 179x391 bpc=3 cs=DeviceRGB
+PAGE 19: images=2 preview=Midmark 800 DVSD (Cor1.0) | BP Modes | Averaging: 5 readings. Ignores first and averages next 4. | ○
+  image 1: xref=119 230x417 bpc=3 cs=DeviceRGB
+  image 2: xref=120 426x317 bpc=3 cs=DeviceRGB
+PAGE 20: images=1 preview=No integrated display, connects to PC | - | Sprio? | Holter?
+  image 1: xref=123 297x415 bpc=3 cs=DeviceRGB
+PAGE 21: images=0 preview=Blood Pressure | Thursday, January 15, 2026 | 11:40 AM |    
+PAGE 22: images=0 preview=1) What is blood pressure? | Blood pressure is the force that circulating blood exerts on the walls of blood vessels. It’s reported as  | two numbers in millimeters of mercury (mmHg): | Systolic BP (SBP) — the top number
+PAGE 23: images=0 preview=Seat and prepare patient as above; support the arm at heart level. | 1. | Palpate the brachial artery; place stethoscope over it. | 2.
+PAGE 24: images=0 preview=differ. |     | Wiki Page 24
+PAGE 25: images=0 preview=1) The basic physical idea | When the cuff is inflated above systolic pressure it occludes the artery and there are no pulse-related  | pressure oscillations in the cuff. As the cuff pressure falls below systolic, pulsat
+PAGE 26: images=0 preview=independent step. | SBP and DBP estimation: classic oscillometric algorithms use fixed amplitude ratios: | SBP = cuff pressure where envelope rises to R_s × Amax on the ascending side (before  | MAP), and
+PAGE 27: images=0 preview=SBP and DBP are indirect estimates and vary with the algorithm, so agreement with auscultation  | varies. In practice oscillometric SBP tends to be slightly higher and DBP slightly lower in some  | devices, but this isn’
+PAGE 28: images=0 preview=Top-level block diagram (conceptual) | Cuff & tubing (mechanical) | 1. | Pneumatic subsystem — pump, reservoir, valves, pressure relief
+PAGE 29: images=0 preview=3) Pressure sensing | a. Pressure transducer(s): | Type: piezoresistive (silicon), piezoelectric (less common), or capacitive MEMS gauge.  | Piezoresistive MEMS is typical.
+PAGE 30: images=0 preview=6) Controller & firmware | Microcontroller / SoC: runs the measurement sequence (inflate/deflate), reads ADCs, runs  | oscillometric algorithms (detrend, bandpass, envelope, MAP/SBP/DBP derivation), handles UI and  | com
+PAGE 31: images=0 preview=Rick Schuman | Background | InDesign (Indianapolis) | ○
+PAGE 32: images=0 preview=Logs | ○ | Mitigations | ○
+PAGE 33: images=0 preview=FW III | Thursday, January 8, 2026 | 12:22 PM |    
+PAGE 34: images=0 preview=Candidates | Clay Mangette | Applied 7/13/25 | ○
+PAGE 35: images=0 preview=Worked for Jamie Allen | ▪ | Prodigy | Design services
+PAGE 36: images=0 preview=Medical systems development | ○ | NPD and sustaining | ○
+PAGE 37: images=0 preview=Different limits for operator vs patient | ▪ | Conductive "dirt" can connect to conductors | ○
+PAGE 38: images=0 preview=Competencies | MBSE | - | Use cases
+PAGE 39: images=0 preview=Cancer probe (20 yr old product looking to improve) | ○ | Gathering user needs | ○
+PAGE 40: images=0 preview=Andrew Dilley | Background | BME background | ○
+PAGE 41: images=0 preview=product? | Tell me about your experience with software development. How do you ensure software risks are  | adequately controlled? | -
+PAGE 42: images=0 preview=For a critical supplier, what does good enough supplier quality evidence look like to you? | - | Can you tell me about a time you had incomplete data or understanding but still had to make a  | quality decision?
+PAGE 43: images=0 preview=Seth Butler, P.E. | Excellent senior mechanical engineer with regulated and medical-adjacent experience. | Strong hands-on mechanical design, FEA, test fixture development, and DFM/DFMA across medical,  | industrial, and
+PAGE 44: images=0 preview=Chris O'Brien | Background | Lot of aerospace (GE, Northrup) | ○
+PAGE 45: images=0 preview=Direct Report 1:1 | Tuesday, January 13, 2026 | 6:03 AM |    
+PAGE 46: images=0 preview=2/26/26 | Compensation | Due to bonus incentive package in May, no merit increase | ○
+PAGE 47: images=0 preview=3/18/26 | Sen will set up Cor 2.0 meetings | - | 2/19/26
+PAGE 48: images=0 preview=2/19/26 | Clinical study | Safety valve issue | Triggers at 290 mmHg, shouldn't be getting above 210 mmHg
+PAGE 49: images=0 preview=2/26/26 | Compensation | Reza pointed out the severance agreement letter does specifically state they ARE eligible for  | merit increase
+PAGE 50: images=0 preview=2/26/26 | Compensation | - | Cor2.0
+PAGE 51: images=0 preview=1:1's | Wednesday, February 4, 2026 | 7:24 AM |    
+PAGE 52: images=0 preview=Bio | Lives in West Chester | - | Two kids (baby boy and 4.5 years old girl)
+PAGE 53: images=0 preview=First husband passed away | - | Engaged | -
+PAGE 54: images=0 preview=Bio | Lives in Reeshi (15 minutes away) | - | Been at Midmark 5 years
+PAGE 55: images=0 preview=From northern ohio | - | Bengals fan | -
+PAGE 56: images=0 preview=2/3/26 | Team supports UI/UX as well as industrial design | - | Four member team including Chris
+PAGE 57: images=0 preview=Owns parts of test function (there are 1-2 other test groups) | - | Jacobis reports to Craig | -
+PAGE 58: images=0 preview=Bio | Traverse City Michigan | - | Was leading RTLS when acquired in 2016
+PAGE 59: images=0 preview=Been here ~25 years | - | 6 kids | -
+PAGE 60: images=0 preview=Owns Cincinnati facility opening/development  | - | Jennifer Brickler | Monday, January 12, 2026
+PAGE 61: images=0 preview=1/21/26 | Year-End Reviews / Compensation | Jeff will discuss compensation with Bethany | ○
+PAGE 62: images=0 preview=3/12/26 | How far do we need to take Riva before ready for  | MIP Gate 0? | -
+PAGE 63: images=0 preview=2/3/26 | Current sustaining support | NIBP leaks | ○
+PAGE 64: images=0 preview=Bio | Likes cooking and foodie. Spent a week in  | France at a cooking school with wife and  | friends.
+PAGE 65: images=0 preview=2/4/26 | Master GlobalLogic SOW | Get rid of extra time for getting new resources | ○
+PAGE 66: images=0 preview=1/13/26 | How much prep needed for Summative Usability? | - | Go over schedule
+PAGE 67: images=0 preview=Bio | Went to Dayton | - | Lives in Sydney (between Versailles and Dayton)
+PAGE 68: images=0 preview=1/21/26 | How are drawings and BOMs managed? | Guidelines/processes in place… didn't talk about where they live | ○
+PAGE 69: images=0 preview=2/3/26 | Code built on fragile architecture | - | Have been a lot of customer complaints
+PAGE 70: images=0 preview=2/6/26 | Brooke is dedicated to DD | - | Bio
+PAGE 71: images=0 preview=1/9/26: Oleksander Intro | May need more devices | - | Might need weekly or bi-weekly 1:1 meeting to touch base 
+PAGE 72: images=0 preview=1/14/26 | If we drop a contractor, just let Bethany know. Triggers IT to cutoff access | - | There's a Microsoft Form for new contractor
+PAGE 73: images=0 preview=1/15/26 | CVD = Continuous Value Delivery | Small incremental changes (SW updates) | ○
+PAGE 74: images=0 preview=1/27/26 - Irvine Cleanout Meeting (Katie Hamilton) | Sub-lease usually takes 60-90 days (in case we need to move out quickly) | - | Remote workers need to take Midmark equipment home, do we let the Irvine team do this?
+PAGE 75: images=0 preview=1/21/26 | n | - | Rob Sackett Staff Mtg
+PAGE 76: images=0 preview=DVSD 800 / Cor1.0 | 1) | Welcome teammates! | 2)
+PAGE 77: images=0 preview=3/11/26 | Customer Immersions | - | Cor 2.0
+PAGE 78: images=0 preview=ECG | Monday, March 23, 2026 | 3:08 PM |    
+PAGE 79: images=0 preview=3/27/26 - AI | Jeff Staff Meetings | Friday, March 27, 2026 | 1:01 PM
+PAGE 80: images=0 preview=Firmware | Process | - | AI
+PAGE 81: images=0 preview=What does this location enable? | I know Blue Ash was a strategic location choice, because this area is a hub for medical device  | companies. J&J Medtech, Mammotome, Hillrom, Atricure, and others are all co-located clos

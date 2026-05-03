@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Notes Query"
+  short_description: "Search project notes and date-ranged TODOs"
+  default_prompt: "Use $project-notes-query to find TODOs due between 2026-04-01 and 2026-04-15 for @Cor 1.0."

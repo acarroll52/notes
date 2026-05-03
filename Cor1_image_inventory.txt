@@ -1,0 +1,62 @@
+PAGE 1: images=0 preview=Finance | Casey | - | Katie?
+PAGE 2: images=0 preview=Engineering | Mechanical | - | Quality
+PAGE 3: images=0 preview=Project #: 21062 | Components | Midmark 800 Digital Vital Signs Device | Manually enter Weight, Height, BMI, RR, Pain
+PAGE 4: images=0 preview=Issues | 17-18 510k Deficiencies | Deficiency #11 | FDA asking for clinical study for blood pressure inferred pulse rate NIBP
+PAGE 5: images=0 preview=Midmark had never needed to go through 510k | ○ | Zoe is now out of the vitals business. We have inventory to cover through August/September 2026 | -
+PAGE 6: images=2 preview=1/27/26 | 1/9/26 | Schedule | Friday, January 9, 2026
+  image 1: xref=35 1093x559 bpc=8 cs=DeviceRGB
+  image 2: xref=36 1164x629 bpc=8 cs=DeviceRGB
+PAGE 7: images=1 preview=Software Architecture | Software | Architect... | Software
+  image 1: xref=39 48x48 bpc=8 cs=DeviceRGB
+PAGE 8: images=0 preview=Sub team meetings | Weekly summary to Rob | Corscience | GlobalLogic
+PAGE 9: images=0 preview=1/14/26 | Week of 1/26 | - | Bringing equipment Friday 1/23
+PAGE 10: images=0 preview=Three parts: | Corscience authored SW tests | - | Corscience authored System tests
+PAGE 11: images=0 preview=1/16/26 | Building ~140 | - | To pass we need 29 consecutive "passing" units (final inspection)
+PAGE 12: images=0 preview=Power up device and confirm home screen | - | Take SPO2 measurement | Go to settings -> SPO2
+PAGE 13: images=0 preview=Item Types | User Story | ○ | Task
+PAGE 14: images=0 preview=Global Logic | Monday, February 9, 2026 | 9:34 AM
+PAGE 15: images=1 preview=Ramp Up | Friday, February 27, 2026 | 3:02 PM
+  image 1: xref=78 1124x300 bpc=8 cs=DeviceRGB
+PAGE 16: images=2 preview=MCF = Midmark Connectivity Framework (not customer facing, built into plug-in) | MCE = Midmark Connect for Epic | MCA = Midmark Connect for Altera | MCC = Midmark Connect for Cerne
+  image 1: xref=81 750x383 bpc=8 cs=DeviceRGB
+  image 2: xref=82 750x403 bpc=8 cs=DeviceRGB
+PAGE 17: images=0 preview=Where we are today on spend | We are in the final phase of launch readiness, so the remaining spend is concentrated in | build execution, test completion, regulatory closure, and l
+PAGE 18: images=0 preview=additional spend | There are no significant low-cost acceleration opportunities that are not already being | pursued. The team is already focused on critical path execution, and mo
+PAGE 19: images=0 preview=Cor 1.0 Leadership Transition Plan | Objective: Transition project leadership from Leslie to [Your Name] and technical integration leadership | from Pat to Nick Ross over the next 
+PAGE 20: images=0 preview=Mechanical | ○ | NIBP | ○
+PAGE 21: images=0 preview=[Your Name] leads all core project reviews | • | Nick leads selected technical integration reviews | •
+PAGE 22: images=0 preview=Sheet 2 | Connector PCBA interface | - | There are NIBP signals here, not sure where they come from since I would think these would go to
+PAGE 23: images=0 preview=TPS79901 LDO (VCC_SPO2 -> 5V_SPO2) | ○ | Onsemi NCP718ASN330T1G LDO (5V_SPO2 -> 3V3_SPO2) | ○
+PAGE 24: images=1 preview=Air rolling pump - Inflation | Solenoid Valve - cheap, fast deflation for safety and quick deflate | Proportional Solenoid Valve - Fine, continuous control for deflation | NIBP Sch
+  image 1: xref=106 1080x696 bpc=8 cs=DeviceRGB
+PAGE 25: images=2 preview=Battery Life | Requirement HWRS-480: The battery shall have at least 75% of its initial capacity | after 400 charging cycles. | -
+  image 1: xref=109 832x256 bpc=8 cs=DeviceGray
+  image 2: xref=110 772x269 bpc=8 cs=DeviceRGB
+PAGE 26: images=0 preview=Reliability testing | Battery degradation | Capacity | Requirements
+PAGE 27: images=2 preview=ZEUS_LIO | N_PCLI18... | fuse. | Cycle testing with our load profile
+  image 1: xref=125 32x32 bpc=8 cs=Indexed
+  image 2: xref=128 676x71 bpc=8 cs=DeviceRGB
+PAGE 28: images=0 preview=1/12/26 | Clinical moving forward with protocol, completion by 1/22 | - | If we can't get FDA feedback, will use SME approval
+PAGE 29: images=0 preview=3/16/26 | Ramp Up / Ramp Down | Ramp up starts at Commercial Build 1 and goes to Feb 2027 | Rob wants to order at 3x actual forecast
+PAGE 30: images=0 preview=1/26/26 | - | Weekly Subgroup - Mounting Solutions | Monday, January 26, 2026
+PAGE 31: images=0 preview=1/12/26 | Corscience | Standing weekly meeting | ○
+PAGE 32: images=0 preview=3/31/26 | Outstanding deviations/failed inspections | SPO2 wensor, Exergen, Nellcor cable have open labeling changes (currently failing | inspection)
+PAGE 33: images=0 preview=1/9/26 | Talking about Jan/Feb builds | - | Need production level devices to support Summit, Validation
+PAGE 34: images=0 preview=3/30/26 | FDA response to child cuff. Options we have on the table: | Remove support for child cuff completely | ○
+PAGE 35: images=0 preview=3c | Include redlined document | ○ | Appears to be in line with request
+PAGE 36: images=0 preview=Nick on the hook | ○ | SBOM needs information on end-of-life/support dates for COTS | -
+PAGE 37: images=0 preview=1/13/26 | Dominik and Marianne | - | Helping with 510k deficiencies
+PAGE 38: images=0 preview=ATE1 (Main Board End of Line) Documentation | Creation designed and built tester per our unwritten requirements | - | Meeting with local EEs (Austin Lowder, Lee Dickinson)
+PAGE 39: images=0 preview=2/9/26 Meeting with Roman and Oleksandr | In final stages with master SOW | - | Will manage each project through Work Authorizations. Email template.
+PAGE 40: images=0 preview=2/26/26 | Still waiting on revised quote | - | Need drawings for missing CDR components
+PAGE 41: images=0 preview=No conversations yet | ○ | Peter hasn't done a deep dive of the new design yet | ○
+PAGE 42: images=0 preview=1/27/26 - Meeting with LXD | Last night factory did another ESD test. They are able to see something similar. | - | Started conversation with touch controller IC vendor to detect t
+PAGE 43: images=0 preview=3/24/26 | New carts expected 5/1 | - | May have one cart still available in boxes that could be used to test the Oracle system during CB1.
+PAGE 44: images=2 preview=2/10/26 - 2 hour Alignment on Path Forward | Manual vs automatic measurements | Should follow clinician intent | ○
+  image 1: xref=163 584x410 bpc=8 cs=DeviceRGB
+  image 2: xref=164 747x196 bpc=8 cs=DeviceRGB
+PAGE 45: images=0 preview=Will move forward with listing and prioritizing various issues in this category | ▪ | Exam Chair | Lots of issues here
+PAGE 46: images=0 preview=2/6/26 - Meeting with Adam Clutter | We are part of MDSAP program | Scope: Canada, US, Australia | ○
+PAGE 47: images=0 preview=2/20/26 | FDA Guidance | Guidance on how to comply with "law" | ○
+PAGE 48: images=0 preview=2/23/26 - NIBP Debug System | Run every NIBP board through this debugging system PRIOR to attaching manifold and functional | test | Can't easily undo manifold attachment since it 
+PAGE 49: images=0 preview=3/24/26 (Meeting with Leslie, Rig, Arjun, Lisa, Chad) | 6/15: Everything (software) released in Agile for commercialization | Currently 1-2 week behind schedule | ○

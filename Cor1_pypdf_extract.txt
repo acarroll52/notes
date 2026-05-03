@@ -1,0 +1,1491 @@
+===== PAGE 1 =====
+Finance
+Casey-
+Katie?-
+Manufacturing
+Jake Walland-
+Brett Pepple-
+Regulatory
+Jessica Hembrey (reports to Adam Clutter)-
+Clinical Affairs
+Erica Johnson (reports to Dr. Tom)-
+Denise Wetzel (reports to Dr. Tom)-
+Jessica Fortkamp-
+Upstream Marketing
+Steve Cordonnier-
+Downstream Marketing
+Brooke Griesdorn (reports to Kylie Gilberg)-
+Supply Chain
+Ryan Drees (reports to Chuck Bretz)-
+Service
+Brad Muhlenkamp-
+Engineering Test
+Manufacturing Test
+Max Bensman (reports to Ryan Drees <- Chuck Bretz)-
+Tech Pubs
+Emily Kaht (reports to Gail Sease)-
+Ordering
+Lorraine Paxson (reports to Tom Moeder)-
+Mounting Solutions
+Darin Whittington (reports to Jim Hempker <- Chuck Bretz)-
+Design
+Brad Mcdougall (UI/UX)-
+James Lua (Cart, usability)-
+Labeling?
+Engineering
+Key People/Functions
+Monday, March 16, 2026 10:47 AM
+   General Page 1    
+
+===== PAGE 2 =====
+Engineering
+Mechanical-
+Quality-
+Supplier Quality-
+Cybersecurity-
+Systems-
+   General Page 2    
+
+===== PAGE 3 =====
+Project #: 21062
+Components
+Midmark 800 Digital Vital Signs Device
+Manually enter Weight, Height, BMI, RR, Pain○
+Measures BP, Pulse Rate, SpO2, Temperature○
+Battery or cord powered 
+Rechargeable Li-ion▪
+Barrel jack (what voltage?)▪
+○
+Two USB C ports (stacked vertically)○
+Two ethernet ports
+One has a temperature icon next to it▪
+One has a save disk and scale icon (connects to bed with integrated scale)▪
+○
+Four mounting screw holes on back○
+"Masimo SET rainbow" jack on side, I assume for SP02○
+Another interesting jack on the side that looks like it's probably for blood pressure○
+Multiple wall mounts○
+Cart
+No electronics except passthrough USB C for powering the vital signs device▪
+○
+Four models
+One doesn't have SPO2▪
+One supports Masimo, another Nellcor SPO2▪
+One supports Masimo SPO2 and "Automated Respiration Rate" ▪
+○
+-
+Testing
+Lifecycle testing
+Focused on NIBP○
+7-year life (63k readings over 2 month)○
+Check for functionality and drift after life test○
+Partially automated○
+30% of testing complete as of 1/6○
+Sample size of 3○
+Pat says there is a standard for BP drift○
+-
+Compliance testing
+Most can be done onsite (chemical, environmental, leakage current)○
+EMC is typically done at Intertek Lexington but for this project it was done in Irvine○
+-
+PCB Assembly
+ATE1 - Automated tester (functional bed of nails)○
+-
+NIBP Tester-
+Electronics
+Main board (we own)-
+Connector board (we own)-
+NIPB board (we own)-
+SPO2 board
+We license this from Masimo or Nellcor○
+-
+Issues
+Onboarding Notes 
+Friday, January 9, 2026 10:47 AM
+   General Page 3    
+
+===== PAGE 4 =====
+Issues
+17-18 510k Deficiencies 
+Deficiency #11
+FDA asking for clinical study for blood pressure inferred pulse rate NIBP▪
+Big schedule impact▪
+○
+-
+Incorrect threaded inserts used in latest build-
+Flickering screen following SW update
+Occurs after automatic reboot○
+HW fix required long term○
+Short term plan is to require user to fully power off and power up unit following SW update○
+-
+ESD
+8kV air discharge causes touch latency (need to tap and hold)○
+Nick is coming up to Versailles to test○
+-
+NIBP leak failures during PCB assembly/test-
+Pulse rate showing on screen even though BP was "bad" (out of range). NIBP firmware does not 
+send pulse rate to main board if BP is bad.
+-
+Requirement and IFU indicates audio should play when connecting (or sending) to EMR. This was 
+not implemented.
+-
+SW Versions
+Current release is v1.1.5-
+Intended release SW with screen flickering fix and other minor changes - v1.1.6-
+Builds
+VB4 and VB5
+VB#4: 15 pieces (1/12-1/13)○
+VB#5: 39 pieces (1/20-1/21)○
+Firware/system testing○
+Customer eval (validation)○
+-
+VB#6 "Q Run" (2/25 - 3/3)-
+VB#7 "Commercial build"-
+Global Logic
+Two developers working on Cor1.0/2.0
+Yuri ○
+Andrii (more focus on 2.0)○
+-
+Looking to bring one more person at 25% to help with build process
+Josh and Jeff already onboard with this○
+-
+Cor2.0 Work
+Tech feasibility of wireless connectivity (auto-connect devices)○
+-
+Risks
+Battery life-
+Touch screen issue (caused by ESD, power supply connection, other?)-
+Life test scope (only looking at NIBP)-
+NIBP leaks
+What happens if this isn't caught or happens in the field?○
+-
+SW/FW Bugs-
+Supplier Quality-
+History
+Irvine-based company was acquired >10 years ago-
+Have been purchasing OEM equipment from Zoe (spelling?) and slapping on Midmark brand.
+Midmark had never needed to go through 510k
+-
+   General Page 4    
+
+===== PAGE 5 =====
+Midmark had never needed to go through 510k○
+Zoe is now out of the vitals business. We have inventory to cover through August/September 2026-
+Zoe announced they will no longer support the vitals business with 2 years notice. Decision at 
+Midmark was to pull the design in house (this is Cor 1.0). We did not get any IP from Zoe.
+-
+Irvine struggled to hit deadlines on 1.0
+Target launch was July 2025 with commitment end of 2025○
+Decision was made to move development to Cincinnati in July 2025○
+Most of the Irvine team decided not to move to Cincinnati, including the PM and 
+engineering manager
+○
+-
+   General Page 5    
+
+===== PAGE 6 =====
+1/27/26
+1/9/26
+Schedule
+Friday, January 9, 2026 11:20 AM
+   General Page 6    
+
+===== PAGE 7 =====
+Software Architecture
+Software
+Architect...
+Software
+Friday, January 9, 2026 2:43 PM
+   General Page 7    
+
+===== PAGE 8 =====
+Sub team meetings
+Weekly summary to Rob
+Corscience
+GlobalLogic
+Project Norms and Cadence
+Tuesday, January 13, 2026 5:54 AM
+   General Page 8    
+
+===== PAGE 9 =====
+1/14/26
+Week of 1/26-
+Bringing equipment Friday 1/23-
+15 sessions, 3.5 days-
+Could spill into first week of February-
+Can support 8-9 observers-
+9908 Carver Rd, Cincinnati, OH 45242-
+Moving forward as planned-
+https://midmark.sharepoint.com/teams/DiagnosticsProjects-Cor1.0/Shared%
+20Documents/Forms/AllItems.aspx?csf=1&web=1&e=CKGWh0&CID=b3632553%2Dc0fb%
+2D4da7%2D885d%2Df86b4206431c&FolderCTID=
+0x0120005E678CAB61AF7643922CB0506789295B&id=%2Fteams%2FDiagnosticsProjects%
+2DCor1%2E0%2FShared%20Documents%2F21062%20Cor1%2E0%2F08%20ENG%20Working%20%
+28PDP%29%20Documents%2FPhase%203%2FRDQE%2FRisk%20Management%20and%
+20Usability%2FSummative%20Usability
+-
+Dependencies
+Q-Run○
+-
+Summative Usability
+Wednesday, January 14, 2026 2:42 PM
+   General Page 9    
+
+===== PAGE 10 =====
+Three parts:
+Corscience authored SW tests-
+Corscience authored System tests-
+Midmark authored System tests-
+Verification
+Thursday, January 15, 2026 9:10 AM
+   General Page 10    
+
+===== PAGE 11 =====
+1/16/26
+Building ~140-
+To pass we need 29 consecutive "passing" units (final inspection)
+Not turned on during final inspection○
+Need "clean" DHR
+Could have reworks or test failures as long as they're resolved▪
+○
+Team goal = 90% pass of first build○
+-
+Findings go into DFMEA or PFMEA-
+Things to complete before Q-Run
+PCBA IQ/OQ/PQ has not started at Creation○
+We want 0 deviations and all CQPs complete○
+Firmware update process documented○
+V1.1.7 complete○
+Verification complete○
+Intertek Certification
+Need to submit rationale for recent design changes not affecting previous report
+Alternate construction report□
+▪
+Using Intertek Irvine▪
+○
+Life test
+Bare minimum get through warranty period (2 years)▪
+Ideally get through whole thing▪
+○
+-
+Q-Run
+Friday, January 16, 2026 1:11 PM
+   General Page 11    
+
+===== PAGE 12 =====
+Power up device and confirm home screen-
+Take SPO2 measurement
+Go to settings -> SPO2○
+Confirm all options are enabled (SIQ, PI Percentage, Plethysmograph)○
+Connect probe○
+Confirm "probe off patient" notification○
+Place on finger○
+Confirm pulse rate is updating and reasonable range○
+Cofirm SPO2 updating and reasonable range○
+Confirm perfusion index (SiQ) bars are updating○
+Confirm Pi (perfusion index) is updating and reasonable range○
+Confirm Plethysmograph updating○
+Confirm RRp updates and is in reasonable range○
+Remove from finger○
+Confirm "probe off patient" notification○
+Press RRp○
+Manually enter new RRp○
+Confirm manual RRp on home screen○
+-
+Shakedown Testing
+Friday, February 6, 2026 9:18 AM
+   General Page 12    
+
+===== PAGE 13 =====
+Item Types
+User Story○
+Task○
+Bugs○
+Epic○
+-
+Create templates
+Tasks are pretty limited in fields○
+Use different User Story templates for everyone○
+-
+Every item should have
+Area○
+Sprint○
+Owner○
+Story points
+Points Rough guide (ideal-engineer days)
+1 ~ a few hours (small, straightforward)
+2 ~ 1 day
+3 ~ 2 days
+5 ~ 3–5 days
+8 ~ 6–10 days (consider splitting)
+○
+Definition of done○
+Dependencies○
+-
+Hierarchy
+Should be Epics -> Features -> Stories -> Tasks○
+-
+ADO Patterns
+Sunday, February 8, 2026 8:56 AM
+   General Page 13    
+
+===== PAGE 14 =====
+Global Logic
+Monday, February 9, 2026 9:34 AM
+   General Page 14    
+
+===== PAGE 15 =====
+Ramp Up
+Friday, February 27, 2026 3:02 PM
+   General Page 15    
+
+===== PAGE 16 =====
+MCF = Midmark Connectivity Framework (not customer facing, built into plug-in)
+MCE = Midmark Connect for Epic
+MCA = Midmark Connect for Altera
+MCC = Midmark Connect for Cerner
+IQiC = Centricity Interface
+IQmanager = 
+Older versions of IQVitals will not recognize Cor1.0. No warning or anything.
+IQ Vitals
+Wednesday, March 18, 2026 8:38 AM
+   General Page 16    
+
+===== PAGE 17 =====
+Where we are today on spend
+We are in the final phase of launch readiness, so the remaining spend is concentrated in 
+build execution, test completion, regulatory closure, and launch preparation.
+○
+•
+Whether you still expect to spend the amount originally approved
+Yes. We currently expect to spend the originally approved amount, in addition to the 
+recently requested board funding increase. At this stage, most remaining spend is tied to 
+critical path activities required to support submission, launch readiness, and commercial 
+readiness. 
+○
+•
+What slowing down or pausing the project would look like, including the likely impact
+A slowdown or pause at this stage would create both schedule delay and efficiency loss, 
+because the project is in a late-stage execution phase and many activities are 
+interdependent.
+○
+Builds
+Reassignment or loss of teammates to other projects▪
+Retraining of manufacturing teammates at a later date▪
+Delay getting demo units to sales teams▪
+○
+Testing
+Testing could be placed on hold, but this would delay closure of verification and 
+validation activities and push out downstream launch milestones.
+▪
+○
+Resources
+Because many contributors are shared across programs, a pause would likely result in 
+loss of dedicated focus and reassignment of key team members. Reconstituting the 
+team later would add ramp-up time and reduce execution efficiency. 
+▪
+Core Digital Diagnostics team would shift focus to Cor 1.0 sustaining activities 
+(firmware/cybersecurity updates, COGS reductions) and/or Cor 2.0 development.
+▪
+○
+Regulatory: 
+Delaying 510k resubmission past May would require us to do a full resubmission at a 
+future date, opening us up to more scrutiny and another 90 day review period.
+▪
+○
+•
+Whether there are portions of the work that could be deferred with limited business impact
+There are very few remaining activities that could be deferred without business impact. At 
+this point, most open work is directly tied to product launch, regulatory closure, commercial 
+readiness, or sustaining launch quality. Deferring work would likely delay launch timing and 
+increase restart inefficiency.
+○
+A delay to Cor 1.0 launch creates a portfolio and revenue gap as Zoe inventory is depleted 
+without a direct replacement. Based on current projections, by Q4 we may no longer have a 
+vital signs device on the market outside of Zone.
+○
+•
+Whether there are opportunities to accelerate higher-value work by pausing or slowing lower-
+impact work
+Not materially. Because the project is close to launch, the remaining work is largely critical 
+path or directly launch-enabling.
+○
+•
+Any creative ideas to reduce cost without materially affecting outcomes
+Identify internal testers to replace temporary Global Logic contractors○
+Reevaluate the scope of Parameters Lab external usability testing. This is a risk mitigation 
+activity, however, if the objectives are already substantially covered by other internal and 
+external activities, some or all of this work may be removable. Estimated savings: 
+approximately $41K. 
+○
+•
+Whether there are ways to accelerate progress on your project without requiring much 
+additional spend
+•
+Thursday, March 26, 2026 2:24 PM
+   General Page 17    
+
+===== PAGE 18 =====
+additional spend
+There are no significant low-cost acceleration opportunities that are not already being 
+pursued. The team is already focused on critical path execution, and most practical 
+acceleration levers have been put in place.
+○
+Impact on 2026 Revenue (and 5 year LRP if you have to ask finance for the 2026 numbers as you 
+might as well get them all).
+○
+•
+   General Page 18    
+
+===== PAGE 19 =====
+Cor 1.0 Leadership Transition Plan
+Objective: Transition project leadership from Leslie to [Your Name] and technical integration leadership 
+from Pat to Nick Ross over the next 2–4 months without increasing launch, compliance, quality, or 
+commercialization risk.
+1. Transition goals
+By the end of the transition:
+[Your Name] owns overall Cor 1.0 project leadership, cross-functional prioritization, risk 
+management, and executive communication. 
+•
+Nick Ross owns day-to-day technical integration leadership beyond firmware, including system-
+level coordination across EE/FW/mechanical/manufacturing interfaces. 
+•
+Leslie and Pat are no longer required for routine project execution and are only consulted for 
+defined exception topics. 
+•
+2. Transition principles
+Protect launch readiness over comfort or org simplicity. •
+Transfer ownership early, not at the end. •
+Make tribal knowledge explicit and documented. •
+Use ADO and project artifacts as the system of record for actions, decisions, risks, and 
+deliverables. 
+•
+Treat this as a risk-transfer plan, not just a role-transfer plan. •
+3. Scope of handoff
+Leslie → [Your Name]
+Project leadership and decision-making •
+Cross-functional coordination •
+Critical path / risk ownership •
+Manufacturing / regulatory / tech pubs / service / Oracle-commercialization integration •
+Leadership communication and escalation •
+Pat → Nick Ross
+System-level technical integration •
+Mechanical / electrical / firmware interface decisions •
+NIBP historical issues and design rationale •
+Design transfer and manufacturing technical support •
+Serviceability and open technical risks •
+4. Top risks to mitigate now
+Hidden Leslie-owned program work not formally assigned •
+Pat-held tribal knowledge in mechanical, manufacturing, and NIBP •
+Late discovery of non-engineering launch blockers •
+Weak ownership of design transfer, service, and commercialization deliverables •
+Too much reliance on chats, meetings, and memory versus tracked artifacts •
+Nick remaining too firmware-focused during transition •
+5. Immediate actions (start now)
+Create a single-point-of-failure map across: 
+Regulatory ○
+Manufacturing ○
+Mechanical 
+1.
+Andrew/Leslie Transition
+Tuesday, March 31, 2026 5:43 AM
+   General Page 19    
+
+===== PAGE 20 =====
+Mechanical ○
+NIBP ○
+Tech pubs ○
+Service ○
+Oracle / order entry ○
+Design controls / DHF / DMR / design transfer ○
+Supply chain ○
+Commercial readiness ○
+For each area, define: 
+primary owner ○
+backup owner ○
+top open decisions ○
+top open risks ○
+key artifacts / source of truth ○
+2.
+Start weekly transition/risk integration review led by [Your Name]: 
+critical path ○
+top 5 risks ○
+top 5 decisions needed ○
+launch blockers ○
+handoff gaps ○
+3.
+Require all transition-critical work to be tracked in ADO or project deliverables. 4.
+Run structured knowledge-transfer sessions with Leslie and Pat focused on: 
+what was decided and why ○
+what nearly failed before ○
+hidden dependencies ○
+likely failure modes after handoff ○
+who to involve when issues arise ○
+5.
+6. Handoff approach
+Each domain transitions through 4 steps:
+Observe: successor attends and learns •
+Reverse-shadow: successor leads, current owner supports •
+Approve-only: successor leads, current owner intervenes only if needed •
+Absent test: successor runs without current owner present •
+No domain is considered transferred until it passes an absent test.
+7. Success criteria
+Transition is complete when:
+[Your Name] leads project reviews, risk reviews, and executive updates without Leslie •
+Nick leads technical integration reviews without Pat •
+All launch-critical domains have named owners and backups •
+Key decisions, risks, and deliverables are documented and traceable •
+Remaining Leslie/Pat involvement is limited to a short exception list •
+Leadership agrees residual risk is understood and acceptable •
+8. Proposed timing
+Next 30 days
+Build SPOF map •
+Start weekly transition review •
+Begin reverse-shadowing in non-engineering functions •
+Begin Pat/Nick deep dives on mechanical, NIBP, manufacturing, and service •
+Establish decision log and backup owners •
+Days 30–60
+[Your Name] leads all core project reviews •
+   General Page 20    
+
+===== PAGE 21 =====
+[Your Name] leads all core project reviews •
+Nick leads selected technical integration reviews •
+Complete first absent tests •
+Close highest-risk knowledge gaps •
+Scrub launch-critical non-engineering deliverables •
+Days 60–90
+Leslie and Pat step to exception-only support •
+Finalize residual risk list •
+Confirm launch-readiness ownership model •
+Formalize transition completion with leadership •
+9. Support needed from leadership
+Clear endorsement of the transition now, not later •
+Permission to reallocate Nick’s time beyond firmware •
+Named counterparts in regulatory, manufacturing, service, and commercialization •
+Fast escalation support when cross-functional ownership is unclear•
+   General Page 21    
+
+===== PAGE 22 =====
+Sheet 2
+Connector PCBA interface -
+There are NIBP signals here, not sure where they come from since I would think these would go to 
+the NIBP PCBA, not the connector PCBA
+-
+VEXT: 12V from AC adapter-
+Sheet 3
+MAX17435 battery charger
+SMBUS interface to SOM
+Configurable charge current/voltage▪
+○
+Detects presence of AC adaptor○
+Senses battery voltage○
+Selects VEXT or VBAT, result is VSYS○
+-
+TI LSF0102 level translator for SMBUS-
+Sheet 4
+LTC2955I-2 push-button detection and power on/off
+Controls PFET where input is VSYS, output is VSYS_SW○
+-
+Sheet 5
+Power block diagrams-
+Generate 12V, 5V, 3.3V from VSYS-
+Voltage monitoring-
+Sheet 6
+OnSemi MC34161 for UV/OV monitoring of 5V, 12V-
+Microchip MCP23008 I2C GPIO expander
+Used to read state of UV/OV and PGOOD discrete statuses via I2C○
+-
+Sheet 7
+MAX20404 buck converter for VSYS_SW -> 3.3V-
+Sheet 8
+MAX20404 buck converter for VSYS_SW -> 5.0V-
+Sheet 9
+MAX25240 buck/boost converter for VSYS_SW -> 12V-
+Sheet 10
+Toshiba TLP2745(D4-TP,E optocoupler passes serial data from temperature interface to SOM-
+Sheet 11
+Isolation for SPO2-
+Block diagram for power isolation (5V -> VCC_SPO2)-
+ADuM242E four channel digital isolator
+SPO2 reset○
+SOM<->SPO2 UART○
+-
+On the isolated side:
+TPS79901 LDO (VCC_SPO2 -> 5V_SPO2)
+-
+Main Schematic
+Saturday, January 10, 2026 9:01 AM
+   Electrical Page 22    
+
+===== PAGE 23 =====
+TPS79901 LDO (VCC_SPO2 -> 5V_SPO2)○
+Onsemi NCP718ASN330T1G LDO (5V_SPO2 -> 3V3_SPO2)○
+Nellcor/Masimo connectors○
+Sheet 12
+SPO2 Power Isolation (5V -> VCC_SPO2: 6.2V)-
+MAX13253 Push-Pull transformer driver with Wurth Elektronik SMT transformer-
+Sheet 14
+Scale chair isolation-
+Wurth Elektronik 4-channel digital isolator
+SOM<->chair UART○
+Presence○
+-
+On the isolated side:
+RS-232 transceiver○
+-
+   Electrical Page 23    
+
+===== PAGE 24 =====
+Air rolling pump - Inflation
+Solenoid Valve - cheap, fast deflation for safety and quick deflate
+Proportional Solenoid Valve - Fine, continuous control for deflation
+NIBP Schematic
+Thursday, January 15, 2026 12:09 PM
+   Electrical Page 24    
+
+===== PAGE 25 =====
+Battery Life
+Requirement HWRS-480: The battery shall have at least 75% of its initial capacity 
+after 400 charging cycles.
+-
+Battery datasheet indicates "Cycle Life" >= 500 cycles-
+Battery test specification indicates:-
+ChatGPT estimates these endpoints to be around ~95% to ~5-10% capacity○
+This data is for one cell. Our pack is 2 cells in series, 3 in parallel○
+Our idle current draw is ~1A at level 5 brightness. Our default brightness will be 
+Level 4 (800 mA). For a 10.2Ah battery, this gives us 12.75 hours
+-
+DMM current measurements across power modes:
+In ship mode, the internal leakage current is reduce. The internal TI battery 
+controller is placed into sleep mode.
+-
+Measured current from the battery to the main board while in ship mode
+A DMM shows current ramps slowly from ~1 to ~45uA over a minute period○
+-
+Plugging DC in while in ship mode and device turned off causes current from battery 
+to jump to ~300uA. After about 5 seconds the current jumps to 48 mA in the 
+opposite direction (battery is charging).
+-
+Removing DC without turning the unit on leaves the battery in ship mode.-
+Turning unit on does not change the 48 mA going into the battery-
+Battery % per the home screen icon is about 50-60%-
+Removing DC while unit is still on causes ~880mA to flow from the battery into the 
+board
+-
+Turning the device off results in the same behavior as when the device was in ship 
+mode (ramp from 1 to 45uA)
+-
+Reliability testing
+Battery
+Monday, January 26, 2026 11:05 AM
+   Electrical Page 25    
+
+===== PAGE 26 =====
+Reliability testing
+Battery degradation
+Capacity
+Requirements
+HWRS-480: The battery shall have at least 75% of its initial 
+capacity after 400 charging cycles. Hint: A charging cycle is defined 
+from 5% to 100% charge.
+□
+▪
+○
+Voltage
+Schematic
+VBAT/VSYS aren't used for anything directly. Go only to 
+regulators.
+□
+▪
+Requirements
+HWRS-895: The hardware shall operate in an input voltage range 
+of 5.5V to 14.4V
+Verification: HWTC-271: Use external power supply. Drop 
+voltage until V_SYS_SW drops. Make sure this point is above 
+5.5V.
+
+There are voltage monitors on 5, 3.3, and 12V
+□
+HWRS-901: The hardware shall be able to operate with battery 
+voltages in the range of 6 to 8.4V.
+□
+HWRS-874: The hardware shall provide monitoring for the voltage 
+rails +5V0 and +12V which indicates the violation of the following 
+limits: +5V0: 4.6 to 5.4V +12V: 11.2 to 13.7V Hint: The +3V3 
+voltage shall be monitored by a voltage monitor on the SoM itself.
+Verification: HWTC-300: Connect external supply to 5V and 
+12V. Trigger over and undervoltage thresholds. Unclear 
+what the behavior of the device is once the voltage failure is 
+detected.
+
+□
+▪
+○
+Current
+Schematic
+MAX17435 provides current limiting
+Per HDD, thresh set to 5.12A by default. Turns off when 
+current reaches 130% of threshold.
+
+□
+▪
+Requirements
+HWRS-900: The hardware shall operate with a maximum input 
+current of 3A +/-5%.
+Verification: HWTC-346: Electronic load on Vsys. Increase 
+load until input current is 4A.
+
+□
+HWRS-882: The battery shall have a maximum output power of 
+100W.
+Verification: HWTC-276: Connect load across battery, 
+increase until it shuts off.
+
+□
+HWRS-879: The hardware shall have a fuse to cut the supply if a 
+current greater than 7A +/-5% for 1 second appears.
+Verification: HWTC-268 : Apply electronic load. Increase 
+until fuse blows.
+Fuse function is handled by MAX17435◊
+
+□
+▪
+○
+Missing testing
+I don't see a requirement for 3.3V monitoring even though we do it▪
+Ensure max required current and 6V can still be achieved with max 
+series resistance.
+▪
+Battery temperature under max load prior to tripping current limiter / 
+fuse.
+▪
+○
+-
+   Electrical Page 26    
+
+===== PAGE 27 =====
+ZEUS_LIO
+N_PCLI18...
+fuse.
+Cycle testing with our load profile▪
+   Electrical Page 27    
+
+===== PAGE 28 =====
+1/12/26
+Clinical moving forward with protocol, completion by 1/22-
+If we can't get FDA feedback, will use SME approval-
+Cost for SOW / protocol development is ~$10-15k
+Would need to pay this again if we change direction on protocol after discussing with FDA○
+-
+Will try to get FDA to work collaboratively as they did with NGO on this clinical study-
+Study should take 6-16 weeks-
+Weekly Subgroup - Customer/Market Alignment
+Monday, January 12, 2026 3:43 PM
+   Meetings Page 28    
+
+===== PAGE 29 =====
+3/16/26
+Ramp Up / Ramp Down
+Ramp up starts at Commercial Build 1 and goes to Feb 2027
+Rob wants to order at 3x actual forecast▪
+○
+Brooke owns Ramp-up plan. Goes into Agile○
+Ramp Up/Down just mean forecast○
+-
+2/23/26
+Will new mfg teammate be ready to build VB#6
+Will do observation/cross-training○
+-
+1/26/26
+Do we need to be building full kits (BP cuff, etc) right now?
+Concern of running low on supplies○
+-
+Marketing wanted 61 by end of Feb.
+Leslie to confirm if kits are really needed or just devices○
+-
+Chad Spruance owns Creation qualification
+Putting meeting on calendar with Nick and I to discuss plan and paperwork○
+-
+Weekly Subgroup - Supply Chain
+Monday, January 26, 2026 10:04 AM
+   Meetings Page 29    
+
+===== PAGE 30 =====
+1/26/26
+-
+Weekly Subgroup - Mounting Solutions
+Monday, January 26, 2026 12:36 PM
+   Meetings Page 30    
+
+===== PAGE 31 =====
+1/12/26
+Corscience
+Standing weekly meeting○
+POs created as necessary for specific statements of work○
+There is a general PO for occasional questions / knowledge transfer○
+There are maybe ~20 open issues from Corscience. Unsure how many of these issues are 
+real or still present.
+Nick owns triaging these▪
+○
+-
+Commercial Summit
+Call-in for 3:00 meeting tomorrow○
+Slide templates ready (copied from NGO)○
+ESD fix won't be in 1.1.6 and 1.1.7 likely won't be released. Probably need to load a 
+development release of FW.
+○
+-
+Summative Usability
+Need to resolve ESD issue (not part of 1.1.6)○
+Need to implement EMR audio (or remove the requirement)○
+Do we need to hold Q-Run until after this is completed?○
+-
+Schedule
+Build currently planned for next week (1/19). This will be used for Summative Usability, 
+which is currently planned for week of 2/4.
+○
+There have been some hiccups with the build today so we'd like to push the build out by one 
+week to week of the 26th. Still in time for Summative.
+○
+Summative Usability needs to have the touchscreen ESD issue fix in it and needs to run with 
+a formal release. We were planning to holdoff on this fix until 1.1.7. Gives time to meet with 
+E2I and do more testing. Suggestion now is to just delay 1.1.6 and get this fix in.
+○
+We have a month buffer between now and launch even in the best case scenario with the 
+FDA
+○
+So, new schedule (this could be pushed out further if FDA requires clinical testing):
+1/26: VB5▪
+2/9: 1.1.6 Release with ESD touchscreen fix▪
+2/10: Commercial Summit▪
+2/18: Summative Usability▪
+○
+-
+Cor1.0 Alignment - Leads
+Monday, January 12, 2026 9:06 AM
+   Meetings Page 31    
+
+===== PAGE 32 =====
+3/31/26
+Outstanding deviations/failed inspections 
+SPO2 wensor, Exergen, Nellcor cable have open labeling changes (currently failing 
+inspection)
+○
+SPO2, Nellcor PCBA deviations related to inspection○
+-
+6 outstanding CQPs-
+HALT testing (ACTION (me): followup with Nick Doseck on this-
+3/10/26
+VB6: 18-19th, 24 units
+GL is getting 4 Masimo RRP units now (shipped today)○
+GL is getting 1 of each of 4 models form VB6 build○
+-
+3/3/26
+Dr Tom joined in the beginning
+One outlier with small adult cuff. SPO2 data shows there was movement during the 
+measurement.
+○
+Plan is to show FDA data with and without and rationalize exclusion due to motion.○
+Mitigations if FDA doesn't like this
+Detect child / small adult cuff and put up warning to use step mode▪
+Proactively work on getting more small adult data. Tom to work on quote from 
+Parameters.
+▪
+○
+-
+VB6 Goals
+CQPs complete
+Significantly at risk▪
+Problem children
+Legacy cuffs□
+Thermometer, SPO2 sensor□
+▪
+Received CQPs from Creation. Under review by Chad Spruance▪
+○
+-
+1/20/26
+3:00 lineside meeting every day this week. Discuss progress, changes, issues, etc.-
+Adam not comfortable with Creation at this time from a CQP standpoint…-
+1/13/26
+Are Nellcor and Masimo integration validation performed the same way? Need to compare test 
+reports.
+-
+Team Leads
+Tuesday, January 13, 2026 9:10 AM
+   Meetings Page 32    
+
+===== PAGE 33 =====
+1/9/26
+Talking about Jan/Feb builds-
+Need production level devices to support Summit, Validation-
+Looking for smooth transition to "Q-Run"-
+Need to make sure all components are qualified prior to Q-Run-
+There is a component qualification process (CQP). Part type determines effort.-
+Many on Cor1.0 are COTS. Light workload. ~75% (Level 1)-
+Currently 50% through qualifications-
+All new parts need to be qualified before Q-Run-
+There are about 50 components that need qualified-
+Supplier quality needs list of components that are changing-
+Seems to be confusion around the cart and wall mounts. I guess this isn't being tracked anywhere 
+yet.
+-
+Talking about "Work Right" owning some work. Not sure what this is. Maybe the cart supplier.-
+Part Qualifications
+Friday, January 9, 2026 10:08 AM
+   Meetings Page 33    
+
+===== PAGE 34 =====
+3/30/26
+FDA response to child cuff. Options we have on the table:
+Remove support for child cuff completely○
+Implement algorithm for child cuff detection
+Existing algorithm can't distinguish between small adult and child cuffs▪
+○
+Remove NIBP PR from displaying in linear mode
+Affects adult patients as well▪
+○
+Get more child data○
+-
+1/22/26 (Q-Sub)
+FDA
+Kevin Dang: consultant○
+Abouzar: lead reviewer○
+Priya: Cybersecurity○
+Jennifer Kozen○
+-
+Deficiency 2b
+FDA aligned○
+Include redline of documents that have been changed○
+-
+2d
+Updates largely address deficiency○
+Still need traceability to SW requirements (add column for this)○
+-
+2a
+Intent may not have translated○
+Residual risk acceptability matrix is 2-tiered, when 3-tiered is recommended○
+Rationale for 2-tiered could be acceptable○
+Jason doesn't have any issue with updating this. The 2-tiered is required by a european 
+standard.
+○
+-
+11
+Recommendation is still to have ECG ground truth○
+Concerns with data provided○
+10% acceptance is a bit high
+Need rationale for why this could be acceptable▪
+○
+Irregular rhythms not included in study. This is generally expected.○
+Single lead ECG is sufficient (no need for 12 lead)○
+Submit both new and original sets of data○
+Success criteria will be tightened in new protocol (about half).○
+Can provide high level feedback if protocol is attached to meeting minutes○
+-
+12
+Aligned with reports submitted○
+Desire is to make sure our software and hardware does not negatively impact OEM 
+measurements
+○
+Medtronic did not provide test data
+Provide summary in meeting minutes and FDA will respond▪
+○
+-
+3
+Generally approach in the right direction○
+Need to see new information to confirm○
+Make sure references are clear and easy to follow○
+-
+3c-
+510k
+Friday, January 9, 2026 1:37 PM
+   Meetings Page 34    
+
+===== PAGE 35 =====
+3c
+Include redlined document○
+Appears to be in line with request○
+-
+4a-b
+Either of two approaches are adequate○
+Suggest choosing one of two options suggested○
+Question is will continued use of device is safe. If not, this should be communicated to user. 
+Concern is generally that the device could continue to be used when a failure is detected.
+○
+-
+5
+Generally in the right direction, but need to see○
+Looking for middle ground between "high level" and detailed, need detailed enough for 
+review.
+○
+External interfaces, what are the communication protocols and encryption to the plugin○
+-
+7
+Any vulnerability that affects component and has available patch, needs patch applied. If 
+patch not applied, need rationale/explanation.
+○
+-
+8
+Recommend making sure documentation showing compatibility with Windows 10 be 
+removed since this is obsolete.
+○
+Include redlines○
+-
+9
+Recommend getting end of support statements from vendors
+If this cannot be obtained, document and describe how this is handled in quality 
+system
+▪
+○
+We have augmented SBOM template.○
+-
+10
+Justification provided looks to be acceptable○
+-
+Clinical Study Timeline
+Submit report next week○
+10 days to approve○
+A few days to get participants○
+2-3 weeks to test○
+Commit to mid-March, work to Friday March 6th○
+510k approval by April 15th ○
+-
+1/9/26
+IFU Updates
+We have a number of IFU changes needed outside of addressing the FDA deficiencies 
+(UI/UX, others)
+○
+When do these need to be done? If update doesn't impact user workflow, then they don't 
+need to be in the IFU provided during validation testing.
+○
+Strategy is to create branches of the IFU, where one only has the 510k updates. We'd 
+provide this as part of the 510k response. A draft is acceptable (don't necessarily need to 
+release in Agile)
+○
+Dr. Tom is concerned about BP pulse rate accuracy stated in IFU. No one knows where the 
+accuracy (sounds like it's stated as 5%) came from. If FDA accepts existing BP pulse rate 
+clinical data, we'd need to update the stated accuracy in the IFU, which may be closer to 
+10%.
+○
+-
+SRS lacks HW details
+Nick Ross on the hook to add HW requirements, protocols, etc○
+-
+Unresolved anomalies
+Firmware updates will indicate contact service when certain errors are detected○
+-
+SW inputs/outputs not adequately described
+Nick on the hook
+-
+   Meetings Page 35    
+
+===== PAGE 36 =====
+Nick on the hook○
+SBOM needs information on end-of-life/support dates for COTS-
+EMC-
+Clinical testing
+Test house writing protocol for BP pulse rate○
+Will go ahead and start executing, could kill trial if FDA accepts our original data○
+-
+Integration testing with Masimo/Nellcor/Extrogen
+FDA wants performance pre and post integration comparison○
+This seems to be a standard for SPO2 but not temperature○
+We asked extrogen to test temperature○
+We will test integration with our scale (though FDA didn't specifically ask for it)○
+-
+   Meetings Page 36    
+
+===== PAGE 37 =====
+1/13/26
+Dominik and Marianne-
+Helping with 510k deficiencies-
+3 open POs
+General questions
+Budget exhausted (39.25/40 hours)▪
+○
+FDA deficiencies support Phase 1
+Budget exceeded (61.75/26 hours)▪
+○
+FDA Support Documentation
+WAF not signed▪
+Budget exceeded (53.75/50 hours)▪
+○
+-
+We have an unpaid bill
+Corscience will not work until they have at least a commitment date for payment○
+Invoice is from 2024 so Leslie was not involved.○
+Jeff and Josh had meeting yesterday to discuss.○
+Jeff asked questions to Corscience right before Xmas break. Corscience provided answers, 
+but did not get a response.
+○
+-
+We are missing some information related to SW verification test setup
+Corscience to help with this without charge○
+-
+Corscience
+Tuesday, January 13, 2026 8:10 AM
+   Meetings Page 37    
+
+===== PAGE 38 =====
+ATE1 (Main Board End of Line) Documentation
+Creation designed and built tester per our unwritten requirements-
+Meeting with local EEs (Austin Lowder, Lee Dickinson)-
+Main board tester
+IQ/OQ/PQ driven by supplier but need to provide documentation to us to meet our 
+standards
+○
+IQ: confirm equipment is installed correctly○
+Reference documentation on assembly drawing○
+-
+Take Creation test report and work backwards to generate requirements-
+For NIBP board, using same test specifications as for Zone -
+Questions about what happens if Creation needs to make a change to a tester-
+Misc
+Wednesday, January 14, 2026 1:42 PM
+   Meetings Page 38    
+
+===== PAGE 39 =====
+2/9/26 Meeting with Roman and Oleksandr
+In final stages with master SOW-
+Will manage each project through Work Authorizations. Email template.-
+Invoicing on monthly basis-
+Waiting to send January invoice until master SOW is signed-
+GL will prepare WA email and send to Leslie and I for review-
+Global Logic
+Thursday, January 15, 2026 9:04 AM
+   Meetings Page 39    
+
+===== PAGE 40 =====
+2/26/26
+Still waiting on revised quote-
+Need drawings for missing CDR components-
+Aligned that we will not include alternates or detailed technical description in CDR
+Risk if parts cannot be purchased or go EOL○
+-
+There is a risk for fluid ingress
+Internal testing shows ingress. Conclusions are subjective.○
+Will remove ingress testing from Intertek scope and put out RFQ for MECA or TUV○
+Mechanicals will get together and evaluate contingency plan if a design change is required○
+-
+1/26/26 - Mounting Options Status
+By Thursday Intertek should have all of our deliverables-
+Waiting on test status from Intertek (currently say "pending")-
+Intertek Irvine has not been very responsive-
+Alternate construction
+Discrepancy on what has actually changed on PCBs○
+Discrepancies on original CDR (obsolete components, wrong components, etc)○
+Used wrong BP cuff during first testing. Need to test with actual cuffs listed as compatible.○
+-
+Ideal project
+TUV/Midmark for safety testing○
+Intertek for EMC○
+TUV does not mind Intertek doing EMC○
+-
+Could pursue specific standards in-house (temp, BP, SPO2)
+Get comfortable with testing and then have TUV come evaluate ○
+-
+TUV working on getting certified for temperature measurement-
+1/23/26
+2-3 month test time (+ 3-4 week backlog)-
+On-site testing is possible (Intertek sends engineer to us)
+Can bring desktop stuff (BP simulator, etc)○
+-
+Boxburough can support all of our standards-
+Only other site that might support all of our standards is Minnesota-
+Copy Ming and Colin on our request for quote-
+1/20/16 (Meeting with Intertek)
+Lexington
+Don't do medical devices○
+Work with Texas often○
+-
+Columbus, Grand Rapids, and Chicago do not do medical testing. Cleveland lab is closed.-
+Foxborough, Massachusetts does medical devices-
+Lexington generally booked about a month out
+Can sometimes expedite○
+-
+1/20/26 (Internal meeting)
+Alternate Construction
+No conversations yet
+-
+Regulatory
+Tuesday, January 20, 2026 10:24 AM
+   Meetings Page 40    
+
+===== PAGE 41 =====
+No conversations yet○
+Peter hasn't done a deep dive of the new design yet○
+SPO2 requires IPX2 cert. Will need redone since we changed the housing.○
+New cart with USB Port-
+Took four months on original construction for testing
+Originally only got test report in Octoberish○
+Just received certification○
+-
+We typically don't choose the Intertek location. It's whoever has bandwidth.-
+TUV, UL, Intertek-
+Haven't used TUV for everything before-
+UL would want to do a full retest. ~$200k-
+Components in critical list are no longer in design and are/or overly specified-
+CDR
+Constructional Data Review○
+-
+Meeting tomorrow to put together list of changes for alternate construction-
+For COR 2.0
+We could do EMC testing at Intertek○
+Base standard testing at Midmark/TUV○
+-
+Budget
+Depends on scope.○
+Original Intertek quote was $104k.○
+$100k is likely worst case number○
+-
+   Meetings Page 41    
+
+===== PAGE 42 =====
+1/27/26 - Meeting with LXD
+Last night factory did another ESD test. They are able to see something similar.-
+Started conversation with touch controller IC vendor to detect the event-
+Few registers in the IC that could be manipulated
+Register 91: Touch event counter○
+-
+Touch controller update
+Driver can do it over I2C. LXD may just need to give us a new driver.○
+-
+Will get us something to try by the end of this week-
+Focal Tech FT7511 is tier 1 (high end) supplier. There are other options for automotive/industrial 
+applications, but they are quite a bit more expensive. Cannot use same touch sensor and our 
+driver would need to be updated.
+-
+LXD people on the phone are in North Carolina-
+E2IP
+Tuesday, January 27, 2026 10:59 AM
+   Meetings Page 42    
+
+===== PAGE 43 =====
+3/24/26
+New carts expected 5/1-
+May have one cart still available in boxes that could be used to test the Oracle system during CB1. 
+This cart is damaged but could be good enough for this purpose.
+-
+3/3/26
+Target date to get Workrite to Intertek is end of next week
+Main risk is label○
+-
+2/24/26
+New cart
+Workright working on inspection and then they will get shipped out
+Workright is in California▪
+Should have carts next week▪
+○
+Will do pre-compliance testing here before going to Intertek
+Primarily incline testing▪
+Label testing▪
+Tip test…maybe▪
+○
+Overmold testing
+Will repeat cleaning test we had trouble with before▪
+Contingency plan is to pivot to an ABS material that works with the same mold
+We'd have to scrap the 100 carts (just the handle parts) we're getting□
+Can still use for Intertek testing but we'd need to provide rationale for the 
+material update and have them add it to the report
+□
+▪
+○
+-
+Zone Connector EOL
+Jim's team can help with CAD and admin side of pushing change through○
+Up to EE on my team to identify part and perform any required testing○
+Jacob Broaddus may take diagnostics niche going forward…○
+-
+1/28/26
+Prototype for registration QR code
+Goes on screen cling-on○
+-
+New cart
+Internal testing shows significant discoloring of overmold material on shelf handle.○
+Unclear if material we have is the same as what we'd get from production?○
+Darin has asked Workrite what other material options we have. They say we don't have 
+options without changing the tool.
+○
+Other options
+We could launch as-is and fix in sustaining▪
+We could remove overmolding entirely and go straight ABS
+Need IDHF, marketing input□
+▪
+Don’t use specific cleaner that's causing the discoloration.▪
+○
+-
+Sustaining
+Wednesday, January 28, 2026 4:07 PM
+   Meetings Page 43    
+
+===== PAGE 44 =====
+2/10/26 - 2 hour Alignment on Path Forward
+Manual vs automatic measurements
+Should follow clinician intent○
+Typing in a manual entry should prevent automatic from overriding○
+When SPO2 probe is removed and placed back on, it RRp will not override a manual RR○
+Pressing Save should NOT clear all the vitals (Different from what is happening now)
+Nick, Lisa, Rick Sr, setting up time for when Nick returns to discuss and scope▪
+○
+-
+2/4/26 - First meeting after study completion
+Results-
+No potentially hazardous situations-
+Most users had some difficulty and committed a foreseeable misuse
+Some need to be additions to forseeable misuse list○
+-
+Findings
+UX Motion
+UI moving animations, micro-interactions, click states▪
+Severity 2▪
+NGS2, NGO have these▪
+Seemed to be common cause of confusion amongst users▪
+Examples
+Unclear when RRP is being acquired. SPO2 measurement populates first with no 
+indication RRP is still working.
+□
+▪
+Will move forward with listing and prioritizing various issues in this category▪
+○
+-
+Summative Usability
+Wednesday, February 4, 2026 2:10 PM
+   Meetings Page 44    
+
+===== PAGE 45 =====
+Will move forward with listing and prioritizing various issues in this category▪
+Exam Chair
+Lots of issues here▪
+Severity 4▪
+○
+RRP
+RRP Persistence
+RRP from previous patient displayed for ~2 min until new one captured□
+Severity 3□
+▪
+RRP Reading
+Users not aware it's being measured□
+Triggers notification that reads "low signal quality". Happens every time□
+Severity 3□
+▪
+RRP Crash
+Device resets while obtaining RRP□
+Severity 4□
+▪
+Manual/Auto RR/RRp measurements
+Which gets priority? When to override? Need to notify user of override?□
+Inform user on manual RR screen that auto is available?□
+▪
+Enter Height
+Many confused about conversion of feet to inches□
+Some users wanted more than one decimal place□
+Metric to imperial□
+Backspace clears whole field instead of last number□
+Almost everyone struggled on this screen□
+Severity 3□
+▪
+SPO2 Capture
+Yellow highlight box around SPO2 box when sensor removed. Stays forever.□
+Severity 3□
+Steve thinks this was carry over from Zone, which can do continuous 
+monitoring. This is a spot measurement (at least right now) so the yellow box 
+doesn't make a lot of sense.
+□
+▪
+Pain score
+Some questioned if we show pain faces instead of or in addition to the numbers 
+(face shows up AFTER clicking number)
+□
+Some users clicked the faces expecting different outcomes□
+Severity 2□
+Alignment that this is ok for now, but it would be a good improvement in the 
+future
+□
+▪
+Floor scale
+Only shows Fairbanks scale is connected when the scale is turned on□
+Severity 2□
+This is not an issue with the Detecto scale□
+▪
+Battery icon
+Does not have "charging" state□
+▪
+Battery Charging▪
+Patient ID▪
+○
+   Meetings Page 45    
+
+===== PAGE 46 =====
+2/6/26 - Meeting with Adam Clutter
+We are part of MDSAP program
+Scope: Canada, US, Australia○
+Work with external auditor (BSI). They come in regularly to audit. FDA does not.○
+For Cincinnati, we will add location to exiting cert○
+Usually 1 auditor, 2-3 days. Annual basis. This year will be summer or fall.
+Kort will come to Cinci for that▪
+○
+Next year, re-cert is due. Probably 3-4 auditors for a week.○
+-
+2/6/26 - Meeting with Adam Clutter and Leslie
+Need to document Irvine/Corscience/Versailles quality system changes-
+There are probably a lot of Corscience docs that haven't been imported to Agile-
+Need to expand scope of Versailles QMS to Cincinnati
+Kort sending request to BSI within the next week or two
+BSI is auditing company▪
+Will come onsite for Cincinnati audit▪
+○
+-
+Quality
+Friday, February 6, 2026 10:55 AM
+   Meetings Page 46    
+
+===== PAGE 47 =====
+2/20/26
+FDA Guidance
+Guidance on how to comply with "law"○
+Don't necessarily have to follow them exactly, but following ensures we are compliant.○
+-
+Who is doing the continuous assessment?
+Not a team○
+Thomas Stevenson and Jason Feldhaus are mostly focused on new product development○
+-
+Penetration testing
+Currently plan says 2-year cycle for pen testing○
+2 years is not specifically called out in FDA guidance○
+-
+Cybersecurity
+Friday, February 20, 2026 8:12 AM
+   Meetings Page 47    
+
+===== PAGE 48 =====
+2/23/26 - NIBP Debug System
+Run every NIBP board through this debugging system PRIOR to attaching manifold and functional 
+test
+Can't easily undo manifold attachment since it uses UV cured epoxy○
+-
+Debug system allows us to test each valve on the NIBP board independently. If failure is detected, 
+rework.
+-
+Linear valve has been the issue
+Most failures show very poor leakage (like it's pretty much open)○
+Some parts have smaller but still failing leak (~15 mmHg)○
+>50% fallout○
+Creation thinks it's wave soldered, but doesn't seem 100% confident○
+-
+Debug system was designed/built in Vancouver. Needs to be shipped to Dallas. Will be 
+overnighted today.
+-
+Dallas has loose parts on hand that can be tested with this debug system-
+Creation
+Monday, February 23, 2026 3:01 PM
+   Meetings Page 48    
+
+===== PAGE 49 =====
+3/24/26 (Meeting with Leslie, Rig, Arjun, Lisa, Chad)
+6/15: Everything (software) released in Agile for commercialization
+Currently 1-2 week behind schedule○
+-
+Bug criticality (1-4)-
+Software Team
+Tuesday, March 24, 2026 1:43 PM
+   Meetings Page 49    
