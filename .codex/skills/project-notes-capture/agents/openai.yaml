@@ -1,4 +1,4 @@
 interface:
   display_name: "Project Notes Capture"
-  short_description: "Capture project notes and sync TODOs"
-  default_prompt: "Use $project-notes-capture to add today's notes to @Cor 1.0 and update any TODO_YYYY-MM-DD items."
+  short_description: "Capture notes, TODOs, and relationship profiles"
+  default_prompt: "Use $project-notes-capture to process the latest unprocessed Monday-Friday raw notes file at the first available time, even if today is a weekend. Ignore `# Day Plan`, parse only `# Meeting Notes`, update project notes/TODO files, and maintain `profiles.md` when useful people context appears."

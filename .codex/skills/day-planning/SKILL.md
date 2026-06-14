@@ -1,6 +1,6 @@
 ---
 name: day-planning
-description: Organize a workday using Outlook calendar/email and Microsoft Teams signals, with concise meeting triage, attendee/topic-aware pre-meeting briefs, follow-up identification, suggested new TODOs, open-task prioritization, and short reply drafts. Use when the user asks to plan today, triage a calendar, prepare for meetings, review unread or flagged email, scan Teams for follow-ups, identify what needs attention next, draft quick responses, or capture action items after a meeting.
+description: Organize a workday using Outlook calendar/email, Microsoft Teams signals, project notes/TODOs, and `profiles.md` relationship context, with concise meeting triage, attendee/topic-aware pre-meeting briefs, follow-up identification, suggested new TODOs, open-task prioritization, and short reply drafts. Use when the user asks to plan today, triage a calendar, prepare for meetings, review unread or flagged email, scan Teams for follow-ups, identify what needs attention next, draft quick responses, or capture action items after a meeting.
 ---
 
 # Day Planning
@@ -30,13 +30,15 @@ Treat the project markdown files as the system of record for:
 
 Treat the `# Day Plan` portion of `Raw_Notes\YYYY-MM-DD.md` as planning-only working material, not archival project memory.
 
+Treat TODO, recurring TODO, milestone, open-question, and action lists already written into `Raw_Notes\` day-plan files as stale snapshots. Never use those snapshots to determine current due dates or open/closed status. If a `Raw_Notes\` snapshot conflicts with a project `*_todos.md` file, the project `*_todos.md` file wins.
+
 When `day-planning` needs commitments, milestones, decisions, or unresolved questions, read them from the project markdown files instead of reconstructing them from email or chat.
 
 Use the same alias normalization, tag interpretations, and closure semantics as `project-notes-capture`.
 
 When the user reports that a tracked item is complete during a day-planning workflow, update the matching project TODO file directly when the project and item match are clear. If the match is ambiguous, ask one short question.
 
-When TODOs, recurring TODOs, milestones, or actions are surfaced from project TODO files, include their stable ID in the output so the user can later reference the item by ID.
+When TODOs, recurring TODOs, milestones, open questions, or actions are surfaced from project TODO files, include their stable ID in the output so the user can later reference the item by ID.
 
 When referencing a TODO in the day-plan summary, format it as `[TODO 0001] Description` and include due timing inline, for example `due today`, `due Friday`, or `overdue from Tuesday`.
 
@@ -44,7 +46,9 @@ When referencing an action-for-others item in the day-plan summary, format it as
 
 When referencing a milestone in the day-plan summary, format it as `[MS 0001] Description` and include milestone timing inline, for example `due today`, `in 8 days`, or `overdue from Tuesday`.
 
-Apply that timing rule to all tracked TODO, milestone, and action references in the `# Day Plan` summary, not just the `Upcoming milestones`, `This week's due TODOs`, or `Upcoming/past due actions` subsections.
+When referencing an open question in the day-plan summary, format it as `[OQ 0001] Owner or Unassigned - Question`.
+
+Apply that timing and ID rule to all tracked TODO, milestone, open-question, and action references in the `# Day Plan` summary, not just the `Upcoming milestones`, `This week's due TODOs`, `Open questions`, or `Upcoming/past due actions` subsections.
 
 Do not rewrite or reorganize historical project notes while doing day planning unless the user explicitly asks for note capture or note cleanup.
 
@@ -59,11 +63,13 @@ Prefer these sources when connected and available:
 - Teams chats and messages for unresolved follow-ups and unblock requests
 - SharePoint files linked from invites, email, or chats when they are likely to contain agendas, pre-reads, decision decks, study materials, or other meeting inputs
 - workspace notes and TODO files when they add context for meetings, 1:1s, or follow-ups
+- `profiles.md` as the primary relationship-memory source for attendee context, personal reminders, contact details, interaction style, and 1:1 personal background/questions
 
 For workspace context, prefer targeted reads such as:
 
 - `*_todos.md`
 - `*_notes.md`
+- `profiles.md`
 - files clearly tied to today's meetings or requests
 
 Read [name aliases](references/name-aliases.md) when a meeting attendee, 1:1 target, or note reference uses shorthand or a partial person name.
@@ -72,11 +78,34 @@ Stop gathering once there is enough information to rank the next actions. Do not
 
 If Outlook, Teams, or another source is not connected or not exposed through available tools, say so plainly and continue with the sources you do have.
 
+## Calendar completeness
+
+Before writing a day plan, build a complete meeting inventory for the target date.
+
+- query the full local day window from 00:00 through 23:59:59 in Andrew's timezone
+- request enough Outlook calendar results for a dense executive calendar; use at least `top=100` when the connector supports it
+- if the connector returns pagination metadata such as `has_more` or `next_from_index`, continue paging until the full day window is exhausted
+- include accepted, tentative, no-response, and organizer-owned meetings unless they are explicitly cancelled
+- do not drop a meeting because it overlaps another meeting, overlaps focus time, or looks lower priority; keep it in the meeting-notes template and mark it `optional`, `request notes`, `delegate`, or `decline`
+- omit only pure non-meeting calendar noise such as focus blocks, travel holds, PTO/off-work blocks, room/resource holds, or personal placeholders unless the user asks for everything
+- when the calendar is unusually dense, run a quick sanity check before finalizing: compare the meeting-notes template against the full Outlook inventory and verify every non-noise event appears exactly once
+- if a meeting appears in Outlook but has too little detail to triage, still include the title, time, attendees if available, and a short `Recommendation: unclear; check invite/body`
+- if the user reports a missing meeting, treat that as a planner defect: update the skill or workflow so similar meetings are included next time
+
+For meetings that often get missed because they are theme-based rather than exact recurring titles:
+
+- treat Cor1 software, SW timeline, firmware timeline, scrum/status/update, FW, plugin, and execution-sync titles as Cor1 firmware/software lane meetings when the attendees, organizer, body, or adjacent notes point that way
+- treat TI, ECG, SpO2, auscultatory BP, Riva, feasibility, sensors, or roadmap titles as Cor2 technical/roadmap lane meetings unless the invite clearly belongs elsewhere
+- include these lane meetings in the meeting-notes template even when they look narrowly technical; then recommend `attend`, `delegate`, or `request notes` based on decision value
+- for similarly themed meetings, add recent lane reminders from project notes/TODOs even when the exact prior title does not match
+
 ## Build meeting context like an embedded assistant
 
 For meaningful meetings, prepare Andrew from the meeting's topic, attendees, recent messages, and relevant project memory, not only from the exact recurring meeting history. Search by meeting title keywords, project/workstream aliases, organizer, and key attendees. Pull from Outlook email, Teams messages, recent notes, TODOs, actions assigned to others, milestones, open questions, and decisions when they plausibly connect to the meeting.
 
 Prefer context that lets Andrew walk in ready to steer: unresolved asks, decisions likely needed, promises made by or to attendees, recent changes since the last discussion, interpersonal context from 1:1 notes, and risks that should be surfaced early. Include suggested questions, talking points, or proposed next steps when useful.
+
+For 1:1s and relationship-heavy meetings, treat `profiles.md` as the first relationship-memory source before broader notes search. Resolve the attendee through aliases and profile headings, then use the matching entry for durable private prep: role/function, working relationship, personal context, family or life details, interests, last known interaction, and interaction style. Convert this into concise personal background and optional personal questions that would feel natural for Andrew to ask. Keep questions specific enough to be useful, but non-invasive and grounded only in captured facts. Never imply the question came from a profile or assistant memory, and do not include sensitive personal details in any external-facing draft unless Andrew explicitly asks.
 
 Keep this concise. Do not summarize every related email or chat. Extract only what changes meeting readiness, and cite the source when you include specific external context.
 
@@ -168,6 +197,7 @@ When the user asks to plan the day, also provide:
 - on Mondays, a short summary subsection for `Week ahead`
 - a short summary subsection for `Upcoming milestones`
 - a short summary subsection for `This week's due TODOs`
+- a short summary subsection for `Open questions`
 - a short summary subsection for `Upcoming/past due actions`
 - a dated Markdown file for the plan
 - a paste-ready meeting-notes template unless they clearly ask not to
@@ -212,10 +242,11 @@ For `Week ahead` on Mondays:
 
 For the dated Markdown file:
 
-- create a new file under `Raw_Notes\` named `YYYY-MM-DD.md` using the user's local date
+- create a new file under `Raw_Notes\YYYY\MM-Month\Week_of_YYYY-MM-DD\YYYY-MM-DD.md` using the user's local date
+- choose `Week_of_YYYY-MM-DD` from the Monday that starts the target date's workweek
 - save the same day-plan content you are presenting, including the short summary and meeting-notes template
 - never edit or overwrite an existing file inside `Raw_Notes`
-- before creating the file, check whether `Raw_Notes\YYYY-MM-DD.md` already exists for the intended planning date
+- before creating the file, check whether the exact dated file already exists for the intended planning date
 - if that exact dated file already exists, treat the planning work as already done for that date, stop without creating a suffixed copy, and tell the user the existing file path
 - do not create `YYYY-MM-DD-2.md` or other suffixed variants for normal day-planning or overnight automation runs
 - if you need to inspect whether the dated file already exists, limit that check to file existence and path discovery; do not read or rewrite the file contents unless the user explicitly asks
@@ -232,6 +263,9 @@ When the request is clearly for an overnight or next-day plan, create the raw-no
 For `Upcoming milestones`:
 
 - scan available `*_todos.md` files for milestone entries with due dates in the next 30 calendar days
+- include open overdue milestones only when they are 7 calendar days overdue or less
+- do not show milestones that are more than 7 calendar days overdue unless the user explicitly asks for older overdue milestones
+- do not scan `Raw_Notes\` day-plan files for milestone due dates because those entries are historical snapshots
 - include only open milestone entries by default; skip `[x]` completed milestones unless the user explicitly asks for completed milestones
 - prefer milestone items in `## Milestones` sections and milestone-style entries such as `MS_...`
 - show the milestone ID, milestone due date, and calendar days until due, for example `[MS 0006] 2026-04-27 - 21 days until Commercial Build #1`
@@ -252,6 +286,16 @@ For `This week's due TODOs`:
 - keep carrying overdue TODOs forward in every day plan until they are explicitly closed in the source TODO file
 - keep this list short and high-signal
 - if there are no same-week due or overdue TODOs, say that plainly in one short line
+
+For `Open questions`:
+
+- scan available `*_todos.md` files for open entries under `## Open Questions`
+- always include this top-level section in every full day plan, even when no open questions exist
+- include each stable open-question ID when present, formatted as `[OQ 0007]`
+- show the project, owner or `Unassigned`, question text, and captured date/source when present
+- prioritize questions tied to today's meeting attendees, aging questions, and questions blocking decisions
+- include all open questions when the list is short; when the list is long, show the highest-signal items and note how many additional open questions exist
+- if there are no open questions, say that plainly in one short line
 
 For `Upcoming/past due actions`:
 
@@ -275,6 +319,7 @@ Default that template to raw Markdown:
 - `Week ahead:`
 - `Upcoming milestones:`
 - `This week's due TODOs:`
+- `Open questions:`
 - `Upcoming/past due actions:`
 
 If `Upcoming milestones` contains one or more items, format it like:
@@ -282,6 +327,12 @@ If `Upcoming milestones` contains one or more items, format it like:
 - `Upcoming milestones:`
   - `[MS 0006] 8 days until ...`
   - `[MS 0007] 11 days until ...`
+
+If `Open questions` contains one or more items, format it like:
+
+- `Open questions:`
+  - `[OQ 0007] Cor_1.0 / Jeff Bargemann - Does the launch build still need the additional service log export?`
+  - `[OQ 0008] Admin / Unassigned - What is the approval path for the invoice?`
 
 # Meeting Notes
 
@@ -313,7 +364,8 @@ Rules for the meeting-notes template:
 
 For 1:1 meetings, extend the template with:
 
-  - Personal catch-up: concise human reminders from notes
+  - Personal background: concise human reminders from `profiles.md` first, then notes
+  - Potential personal questions: 1-2 optional, natural questions grounded in known context
   - Follow ups from last meeting
     - Were you able to...
   - Open Questions
@@ -329,6 +381,7 @@ Under `Actions for Them`, include matching open entries from `## Actions for Oth
 When useful, also include matching decisions from `## Decisions` and milestone pressure from `## Milestones`, but keep the prep short.
 
 When an open question comes from a TODO file, preserve the full TODO text unless the user explicitly asks for a shortened version. Keep captured dates and source notes when they are present in the item.
+Include the open-question ID when present, formatted as `[OQ 0007]`, so Andrew can close or reference it directly.
 
 When an action-for-others entry comes from a TODO file, preserve the original action text and due date when present.
 Include the action ID when present.
@@ -344,7 +397,7 @@ For meeting prep, use this compact shape:
 - `Risks:`
 - `Talking points:` only when useful
 
-Include attendees, related emails or chats, and 1:1 personal background from notes only when they materially help. Keep each line very short.
+Include attendees, related emails or chats, and 1:1 personal background from `profiles.md` and notes only when they materially help. Keep each line very short.
 
 Do not limit prep to prior notes from the same recurring meeting. Use attendees, organizer, project labels, topic keywords, and nearby email/Teams activity to find adjacent context and likely open loops.
 
@@ -382,20 +435,25 @@ Do not auto-populate the meeting-notes `## Misc` section with actions or reminde
 
 Only surface an action inside an individual meeting block when the user explicitly asks for meeting-specific action reminders or when the action is essential to make the meeting recommendation understandable.
 
-For 1:1 meetings, always check workspace notes for personal details on the attendee before answering. Search likely profile sections in notes files before giving up.
-Normalize shorthand names through the alias map before searching notes and TODO files for 1:1 context.
+For 1:1 meetings, always check `profiles.md` first for the attendee's profile before answering, then check workspace notes and TODO files for fresh or project-specific context. Search likely profile sections in notes files before giving up.
+Normalize shorthand names through the alias map before searching `profiles.md`, notes, and TODO files for 1:1 context.
 
-When personal details exist, add a very short `Personal:` block with at most 3 bullets total covering:
+When personal details or relationship guidance exist, add a very short `Personal:` block with at most 4 bullets total covering:
 
 - family member names or family structure
 - likes, dislikes, hobbies, travel, or other human context
-- one or two possible icebreaker questions
+- role/function, working relationship, or interaction style when it affects how Andrew should approach the conversation
+- one or two possible personal questions, phrased as optional and natural
 
-Prefer concrete details from notes over generic small talk prompts.
+Prefer concrete details from `profiles.md` over generic small talk prompts, then supplement with more recent notes when they add meaningful context.
 
 If only one or two personal details are available, use those and do not pad.
 
+If only role or interaction-style context exists, offer a work-framed check-in instead of pretending there is personal background.
+
 If no reliable personal notes are found, say `Personal: no useful notes found` rather than inventing one.
+
+Avoid sensitive, medical, family-stress, or private-life prompts unless Andrew explicitly asks to discuss them. Phrase personal questions as possibilities Andrew can choose from, not as scripted lines.
 
 When looking for last-1:1 follow-ups:
 

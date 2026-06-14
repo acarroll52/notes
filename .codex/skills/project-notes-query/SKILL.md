@@ -35,6 +35,10 @@ Use only project note and TODO files for historical note queries.
 
 Do not pull in Outlook or Teams context during a read-only search unless the user explicitly asks you to refresh or enrich today's notes. Historical lookup should be based on saved markdown files, not live mailbox or chat data.
 
+Exception: when the user asks about people, contacts, relationship context, or "who do I know at [company/team]", treat `profiles.md` as the primary source of truth. If the relevant profile entries are missing contact information, have vague roles, or look note-derived only, search Outlook email and Teams using the company name, email domain, person names, and recent project topics before answering. Update `profiles.md` with high-confidence contact/role findings so future queries do not repeat the same gap.
+
+For external-company contact queries, prefer Outlook signatures and message headers for email addresses, phone numbers, office locations, titles, and whether someone is a direct action owner versus merely copied. Mark inferred roles in italics and do not overstate copied stakeholders as primary contacts.
+
 Prefer direct file inspection and targeted text search over broad workspace search when a specific project is named.
 Normalize known shorthand names through the alias map before searching.
 When helpful, search both the shorthand and the canonical full name in the scoped files.
@@ -55,7 +59,7 @@ If the answer is not present in the scoped files, say that clearly instead of gu
 Interpret TODO due dates from the `TODO_YYYY-MM-DD` tag captured in the notes and mirrored into the TODO file.
 Interpret recurring TODOs from the `## Recurring TODOs` section, using each item's `Next due` date as the active due date.
 Interpret milestone dates from the `MS_YYYY-MM-DD` tag captured in the notes and mirrored into the TODO file.
-Interpret open-question ownership from the `OQ_Name` tag captured in the notes and mirrored into the TODO file.
+Interpret open questions from `[OQ]` tags captured in the notes and mirrored into the TODO file. Use the stable `OQ ####` ID when present, and treat ownership as optional unless the stored entry names a person or intended respondent.
 Interpret decisions from `[DEC]` entries captured in the notes and mirrored into the TODO file.
 Interpret delegated actions from `## Actions for Others` entries captured from `[Action - Name - Date]` or `[Action - Name]` tags.
 
@@ -87,11 +91,14 @@ When the user references a milestone by ID such as `MS 0006`, search all scoped 
 
 When the user asks for open questions, search the `## Open Questions` section first and return each match with:
 
+- ID
 - project name
-- person name
+- owner or intended respondent when present
 - question text
 - status
 - source location when practical
+
+When the user references an open question by ID such as `OQ 0007`, search all scoped TODO files for that exact open-question ID first and prefer that over text matching.
 
 When the user asks for decisions, search the `## Decisions` section first and return each match with:
 

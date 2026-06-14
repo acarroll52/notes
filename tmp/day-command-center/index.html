@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Andrew Control Tower</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Digital Diagnostics</p>
+          <h1>Control Tower</h1>
+          <p class="subhead">A scan-first daily planning cockpit built from your notes, TODOs, milestones, decisions, and relationship context.</p>
+        </div>
+        <div class="top-actions">
+          <label class="search">
+            <span>Search</span>
+            <input id="searchInput" type="search" placeholder="project, person, TODO, meeting">
+          </label>
+          <button id="copyBriefButton" type="button">Copy Focus Brief</button>
+        </div>
+      </header>
+
+      <main>
+        <section class="hero-grid">
+          <div class="today-panel">
+            <div class="panel-title">
+              <span>Today</span>
+              <strong id="todayDate"></strong>
+            </div>
+            <h2 id="nextAction">Loading planner context...</h2>
+            <div id="focusStack" class="focus-stack"></div>
+          </div>
+          <div class="product-panel">
+            <img src="assets/cor1-product.png" alt="Midmark 800 DVSD product reference">
+            <div>
+              <p class="eyebrow">Current altitude</p>
+              <h2 id="criticalPath">Cor 1.0 launch risk is the center of gravity.</h2>
+              <p id="generatedAt"></p>
+            </div>
+          </div>
+        </section>
+
+        <section id="metrics" class="metrics"></section>
+
+        <section class="toolbar" aria-label="Dashboard filters">
+          <div id="projectFilters" class="segmented"></div>
+          <div class="segmented compact">
+            <button type="button" class="is-active" data-kind="all">All</button>
+            <button type="button" data-kind="todo">TODOs</button>
+            <button type="button" data-kind="milestone">Milestones</button>
+            <button type="button" data-kind="question">Questions</button>
+            <button type="button" data-kind="action">Actions</button>
+          </div>
+        </section>
+
+        <section class="dashboard-grid">
+          <section class="lane wide">
+            <div class="section-heading">
+              <div>
+                <p class="eyebrow">Attention queue</p>
+                <h2>Commitments And Risk</h2>
+              </div>
+              <span id="itemCount" class="count-pill"></span>
+            </div>
+            <div id="commitmentList" class="commitment-list"></div>
+          </section>
+
+          <section class="lane">
+            <div class="section-heading">
+              <div>
+                <p class="eyebrow">Decision radar</p>
+                <h2>Open Questions</h2>
+              </div>
+            </div>
+            <div id="questionList" class="small-list"></div>
+          </section>
+
+          <section class="lane">
+            <div class="section-heading">
+              <div>
+                <p class="eyebrow">Meeting prep</p>
+                <h2>Today Timeline</h2>
+              </div>
+            </div>
+            <div id="meetingTimeline" class="timeline"></div>
+          </section>
+
+          <section class="lane">
+            <div class="section-heading">
+              <div>
+                <p class="eyebrow">People compass</p>
+                <h2>1:1 Context</h2>
+              </div>
+            </div>
+            <div id="peopleList" class="people-list"></div>
+          </section>
+
+          <section class="lane wide">
+            <div class="section-heading">
+              <div>
+                <p class="eyebrow">Changed context</p>
+                <h2>Recent Notes</h2>
+              </div>
+            </div>
+            <div id="recentNotes" class="notes-grid"></div>
+          </section>
+
+          <section class="lane">
+            <div class="section-heading">
+              <div>
+                <p class="eyebrow">Planner health</p>
+                <h2>Source Map</h2>
+              </div>
+            </div>
+            <div id="sourceMap" class="source-map"></div>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <script src="data/planner-data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

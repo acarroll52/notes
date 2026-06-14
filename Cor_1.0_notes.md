@@ -4,9 +4,29 @@
 
 ## Raw Notes Capture Status
 
-- Captured through Raw_Notes: 2026-04-21
+- Captured through Raw_Notes: 2026-06-12
 
 ### Capture Ledger
+- 2026-06-12: captured into Cor_1.0 notes. Meetings: `Cor Refresher Build Findings and Action Plan - 8:00am`; `Prototype control check in - 9:00am`; `Regroup on Cor1.0 6S Black Belt - 11:00am`; `Discuss Service Kit Builds - 11:30am`.
+- 2026-06-11: processed with no substantive non-generated notes to capture. Meetings: `Cor 1.0 Sprint 8.0 SCRUM Meeting - 8:30am`; `Cor1.0 Usability Study Internal Readout - 1:30pm`; `Review TSTCY-240 Bugs - 3:00pm`.
+- 2026-06-05: captured into Cor_1.0 notes. Meetings: `Cor1.0 Hypercare - 12:30pm`. Processed `Cor1.0 Commercial Build / QRun Accessory Order Entry / Verification - 8:00am`; `Cor1.0 | Customer Eval and Commercial Flow for our customers - 8:30am`; `Cor 1.0 Sprint 8.0 SCRUM Meeting - 8:30am`; `Check DVSD Battery - 12:30pm`; `Cor 1.0 Readiness Review - Dry Run - 1:00pm` with no substantive non-generated notes to capture.
+- 2026-06-04: captured into Cor_1.0 notes. Meetings: `Cor1.0 NIBP Board Commercial Build Readiness Check in - 1:30pm`; `Hypercare Performance Testing`. Processed `100-15632-00 Technical Review - 8:00am`; `Cor1.0 Weekly Project Update - 8:00am`; `Cor 1.0 Sprint 8.0 SCRUM Meeting - 9:00am`; `Check DVSD Battery - 12:30pm` with no substantive non-generated notes to capture.
+- 2026-06-03: captured into Cor_1.0 notes. Meetings: `Cor1.0 NIBP Manifold ECO - 8:30am`; `Andrew/Leslie Transition Plan - 9:30am`; `Regroup on Hypercare - 2:00pm`. Processed `Cor 1.0 Sprint 8.0 SCRUM Meeting - 8:30am`; `Regroup on NIBP FW Updates (1.4.0) - 9:00am` with no substantive non-generated notes to capture.
+- 2026-06-02: captured into Cor_1.0 notes. Meetings: `Cor1.0 | Leads Team Mtg - 9:00am`; `Hypercare - Cor - 12:30pm`; `Cybersecurity Plan - Execution Discussion - 1:30pm`. Processed `Cor 1.0 Sprint 8.0 SCRUM Meeting - 8:30am`; `Cor 1.0: Review NIBP SonarQube Static Code Analysis Findings to include in 1.4.0 Scope - 10:00am` with no substantive non-generated notes to capture.
+- 2026-06-01: captured into Cor_1.0 notes. Meetings: `Cor1.0 Weekly Status Update (Quality, Operations, Sourcing, Design) - 10:00am`; `Cor1.0 Weekly Status Update (Marketing, Clinical, Regulatory) - 11:00am`; `Cor1.0 Weekly Status Update (Mounting Solutions) - 12:30pm`.
+- 2026-05-29: captured into Cor_1.0 notes. Meetings: `Cor1.0 Software UI Updates - 11:00am`.
+- 2026-05-28: captured into Cor_1.0 notes. Meetings: `Cor1.0 Weekly Project Update - 8:00am`; `Cor1.0 / 2.0 GL - Midmark management sync - 9:00am`; `Cor 1.0 1.4.0 Planning`; `Andrew/Leslie Transition Plan - 2:30pm`.
+- 2026-05-27: captured into Cor_1.0 notes. Meetings: `Cor 1.0 NIBP 1.4.0 Regulatory Path Alignment - 9:00am`. Processed `Andrew/Leslie Transition Plan - 3:30pm` with no substantive non-generated notes to capture.
+- 2026-05-26: captured into Cor_1.0 notes. Meetings: `Cor1.0 | Leads Team Mtg - 9:00am`.
+- 2026-05-21: captured into Cor_1.0 notes. Meetings: `Manifold Design Review (5-200-0114) - 8:30am`; `Cor 1.0 Launch Readiness Review - check-in - 9:00am`.
+- 2026-05-20: processed with no substantive non-generated notes to capture. Meetings: `Cor 1.0 Sprint 7.0 SCRUM Meeting - 8:30am`; `Heat Shrink Discussion - 9:00am`.
+- 2026-05-19: captured into Cor_1.0 notes. Meetings: `Cor1.0 | Leads Team Mtg - 9:00am`; `Follow Up - COR 1.0 NIBP Test Discussion - 4:00pm`.
+- 2026-05-18: captured into Cor_1.0 notes. Meetings: `Cor 1.0 FW Release: Sprint 7 Planning - 8:00am`; `Cor1.0 Weekly Status Update (Quality, Operations, Sourcing, Design) - 10:00am`; `Cor1.0 Weekly Status Update (Marketing, Clinical, Regulatory) - 11:00am`; `NIBP Integration and Unit Test: SonarQube Findings - 1:00pm`. Processed `Cor1.0 Weekly Status Update (Mounting Solutions) - 12:30pm` with no substantive non-generated notes to capture.
+- 2026-05-15: captured into Cor_1.0 notes. Meetings: `Cor 1.0 Sprint 6.0 SCRUM Meeting - 10:00am`; `Cor1.0 Commercial Build Plan - 10:30am`.
+- 2026-05-14: captured into Cor_1.0 notes. Meetings: `Midmark Usability Study Results Readout - 2:00pm`; misc note `Calibration - meet with Creation`.
+- 2026-05-11: captured into Cor_1.0 notes. Meetings: `Cor 1.0 Sprint 6.0 SCRUM Meeting - 8:00am`; `Placeholder to Discuss New Cor 1.0 Launch Strategy - 9:00am`; `Cor1.0 Weekly Status Update (Quality, Operations, Design) - 10:00am`; `Cor1.0 Weekly Status Update (Marketing, Clinical, Regulatory) - 11:00am`; `Cor1.0 Weekly Status Update (Mounting Solutions) - 12:30pm`; `Cor 1.0 FW 1.3.0 Regression Testing Readiness - 12:30pm`.
+- 2026-05-08: captured into Cor_1.0 notes. Meetings: `Cor 1.0 Sprint 6.0 SCRUM Meeting - 8:30am`; `NIBP 1.3.0 Updates - 9:00am`; `Midmark - DVSD Usability Testing - P7 - 11:00am`; `Midmark - DVSD Usability Testing - P8 - 1:30pm`; `Midmark - DVSD Usability Testing - P9 - 4:30pm`.
+- 2026-05-07: captured into Cor_1.0 notes. Meetings: `Cor1.0 Weekly Project Update - 8:00am`; `Cor 1.0 Sprint 6.0 SCRUM Meeting - 9:00am`.
 - 2026-04-08: captured into Cor_1.0 notes. Meetings: `Cor 1.0 Sprint 4 SCRUM Meeting - 8:00am`; `Andrew/Leslie Transition Plan - 9:30am`; `Cor1.0 Bi-Weekly Ramp Up/Ramp Down Discussion - 10:00am`; `FDA Communication Alignment - 3:30pm`; misc note `Cor1 Discussion from Leslie, Brooke, Steve around whether the new NIBP PR pop-up notification should be a toast instead`.
 - 2026-04-09: captured into Cor_1.0 notes. Meetings: `Cor1.0 Weekly Project Update - 8:00am`; `Cor 1.0 Sprint 4 SCRUM Meeting - 9:00am`; `Usability/Feedback Study (Midmark/Sage/PRL) - 3:30pm`; misc note `Data from Radouane on cuff detection`.
 - 2026-04-10: captured into Cor_1.0 notes. Meetings: `Cor 1.0 Sprint 4 SCRUM Meeting - 9:30am`; `Cor1.0 Weekly Program Updates - 11:00am`; `Review Cor1.0 Misuse Evaluation Summary - 2:00pm`; `PRL Clinical Study - 2:30pm`; `Andrew/Leslie Transition Plan - 2:30pm`.
@@ -23,8 +43,19 @@
 - 2026-04-29: captured into Cor_1.0 notes. Meetings: `Cor1. Check In - 12:30pm`; `Nellcor Flex Circuit Discussion - 4:30pm`.
 - 2026-04-30: captured into Cor_1.0 notes. Meetings: `Cor1.0 / 2.0 GL - Midmark management sync - 9:00am`; `Andrew/Leslie Transition Plan - 2:30pm`.
 - 2026-05-01: captured into Cor_1.0 notes. Meetings: `Cor 1.0 Sprint 5.0 SCRUM Meeting - 8:00am`; `Cor 1.0 FW Version 1.2.0 Regression Testing Follow-up: Discussion on Known Anomalies - 10:00am`; `Nellcor Flex Cable - 2:00pm`; `Hold: Review Data from Parameters - 3:00pm`.
+- 2026-05-04: captured into Cor_1.0 notes. Meetings: `Cor 1.0 FW Release: Sprint 6 Planning - 9:00am`; `Cor1.0 Weekly Status Update (Quality, Operations, Sourcing, Design) - 10:00am`; `Cor1.0 Weekly Status Update (Marketing, Clinical, Regulatory) - 11:00am`; `Cor1.0 Weekly Status Update (Mounting Solutions) - 12:30pm`; `Cor1.0 Linear value next steps - 1:00pm`.
+- 2026-05-05: captured into Cor_1.0 notes. Meetings: `Cor1.0 | Leads Team Mtg - 9:00am`.
+- 2026-05-06: captured into Cor_1.0 notes. Meetings: `Cor 1.0 Sprint 6.0 SCRUM Meeting - 8:30am`; `Cor 1.0 FW Version 1.2.0 Regression Testing Known Anomalies: Follow-up Discussion - 9:00am`; `Cor1.0 Bi-Weekly Ramp Up/Ramp Down Discussion - 10:00am`; `Cybersecurity Plan - Execution Discussion - 3:00pm`; `Midmark - DVSD Usability Testing - P3 - 11:00am`; `Midmark - DVSD Usability Testing - P4 - 1:30pm`; `Midmark - DVSD Usability Testing - P5 - 4:30pm`; misc note `How do we get good baseline "golden" data to compare to in the future?`.
 
 ## misc
+
+### 2026-05-14
+#### Calibration
+- [TODO_2026-05-14] Meet with Creation on calibration. (Due 2026-05-15.)
+
+### 2026-05-06
+#### Baseline "golden" data
+- Open question: how do we get good baseline "golden" data to compare to in the future?
 
 ### 2026-01-09
 #### Onboarding Notes
@@ -159,7 +190,45 @@
 - Goal to complete dry-runs for `1.1.4` today and release `1.1.4` in Agile tomorrow.
 - At the moment, the team does not know of any new known anomalies compared with the original `510(k)` submission.
 
+### 2026-05-04
+#### Cor 1.0 FW Release: Sprint 6 Planning - 9:00am
+- Attendees: Soumajit Sen, Nick Ross, Andrew Carroll, Jeromy Raczak, Rick J. Schuman, Jacobis Pelaez
+- Previous notes: no `1.3.0` updates except `NIBP`; the main ask going in was to review Regression Test Plan `21062-TSTPL-173` against failed `1.2.0` tickets.
+- Decisions needed: Sprint 6 scope, owners, blockers, and the path to `MS 0023` / `MS 0026`.
+- There was extensive discussion on static code analysis.
+  - The team currently has `106` critical warnings on the `SOM`.
+  - There were also about `300` high warnings.
+  - The group needs to review all of them and decide what must be fixed now versus moved to sustaining, focusing on warnings that could affect security, safety, or major performance issues such as crashes.
+- *Context added from Outlook meeting: "Cor 1.0 FW Release: Sprint 6 Planning" at 9:00 AM on 2026-05-04. Soumajit Sen framed the meeting around Sprint 6 priorities, carryover work from Sprint 5, open blockers or dependencies, and confirming action items and owners. Source: Outlook calendar.*
+- *Context added from Teams message in a related thread at 11:50 AM on 2026-05-04. Soumajit Sen asked whether Eda was still available to close Regression `1.2.0` ADO tickets for JAMA test-case updates even if those items were not part of `1.3.0`, which reinforces that test-case carryover ownership remained active after planning. Source: Teams.*
+
 ## regulatory
+
+### 2026-06-01
+#### Cor1.0 Weekly Status Update (Marketing, Clinical, Regulatory) - 11:00am
+- Attendees: Many
+- Purpose: marketing, clinical, and regulatory launch-readiness status.
+- Previous related notes: eSTAR/FDA deficiency-response unread email appears stale but worth verifying closed.
+- Decisions needed: any clinical/customer-eval blocker that affects Friday's commercial-flow prep.
+- Risks: regulatory and clinical execution may collide with the launch-readiness timeline.
+- *Context added from Outlook meeting: "Cor1.0 Weekly Status Update (Marketing, Clinical, Regulatory)" at 11:00 AM on 2026-06-01. Maggie Stahl's replacement series framed this as the consolidated status meeting for marketing, clinical, and regulatory, with each area expected to outline blockers or decisions needed. Source: Outlook calendar.*
+
+### 2026-05-27
+#### Cor 1.0 NIBP 1.4.0 Regulatory Path Alignment - 9:00am
+- Attendees: Andrew Carroll, Adam Clutter, Nick Ross, Leslie Gaier Brown
+- Calibration
+  - Open question whether to re-run the study even without intent to launch with calibration.
+  - Retrospective analysis on the original BP data suggests at least one unit likely would have failed if it had been calibrated.
+  - Nick is still reviewing and will consult Radouane and Jeromy.
+- Overinflation and other bug fixes
+  - These should not trigger regulatory.
+  - The team can make these changes without a clinical study or 510(k).
+
+### 2026-05-18
+#### Cor1.0 Weekly Status Update (Marketing, Clinical, Regulatory) - 11:00am
+- Attendees: Many
+- Maggie Stahl will set up an internal follow-up to the Sage usability report-out.
+- *Context added from Outlook meeting: "Cor1.0 Weekly Status Update (Marketing, Clinical, Regulatory)" at 11:00 AM on 2026-05-18. The invite framed the meeting as consolidated status for marketing, clinical, and regulatory, with each area expected to outline blockers or decisions needed. Source: Outlook calendar.*
 
 ### 2026-04-28
 #### Cor1.0 Deficiency Response (D3, D4, D5) - 11:00am
@@ -176,6 +245,14 @@
 - Hackensack is now unsure if they want to move forward with the Cor 1 customer evaluation after all the trouble they are having with Zone.
 - Need customer-evaluation site agreement signatures in May, maybe the first week of June at the latest.
 - *Context added from Outlook meeting: "Cor1.0 Weekly Status Update (Marketing, Clinical, Regulatory)" at 11:00 AM on 2026-04-27. The invite described a consolidated status meeting for marketing, clinical, and regulatory with each area expected to outline blockers or decisions needed. Source: Outlook calendar.*
+
+### 2026-05-04
+#### Cor1.0 Weekly Status Update (Marketing, Clinical, Regulatory) - 11:00am
+- Attendees: Many
+- Recommendation: attend if `FDA` / resubmission, usability, or external-messaging decisions surface; otherwise request notes.
+- Previous notes: Parameters interim data supported notifications/no pulse for child and small-adult cuffs, while the adult split still needed a clean rationale.
+- Hackensack is still in for customer evals.
+- *Context added from Outlook meeting: "Cor1.0 Weekly Status Update (Marketing, Clinical, Regulatory)" at 11:00 AM on 2026-05-04. The invite described the block as the weekly consolidated status meeting for marketing, clinical, and regulatory, with each area expected to outline blockers or decisions needed. Source: Outlook calendar.*
 
 ### 2026-04-21
 #### Cor1.0 Deficiency Response (D3, D4, D5) - 11:00am
@@ -328,6 +405,109 @@
 
 ## manufacturing
 
+### 2026-06-12
+#### Cor Refresher Build Findings and Action Plan - 8:00am
+- *Context added from Outlook email: "Re: Cor Refresher Build Findings and Action Plan" from Nick Ross at 12:14 PM on 2026-06-12. Nick relayed Maggie Stahl's recap of the morning action items and added that `V2896326` had already been reverted to the Creation image and was ready for `EOLT`, with someone to take it to Versailles on Monday. Source: Outlook email.*
+- DHR updates
+  - Nick Doseck will update requirements and consolidate firmware testing with the test station.
+  - Kathy will update routing so it prints properly on the `DHR`.
+  - Route the respective `ECOs` as soon as possible.
+- Assembly work instructions
+  - Kathy is mostly done finalizing them and will begin routing the `ECO` today.
+  - Training should occur Monday afternoon even if the `ECO` is still in review and approval.
+- Test work instructions
+  - Kathy is finalizing them and working through the updates with Max.
+  - Kathy will begin routing the `ECO` today.
+  - Nick Ross will determine how to get a unit into a blank state for Monday-afternoon training.
+- Battery charge
+  - Dane is pulling batteries from central to test.
+  - If a battery is not charged, it will fail at the test station and require rework, which could impact `WACT`.
+- Hypercare / `QMS`
+  - Update the Hypercare checklist to check main-board revision.
+  - Nick Ross will determine what is required to update the static field for `EOLT`, work with Max and Kathy on the line-update instructions for design changes, and add an `ADO` task. This does not need to be finished before Wednesday's build.
+
+#### Prototype control check in - 9:00am
+- Scrap any pre-`VB6` devices in Versailles.
+  - Taylor will figure out the process.
+- Bring `VB6` devices to Cincinnati. Anything not needed there will go back to Versailles for disposal.
+
+#### Discuss Service Kit Builds - 11:30am
+- Tech pubs documents still need to be released; they are in draft form now.
+- Need to check Jerry's battery tester:
+  - Do we have it?
+  - Do we need a work instruction?
+  - Does it need validation?
+- The `SpO2` cable likely needs a work instruction for assembly.
+- Decide whether serviceable parts should be added to the kits.
+- All kits need to be qualified, though there are fewer kits than devices.
+
+### 2026-06-04
+#### Cor1.0 NIBP Board Commercial Build Readiness Check in - 1:30pm
+- Attendees: Leslie Gaier Brown, Brad Murphy, Adam Mullen, Pat Reichert, Andrew Carroll, Owen Schoen, Brian Dapore, Maggie Stahl
+- Purpose: align next steps and owners to ensure a quality and on-time `NIBP` board build.
+- Decisions needed:
+  - Owner and due date for a qualified manifold inspection process at Creation before the first Cor 1.0 build.
+  - Whether board readiness threatens `CB1` or `MS 0024`.
+- Using deviation to cover sensor flash.
+- Print update coming next week.
+- *Context added from Outlook meeting: "Cor1.0 NIBP Board Commercial Build Readiness Check in" at 1:30 PM on 2026-06-04. Leslie Gaier Brown said she would be offsite for training and that Maggie Stahl and Andrew Carroll would drive the meeting; the invite framed the outcome as aligning next steps and owners for a quality and on-time NIBP board. Source: Outlook calendar.*
+
+### 2026-06-03
+#### Cor1.0 NIBP Manifold ECO - 8:30am
+- Attendees: Leslie Gaier Brown, Brad Murphy, Adam Mullen, Pat Reichert, Andrew Carroll, Owen Schoen, Brian Dapore
+- Purpose: settle `ECO`, timeline, drawing markup, inspection, and deviation path for the manifold update.
+- Technical review will be held tomorrow morning. `ECO` signing party tomorrow afternoon.
+- Can Creation get a qualified manifold inspection process in place prior to building the first round of Cor 1.0?
+  - Call with Creation later this morning.
+- Could Midmark inspect after full `NIBP` assembly?
+  - Owen Schoen will look into this today.
+- Open question: do we need a deviation?
+
+### 2026-06-01
+#### Cor1.0 Weekly Status Update (Quality, Operations, Sourcing, Design) - 10:00am
+- Attendees: Many
+- Purpose: cross-functional Cor1 status and launch-readiness blockers.
+- Previous related notes: `2026-05-28` status expected `120` sales-usable devices at launch; ramp projection was `10` Oct, `10` Nov, `60` Dec, and `100/month` next year.
+- Decisions needed: confirm `CB1` readiness, `2026-06-05` regression confidence, `CAPA` next step, and `GL` transition risks.
+- Risks: Iaro/Dmytro final paid day `2026-06-12`; Maggie Stahl's contract ends `2026-07-15`; Pam Beals backfills Nick Doseck.
+- Quality:
+  - Adding a touch-up paint process on the line for mounting solutions.
+- Main boards are in house and still need to be checked for resistor rework.
+- Need asset-tag numbers on testers at Creation so they can be included in the new test specs.
+- TODO_2026-06-02 Figure out what to do with Radouane's cuff-size analysis.
+- *Context added from Outlook meeting: "Cor1.0 Weekly Status Update (Quality, Operations, Sourcing, Design)" at 10:00 AM on 2026-06-01. Maggie Stahl's replacement series framed this as the consolidated status forum for quality, operations, sourcing, design, firmware/cybersecurity/requirements, mechanical/electrical, and software, with each area expected to outline blockers or decisions needed. Source: Outlook calendar.*
+
+### 2026-05-21
+#### Manifold Design Review (5-200-0114) - 8:30am
+- Attendees: Many.
+- New manifold manufacturer wants to increase the inner diameter of the main connection by `20-30 thousandths`.
+- The team looked at both FI and Decatur.
+- Decatur will move forward with the larger inner diameter.
+- FI will move forward with designing the tool for a larger pin size but will accept the original size as well. No flash.
+- *Context added from Outlook email: "Manifold Supply Strategy (5-200-0114)" from Adam Mullen at 2:55 PM on 2026-05-21. Adam recapped these meeting outcomes.*
+  - *Adam Mullen will procure an additional `1,000` manifolds from Asia Connection and direct Asia Connection to mimic the yellowish-tint manifolds that only had flash in the sensor ports. The goal remains no flash; if that is not achievable, the next goal is minimizing sensor-port flash with no valve-port flash.*
+  - *Adam Mullen will confirm with FI Company that they have the green light to start cutting steel on the current tooling design for the `5-200-0114 AA2` manifold and refresh FI's tooling and sampling timeline.*
+  - *For information only at this stage, Adam Mullen will also check whether FI Company could safely swap to a larger core pin later and machine the tool to increase the main-tube OD if that becomes necessary.*
+  - *Dale Albers will initiate a letter of intent with Decatur for tooling design submission, Midmark review and approval, and an estimated timeline. Dale will also ask Decatur to bring any proposed tool or part design changes back to the group for risk/benefit review.*
+  - *After Decatur's tooling design review, the group will compare Decatur's proposal against confidence in Asia Connection and FI Company before deciding whether to proceed with a Decatur tool.*
+  - *Russ Beisner and Brady Post will update the group on testing to evaluate material/flash in the manifold valve ports and any risk or effect on the device.*
+
+### 2026-05-18
+#### Cor1.0 Weekly Status Update (Quality, Operations, Sourcing, Design) - 10:00am
+- Attendees: Many
+- The team plans to build `37` units between `2026-06-15` and `2026-06-19`.
+- Taylor has been working on documentation gap analysis for Cor 1. The active work is documenting, categorizing, and assessing the risk of gaps.
+- The work instruction was updated to prohibit creasing of the Nellcor SpO2 cable.
+- Creation received `42` reworked main boards with the resistor change.
+  - Patrick will check boards with a DMM while they are in inspection to make sure the resistor was changed correctly.
+  - `50` more boards were expected to ship today or tomorrow.
+- The team is hoping for the flash deviation release by the end of this week.
+- Software plug-in schedule:
+  - MCE and EMRSDK are expected to be released and commercialization-ready by the end of August.
+  - All other EMRs are expected by the end of September.
+  - The team is struggling with the Altera MI issue and is considering delaying the MCA release.
+    - Regulatory and downstream discussions on that tradeoff are planned this week.
+
 ### 2026-04-27
 #### Cor1.0 Weekly Status Update (Quality, Operations, Sourcing, Design) - 10:00am
 - Attendees: Many
@@ -349,6 +529,17 @@
   - What evidence is enough for isolation-tester rollout.
   - Whether the manifold/NIBP rework path is contained.
 - *Context added from Outlook meeting: "Cor1. Check In" at 12:30 PM on 2026-04-29. Jenna Power's invite said the normal weekly Cor1.0 meeting was being repurposed to cover main-board UART, applying the isolation tester to Zone, repurposing good manifolds on new NIBPs, and RMA for Cor1.0 NIBPs to be reworked with new linear valves and set screws not adjusted. Source: Outlook calendar.*
+
+### 2026-05-04
+#### Cor1.0 Weekly Status Update (Quality, Operations, Sourcing, Design) - 10:00am
+- Attendees: Many
+- Recommendation: attend decision slices only; delegate detail updates unless blocker, ownership gap, or executive visibility is involved.
+- Previous notes: consolidated cross-functional status; use this lane to force clarity on `1.3.0` readiness, Zone / `NIBP` overlap, `ECO` / `TR` ownership, and the 4-blocker story.
+- `50%` of main boards with resistor rework are expected tomorrow.
+- Software
+  - Found workaround for Altera.
+  - The most likely scenario is now `June 16` for picking Cor 1 work back up.
+- *Context added from Outlook meeting: "Cor1.0 Weekly Status Update (Quality, Operations, Sourcing, Design)" at 10:00 AM on 2026-05-04. The invite described the consolidated status forum for quality, operations, sourcing, design, firmware/cybersecurity/requirements, mechanical/electrical, and software, with each area expected to outline blockers or decisions needed. Source: Outlook calendar.*
 
 ### 2026-04-21
 #### CB#1 We Are Ready - 8:00am
@@ -431,6 +622,16 @@
 - Adam is meeting with Asia Connection tonight to see what they can adjust to eliminate flash.
 - Alternative
   - `FI` in Seattle could develop a completely new tool.
+
+#### Cor1.0 Linear value next steps - 1:00pm
+- Attendees: Leslie Gaier Brown, Andrew Carroll, Pat Reichert, Nick Ross, Nick Doseck, Taylor Schmitmeyer
+- Recommendation: attend the first and last `10` minutes or get Nick's notes unless the `VB` build or Zone line-restart decision needs direct involvement.
+- Purpose: current condition, `VB` build testing impact, added testing, reset performance, and `DOE` simulations.
+- Taylor completed edge-case testing on one unit in the `CCW` direction.
+- The team is repeating performance testing on `VB6` units with the set screw adjusted using child-to-thigh cuffs across three devices.
+  - `3` devices are complete.
+  - A few more devices have been tested.
+- *Context added from Outlook meeting: "Cor1.0 Linear value next steps" at 1:00 PM on 2026-05-04. Leslie Gaier Brown's invite framed the discussion around current condition, VB build testing impact, next steps, additional testing, reset performance testing, and DOE simulations. Source: Outlook calendar.*
 
 #### COR Wall Mount: Price/Cost Options - 3:30pm
 - Attendees: Kevin Stringer, Brooke Griesdorn, Steve Cordonnier, Darin Whittington, Evan Freeh, Leslie Gaier Brown, Ryan Schlater
@@ -756,6 +957,105 @@
 
 ## firmware
 
+### 2026-05-28
+#### Cor 1.0 1.4.0 Planning
+- Attendees: Nick Ross, Soumajit Sen, Andrew Carroll, Rick J. Schuman, Jeromy Raczak
+- NIBP JTAG is not being disabled in `1.3.0`.
+- The bootloader currently enables JTAG and keeps it enabled.
+- Application code could disable JTAG, but there would still be about a `1` second window between bootloader and application handoff.
+- [DEC] We will not patch NIBP JTAG for `1.3.0`. For `1.4.0`, patch the application code and create a change request to push a new bootloader to Creation on a later date.
+- *Context added from Outlook email: "Re: 1.4.0 Planning-05/28/2026" from Soumajit Sen at 2:33 PM on 2026-05-28. The meeting minutes said `1.4.0` should include PR and `develop-stabilization` changes, multiple SonarQube cleanup items, re-baselining and retiring `develop-stabilization` after `1.3.0` regression, `NIBP` JTAG-fix development, and regression/customer-eval bugs; reinflation and overinflation were pushed into Cor 2.0 scope. Source: Outlook email.*
+
+### 2026-05-19
+#### Follow Up - COR 1.0 NIBP Test Discussion - 4:00pm
+- Attendees: Olivia Anderson, Adam Mullen, Andrew Carroll, Nick Ross, Daniel Herman, Jenna Power, Li Lin, Paul Lecorchick, Matt Walz
+- Quote ready for procedure for calibration.
+- Resolution is `0.25 mmHg`.
+- Calibration code is already in place and validated; Midmark had disabled it because calibration was expected to happen at Midmark at the system level.
+- Creation will send `3` devices for Midmark testing in Dallas.
+- Software will need to be re-validated, but the team expects that to take only a few days and plans to validate the firmware change at the same time.
+- Dan will doctor `3` NIBP boards to give about `10 mmHg` offset.
+- [Action - Dan Herman - 5/25] Determine fail threshold at Creation for calibration.
+- Olivia will send the `RMA` number and address for `3` sample boards.
+
+### 2026-05-18
+#### Cor 1.0 FW Release: Sprint 7 Planning - 8:00am
+- Attendees: Soumajit Sen, Nick Ross, Andrew Carroll, Jeromy Raczak, Rick J. Schuman, Jacobis Pelaez, Rick Schuman
+- Target `1.3.0` release is Tuesday.
+- Target bootloader release to Creation is Wednesday, pending confidence-testing completion.
+- *Context added from Outlook meeting: "Cor 1.0 FW Release: Sprint 7 Planning" at 8:00 AM on 2026-05-18. Soumajit Sen framed the meeting around Sprint 7 priorities, carryover work, ownership, blockers, dependencies, and needed decisions. Source: Outlook calendar.*
+
+#### NIBP Integration and Unit Test: SonarQube Findings - 1:00pm
+- Attendees: Soumajit Sen, Nick Ross, Andrew Carroll, Rick J. Schuman
+- *Context added from Outlook meeting: "NIBP Integration and Unit Test: SonarQube Findings" at 1:00 PM on 2026-05-18. Soumajit Sen scheduled the meeting to review NIBP Code SonarQube findings, create a disposition/action plan, and decide which issues must be addressed in FW `1.3.0` versus deferred to Stabilization; the invite linked Azure DevOps work item `197133`. Source: Outlook calendar.*
+
+### 2026-05-15
+#### Cor 1.0 Sprint 6.0 SCRUM Meeting - 10:00am
+- Attendees: Many
+- Recommendation: Request notes; join only for blockers.
+- Recent reminders: Sprint 6 focus remains FW 1.3.0 dry run and NIBP 1.3.0 scope; calibration path is now the real blocker.
+- Open items: TODO 0041, TODO 0037, OQ 0039.
+
+### 2026-05-11
+#### Cor 1.0 Sprint 6.0 SCRUM Meeting - 8:00am
+- Attendees: Many
+- Recommendation: Optional / request notes.
+- Reminder: Sprint 6 focus is FW 1.3.0 dry run, NIBP scope, and readiness for release next week; engage only for blockers.
+
+#### Cor 1.0 FW 1.3.0 Regression Testing Readiness - 12:30pm
+- Attendees: Soumajit Sen, Andrew Carroll, Nick Ross, Jeromy Raczak, Rick J. Schuman, Jacobis Pelaez
+- Recommendation: Attend.
+- Purpose: lock minimum 1.3.0 release set, dry-run failure path, SonarQube scope, known anomalies, and 2-week regression plan.
+- Recent Teams: dry run was only partly complete Friday; new child-cuff failures appeared; requirement/settings docs need Agile release before regression.
+- Decisions: what enters 1.3.0, what waits, owners, Cincy/Dan support, release-doc path, baseline data answer for [OQ 0039].
+
+### 2026-05-08
+#### Cor 1.0 Sprint 6.0 SCRUM Meeting - 8:30am
+- Attendees: Many
+- Optional.
+- Relevant reminders: Sprint 6 week 1 is still about finishing the 1.3.0 dry run and finalizing NIBP scope; join only if blockers need escalation.
+- *Context added from Outlook meeting: "Cor 1.0 Sprint 6.0 SCRUM Meeting" at 8:30 AM on 2026-05-08. The invite said Sprint 6 Week 1 focus was completing the FW 1.3.0 dry run and finalizing NIBP change/scope for 1.3.0, then shifting toward the FW 1.3.0 release in week 2. Source: Outlook calendar.*
+
+#### NIBP 1.3.0 Updates - 9:00am
+- Attendees: Leslie Gaier Brown, Pat Reichert, Nick Ross, Nick Doseck, Rick J. Schuman, Jeromy Raczak, Taylor Schmitmeyer, Soumajit Sen
+- Attend.
+- Purpose: review potential NIBP board improvements and decide which, if any, belong in 1.3.0.
+- Relevant reminders: [TODO 0037] is due today, [OQ 0039] on baseline "golden" data is still open, and the firmware lane has kept Nick and Jeromy on NIBP as the top priority.
+- Decisions needed: improvement scope, what waits, how to protect [MS 0023] / [MS 0026], and who owns baseline-data generation.
+- Generally aligned on firmware's original recommendations. There are a couple of follow-ups.
+- Need 8 units by 2026-06-18 for customer evaluations.
+- Need 30 units right after this for qualification, which should be done before customer evaluations start.
+- Target new bootloader release by the end of next week.
+- *Context added from Outlook meeting: "NIBP 1.3.0 Updates" at 9:00 AM on 2026-05-08. The invite said the firmware team had prepared a list of potential improvements for the NIBP board and the meeting purpose was to decide which, if any, should be incorporated into 1.3.0. Source: Outlook calendar.*
+
+### 2026-05-06
+#### Cor 1.0 Sprint 6.0 SCRUM Meeting - 8:30am
+- Attendees: Many
+- Recent lane notes: Sprint 6 week 1 is still about closing the `1.3.0` dry run and finalizing `NIBP` scope; use it only for blocker surfacing, not detailed ticket digestion.
+
+#### Cor 1.0 FW Version 1.2.0 Regression Testing Known Anomalies: Follow-up Discussion - 9:00am
+- Attendees: Many
+- Purpose: decide which anomalies can be rationalized post-commercialization versus what must be fixed before `1.3.0` regression.
+- Previous meeting: the team did not think there were materially new anomalies versus the original `510(k)`, but the remaining list still needs explicit disposition before regression starts.
+- Decisions: anomaly disposition, FDA-response impact, and what absolutely must close before `[MS 0023]` / `[MS 0026]`.
+
+#### Cor1.0 Bi-Weekly Ramp Up/Ramp Down Discussion - 10:00am
+- Attendees: Many
+- Request notes.
+- Rationale: conflicts with Townhall and was already pushed because build dates were still unclear and priorities were competing.
+- Previous meeting: charged batteries were in house and new manifolds were moving through Creation inspection; use notes only if a build-date or supply decision changes.
+- Missed.
+
+### 2026-05-05
+#### Cor1.0 | Leads Team Mtg - 9:00am
+- Attendees: Many
+- Relevant reminders: use this as the real steering block for schedule/build risk, not the scrum; `[TODO 0036]` is overdue, `[MS 0023]` is now 13 days out, and the NIBP/Zone overlap is still absorbing team attention.
+- Decisions needed: what slips if NIBP scope expands, what is needed this week to protect `1.3.0`, and whether any owner gaps need escalation.
+- `18` open CQPs.
+  - Jason Male is owning print updates and ECOs that need to be created for CQPs finalization.
+- Target end of week for full FDA response package for internal review.
+  - Plan is to send only Radouane's child cuff (FDA-facing) analysis.
+
 ### 2026-04-13
 #### Cor1.0 Weekly Sub-Group Status Update | FW/Plugin Update - 1:30pm
 - Attendees: Many
@@ -961,6 +1261,217 @@
 - *Context added from Outlook meeting: "1.3.0 Scope Discussion" at 10:00 AM on 2026-04-28. The meeting included Leslie Gaier Brown, Pat Reichert, Nick Ross, Soumajit Sen, and Maggie Stahl, matching the raw scope-alignment notes. Source: Outlook calendar.*
 
 ## business
+
+### 2026-06-03
+#### Andrew/Leslie Transition Plan - 9:30am
+- Attendees: Andrew Carroll, Leslie Gaier Brown
+- Need to have conversation with Jason about losing Nick and Taylor. Pam might not be able to cover.
+- We have two weeks buffer between planned `CB1` and customer-eval start.
+- [TODO - 6/5] Setup recurring meeting with Casey, Ben, Maggie, Soum, Leslie.
+- [TODO - 6/5] Figure out what to do with Maggie.
+- Taylor and Nick are working on inventory of what is in the basement. It will need to be dispositioned.
+- Open question: when can Nick take over open `ECOs`, mounting solutions, etc?
+
+### 2026-06-02
+#### Cor1.0 | Leads Team Mtg - 9:00am
+- Attendees: Many
+- Purpose: Monday progress, wins, build/schedule blockers, risks, and focus for the week.
+- Previous meeting: 2026-06-01 status called out `CB1` readiness, `2026-06-05` regression confidence, `CAPA` next step, and `GL` transition risks.
+- Decisions: what needs escalation before Friday's regression milestone.
+- Wins
+  - `1.3.0` regression complete.
+  - Main boards received.
+  - Manifold sensor flash testing complete and released.
+  - AI Champions.
+  - Calibration successful at Creation.
+- Supply Chain
+  - `NIBP` calibration / bootloader update.
+  - Three calibrated boards are ready to be sent back.
+  - Main boards are going through inspection.
+    - Water damage was observed on the third box of boards.
+- Marketing
+  - Dealer notification only requires four sites. The team is talking to `11` sites.
+    - The timeline for the "bonus" sites can be extended if necessary without affecting dealer notification.
+- Firmware
+  - Calibration
+    - Can we read calibration factors out at `EOLT` and store them in a database?
+    - What happens if calibration limits are exceeded at Creation?
+    - `QBRs` could be used to discuss state of process, including scrap rates, yield, and data trends.
+    - The team does not have access yet to Creation's internal test data and is looking into it.
+- Manufacturing
+  - Build one each `1-300-0200` and `1-300-0300` tomorrow; "issue units" are being created.
+    - Parts are ready. Nick Doseck will ask Cody whether he still wants the build tomorrow.
+  - The `We Are Ready` meeting is Monday morning.
+  - Waiting on test specs from Creation for test fixtures.
+    - Will capture per Midmark standards.
+- Quality
+  - `CAPA`
+    - Investigation study is on track to be routed by the end of this week.
+  - Documentation audit
+    - Taylor will send the HTML list of findings.
+    - Official readout is not until the first week of July, after the internal audit.
+
+#### Cybersecurity Plan - Execution Discussion - 1:30pm
+- Attendees: Maggie Stahl, Andrew Carroll, Nick Ross, Rick Schuman, Thomas Stephenson, Jason Feldhaus, Adam Clutter, Leslie Gaier Brown, Nick Doseck, Jason Barhorst
+- Purpose: review cybersecurity-plan execution.
+- Previous meeting: 2026-05-06 focused on ownership, sequencing, and separating critical-path work from compliance theater.
+- Decisions: execution owner, timing, and what is required before launch versus post-launch cleanup.
+- Talking points: keep it decision-ready and avoid turning it into a long technical review.
+- [TODO - 6/5] Setup quarterly touch base with cyber team.
+- Cyber team will update the cybersecurity plan to include regular assessment timing for vulnerability and static-code analyses.
+- Nick will update the `Cybeats` pipeline to run nightly so it automatically goes to Jason.
+- Jason will update the tool to send emails to Nick and Andrew when new High+ vulnerabilities are discovered.
+
+### 2026-05-29
+#### Cor1.0 Software UI Updates - 11:00am
+- Attendees: Maggie Stahl, Andrew Carroll, Leslie Gaier Brown, Nick Ross, Brad Mcdougall, Daniel DiLillo, Lisa Rich, Soumajit Sen, Arjun Sridhar, Rigved Dubhashi
+- Purpose: confirm priority for `NIBP` pulse-rate placeholder text, the pulse-rate source icon, height units, and any new device UI changes.
+- Current scope reminder: `PR` and develop-stabilization changes belong in `1.4.0`.
+- Reinflation and overinflation items are being pushed to Cor 2 scope.
+
+### 2026-05-28
+#### Cor1.0 Weekly Project Update - 8:00am
+- Attendees: Many
+- Should have `120` devices that can be used for sales to customers at launch (`2026-10-01`).
+- Ramp-up projection is `10` devices in October, about `10` in November, about `60` in December, then about `100` per month next year.
+- *Context added from Outlook meeting: "Cor1.0 Weekly Project Update" at 8:00 AM on 2026-05-28. The invite attendee list included Jeff Bargemann, Josh Shenk, Adam Clutter, Rob Sackett, John Shevlin, Leslie Gaier Brown, and Nick Doseck, reinforcing that this remained the executive-visible cross-functional Cor 1.0 status forum. Source: Outlook calendar.*
+
+#### Cor1.0 / 2.0 GL - Midmark management sync - 9:00am
+- Attendees: Oleksandr Furdylo, Andrew Carroll, Roman Suprun, Anna Novytska, Leslie Gaier Brown, Soumajit Sen, Nicholas Ross
+- `2026-06-12` is the final paid day for Iaro and Dmytro, though they are contracted through `2026-06-25` and may be available at no charge during the overrun window.
+
+#### Andrew/Leslie Transition Plan - 2:30pm
+- Attendees: Leslie Gaier Brown
+- Andrew will lead the tech-leads and Rob meetings going forward.
+- Open commercial question: will Cor 1.0 be sold direct or only through distributors?
+- Pam Beals will join Cor 1.0 to backfill Nick Doseck as Nick moves into a robustness and reliability role.
+- Maggie Stahl's contract is currently expected to end on `2026-07-15`.
+
+### 2026-05-26
+#### Cor1.0 | Leads Team Mtg - 9:00am
+- Attendees: Many
+- Wins:
+  - `ECO` signoffs.
+  - Calibration strategy.
+- Firmware status:
+  - `1.3.0` protocol routing was targeted for today.
+  - Testing should start tomorrow and complete early next week.
+- Supply chain:
+  - It was unclear whether Patrick had checked the new main boards for resistor rework.
+  - The team was not waiting on other parts except `NIBP`.
+  - There were `198` manifolds with sensor-port flash; `154` need to be split between Zone and Cor 1.0, with `100` currently planned for Zone.
+  - Asia Connection is building another `1,000` manifolds using the same parameters as the sensor-flash-only parts.
+  - The print is being updated to allow flash in the sensor port. A follow-up valve-port change is pending testing.
+  - Zone and Cor 1.0 share the same manifold print.
+  - `35` boards with no flash were sent to Creation to get new Linear valves with set screws.
+  - The `NIBP` assembly version needs to be updated for the manifold change.
+- Taylor documentation update:
+  - The first two project phases are in compliance with Irvine design controls.
+  - Phase 3 review is in progress. It is messy, but so far there do not appear to be many gaps.
+  - Design reviews at each phase, impact-analysis form, and design freeze were cited as examples.
+- Customer evaluations:
+  - No contracts have been signed yet.
+  - Meetings are scheduled this week with the four original customers.
+  - There is active communication with four new sites.
+  - The target is the first week of June for all contracts to be signed.
+- *Context added from Outlook email: "Re: Cor 1.0 FW v1.3.0" from Nick Ross at 11:05 AM on 2026-05-26. Nick said `1.3.0` plugin regression will cover EMR/software connection, saving current records to EMR, EMR connect/disconnect behavior, and clearing vitals after EMR save; SpO2/PI/RRp, weight, RR/RRp, and acquisition-screen mirroring will not be tested for the plugin scope. Khassan Reda had asked whether the `MDG ICD` changed for firmware `1.3.0` and whether exact affected messages or payloads needed plugin handling.*
+- *Context added from Outlook email: "Cor 1.0 Deferred Items for Commercialization" from Chad Darling at 8:38 PM on 2026-05-26. The team reviewed `30` open deferral items; `8` priority-1 items will be fixed before commercialization, and the remaining `22` are recommended for deferral because residual risk does not affect measurement accuracy, patient context, saving/transmitting, or patient safety.*
+
+### 2026-05-21
+#### Cor 1.0 Launch Readiness Review - check-in - 9:00am
+- Attendees: Many.
+- Launch Readiness presentation is part of MIP.
+- The presentation will be given to Rob, Matt, Sailesh, and possibly others.
+- The review is not on the calendar yet, but is expected at the end of the first week of June.
+- *Context added from Outlook meeting: "Cor 1.0 Launch Readiness Review - check-in" at 9:00 AM on 2026-05-21. Tracy Timmerman framed the meeting as a check-in on building out the Cor 1.0 launch readiness review and understanding how Tracy and Arjun Sridhar can support. Source: Outlook calendar.*
+
+### 2026-05-19
+#### Cor1.0 | Leads Team Mtg - 9:00am
+- Attendees: Many
+- Wins
+  - `ECO` burndown (`79` left).
+  - `FDA` submission.
+  - Flash testing/understanding.
+- Main-board resistor rework
+  - Creation sent the wrong boards; no further detail yet.
+- Calibration
+  - Ask Creation to send a couple calibrated samples for testing.
+- Flash
+  - Zone will get `44` manifolds with `29%` or less sensor-port flash.
+- Commercial build
+  - Will build `37` units.
+- Cody and Brent are working on the ramp-up plan.
+  - The team will need `55` units for sales and then about `20` per month up until launch.
+- More customer-eval sites are being added in July.
+  - Extra sites will get non-`RRP` Masimo devices.
+  - The goal is still to keep the original schedule.
+- `HALT` testing
+  - Nothing is happening yet; Nick will schedule time with Dan.
+
+### 2026-05-15
+#### Cor1.0 Commercial Build Plan - 10:30am
+- Attendees: Maggie Stahl, Andrew Carroll, Brent Pepple, Taylor Schmitmeyer, Nick Doseck, Cody Kunkler
+- Recommendation: Attend.
+- Purpose: lock commercial/customer-eval build plan.
+- Decisions needed: unit count/model matrix, accessories, Cincinnati/customer-eval needs, build dates, and hypercare plan.
+- Related email: Leslie's Cor1.3/1.4 plan has Creation calibration discussion May 18, calibration decision May 21, bootloader/ECO by May 22, and 8 customer-eval units June 15.
+- Risks: regression starts in 3 days; FDA/all regression due in 7 days; Creation needs about 3 weeks from approved ECO.
+- A couple wall mounts and service kits will go to Cincinnati through Oracle from the commercial build.
+- At some point a unit needs to be shipped back as part of the warranty return.
+
+### 2026-05-11
+#### Placeholder to Discuss New Cor 1.0 Launch Strategy - 9:00am
+- Attendees: Many
+- Recommendation: Attend.
+- Purpose: decide whether there is a credible path to launch Cor 1.0 earlier.
+- Decisions: earlier-launch option, software/EMR tradeoffs, regulatory constraints, decision owner.
+- Risks: FW 1.3.0 dry-run failures, release-document prerequisites, FDA resubmission timing.
+- Drop-dead date for 1.3.0 full release/verification is `2026-06-12`.
+- `60%` of SW revenue is from Epic/Citrix customers.
+- Downstream is willing to pull in Dealer Notification to mid customer eval rather than waiting to the end. Could pull schedule in `2` weeks.
+- Options:
+  - Option A: launch Cor 1.0 device with customer-eval version of MCE (Epic configuration) right after Customer Evaluation (`2026-07-28`).
+    - Would not have the new Cor 1.0 bug/updates in it.
+    - Stagger the rest of the EMR support packages.
+  - Option B: launch Cor 1.0 device with updated MCE (Epic configuration) at Dealer notification.
+    - Would have the new Cor 1.0 bug/updates in it.
+    - Stagger the rest of the EMR support packages.
+  - Wait until October (maybe late October) to launch full set of EMRs and Cor 1.0.
+- Everyone agrees Option A is not a great path. Moving toward Option B but need Downstream buy-in.
+- `MCE` = Epic, `MCA` = Altera, `MCC` = Cerner, `IQiC` = Athena.
+
+#### Cor1.0 Weekly Status Update (Quality, Operations, Design) - 10:00am
+- [TODO_2026-05-11] Check what calibration would be on original `3` Zone BP Validation units.
+- Raw meeting notes were truncated in the daily file; use the Outlook invite or requested minutes if this becomes a decision-driving thread.
+
+#### Cor1.0 Weekly Status Update (Marketing, Clinical, Regulatory) - 11:00am
+- Attendees: Many
+- Recommendation: Optional unless launch strategy, FDA/resubmission, or clinical/regulatory blocker needs director input.
+- Previous notes: useful as consolidated blocker/decision lane; avoid getting pulled into routine status.
+
+#### Cor1.0 Weekly Status Update (Mounting Solutions) - 12:30pm
+- Attendees: Maggie Stahl, Evan Freeh, Jim Hempker, Emily Kaht, Peter Coppess, Pat Reichert, Darin Whittington, Kevin Stringer, Leslie Gaier Brown, Andrew Carroll
+- Recommendation: request notes; conflicts with FW readiness.
+- Previous notes: Mounting ECOs remained open; join only if CB1/customer timing or blocker appears.
+
+### 2026-05-07
+#### Cor1.0 Weekly Project Update - 8:00am
+- Attendees: Many
+- Attend.
+- Previous lane notes: this is still the main executive-visible Cor1 forum; recent updates carried misuse/customer-eval constraints, black-belt training pressure, CB1 waiting on 1.3.0, and plan stabilization around flash, scope, and communications decisions.
+- Decisions needed: 1.3.0 readiness, [TODO 0037] baseline-data path, [TODO 0036] Nellcor closure, status of overdue [MS 0025] 2026-04-27, and what truly threatens [MS 0023] / [MS 0026] / [MS 0028].
+
+#### Cor 1.0 Sprint 6.0 SCRUM Meeting - 9:00am
+- Attendees: Many
+- Request notes.
+- Relevant reminders: Sprint 6 week 1 is explicitly about finishing the 1.3.0 dry run and finalizing NIBP change/scope; useful only if a blocker needs escalation.
+- Missed.
+
+### 2026-05-06
+#### Cybersecurity Plan - Execution Discussion - 3:00pm
+- Attendees: Maggie Stahl, Andrew Carroll, Nick Ross, Rick Schuman, Thomas Stephenson, Jason Feldhaus, Adam Clutter, Leslie Gaier Brown, Jason Barhorst
+- Purpose: share the execution plan for the cybersecurity plan.
+- Decisions: ownership, sequencing, and what work is truly on the critical path versus compliance theater.
 
 ### 2026-04-28
 #### Cor1.0 | Leads Team Mtg - 9:00am
@@ -1214,6 +1725,14 @@
 
 ## mechanical
 
+### 2026-06-01
+#### Cor1.0 Weekly Status Update (Mounting Solutions) - 12:30pm
+- Attendees: Maggie Stahl, Evan Freeh, Jim Hempker, Emily Kaht, Peter Coppess, Pat Reichert, Darin Whittington, Kevin Stringer, Leslie Gaier Brown, Andrew Carroll
+- Purpose: mounting-solutions status and blockers.
+- Previous related notes: customer/commercial flow is Friday; attend only if mounting affects launch or customer eval.
+- Decisions needed: whether any mounting issue needs director escalation.
+- *Context added from Outlook meeting: "Cor1.0 Weekly Status Update (Mounting Solutions)" at 12:30 PM on 2026-06-01. Maggie Stahl's replacement series framed this as the recurring mounting-solutions status meeting, with each area expected to outline blockers or decisions needed. Source: Outlook calendar.*
+
 ### 2026-04-27
 #### Cor1.0 Weekly Status Update (Mounting Solutions) - 12:30pm
 - Attendees: Kevin Stringer, Darin Whittington, Leslie Gaier Brown, Evan Freeh, Jim Hempker, Emily Kaht, Peter Coppess, Pat Reichert
@@ -1221,7 +1740,149 @@
 - Open question: how many non-must-have cart improvements are actually being carried forward versus deferred.
 - *Context added from Outlook meeting: "Cor1.0 Weekly Status Update (Mounting Solutions)" at 12:30 PM on 2026-04-27. The invite described a mounting-solutions status meeting with each area expected to outline blockers or decisions needed. Source: Outlook calendar.*
 
+### 2026-05-04
+#### Cor1.0 Weekly Status Update (Mounting Solutions) - 12:30pm
+- Attendees: Maggie Stahl, Evan Freeh, Jim Hempker, Emily Kaht, Peter Coppess, Pat Reichert, Darin Whittington, Kevin Stringer, Leslie Gaier Brown, Andrew Carroll
+- Recommendation: optional / request notes unless mounting affects `CB1` or customer-eval timing.
+- `55` carts were received on `2026-05-01`.
+- *Context added from Outlook meeting: "Cor1.0 Weekly Status Update (Mounting Solutions)" at 12:30 PM on 2026-05-04. The invite described the recurring mounting-solutions status meeting with each area expected to outline blockers or decisions needed. Source: Outlook calendar.*
+
 ## quality
+
+### 2026-06-12
+#### Regroup on Cor1.0 6S Black Belt - 11:00am
+- Taylor needs black-belt certification and could be part of the cohort.
+- Cohort projects could also qualify as green-belt projects.
+- Black-belt training
+  - `3` weeks total: `1` week each in March, April, and May.
+  - `2` projects.
+  - `DMAIC` only.
+  - [TODO 6/30] Signup team for black belt training.
+  - [TODO 6/18] Setup time to identify what cohort projects we want to tackle.
+- Russ Beisner's team might be able to support projects. Brad Murphy's team might also be able to support projects.
+
+### 2026-06-05
+#### Cor1.0 Hypercare - 12:30pm
+- Attendees: Nick Doseck, Maggie Stahl, Andrew Carroll, Leslie Gaier Brown, Pamela Beals, Nick Ross, Daniel Herman, Rick J. Schuman, Jeromy Raczak, Soumajit Sen, Cody Kunkler, Evan Freeh, Jason Male, Kathy M. Grilliot, and others.
+- Previous notes: `2026-06-04` hypercare planning said the team wanted `5` `NIBP` measurements per commercial-build unit, re-used Zone-style analysis tooling, and still needed to settle coverage, analysis owners, and equipment.
+- Coverage model:
+  - `1` quality representative.
+  - `1` design/manufacturing representative.
+  - `1` performance tester.
+- Nick Doseck wants devices kitted and through `QC` before hypercare checks.
+  - `QC` opens the box anyway.
+  - Sending the unit back for repackaging could push it out until the following day.
+- Report out at `3:00 PM` every day.
+- Quality owns the Hypercare checklist for Commercial Build.
+- Manufacturing owns the checklist from post-`CB` through the Quality Alert.
+- *Context added from Outlook meeting: "Cor1.0 Hypercare" at 12:30 PM on 2026-06-05. Nick Doseck framed the meeting around defining hypercare support roles for the commercial build, reviewing the sign-up sheet, and making sure coverage extends across `CB1`, `CB2`, and ramp-up until the team can close out hypercare. Source: Outlook calendar.*
+
+### 2026-06-04
+#### Hypercare Performance Testing
+- For Zone
+  - Took `20` `NIBP` measurements using the cuff; Zone `EOLT` uses an adult cuff, not the tank.
+  - Data is only saved to the `R` drive.
+  - Did not use `EOLT`; used a separate `Prosim8` and laptop.
+- Proposal
+  - Pull units from the line just before kitting.
+  - Run `5` measurements, matching what Zone did after the first handful of devices.
+  - Determine who runs the test:
+    - Max may be available through the `18th`.
+    - Jeromy Raczak, Nick Ross, Dan Herman.
+    - Taylor and Nick Doseck.
+    - Max has a co-op.
+  - Determine who analyzes the data:
+    - Nick Ross, Jeromy Raczak, Radouane Bouguerra, Pat Reichert.
+    - Maybe require two people each.
+  - Equipment:
+    - Try to get a `Prosim8` from Versailles.
+    - Get a laptop from Versailles; it could come from Cincinnati.
+    - Use a cylinder from Versailles if available; there is one locally as a fallback.
+    - Get a `T`-connector.
+    - Use the old `NIBP` Tester software so the team can re-use the Zone analysis tool.
+  - Attach data to the build report.
+- *Context added from Outlook email: "RE: Cor1.0 Hypercare" from Andrew Carroll at 5:28 PM on 2026-06-04. Andrew wrote that, in addition to the hypercare checklist, the team wants NIBP performance testing on each commercial-build unit, similar to what was done when the Zone line started. Source: Outlook email.*
+
+### 2026-06-03
+#### Regroup on Hypercare - 2:00pm
+- Attendees: Maggie Stahl, Leslie Gaier Brown, Andrew Carroll, Nick Doseck
+- Purpose: regroup on hypercare ownership and implementation.
+- Decisions: owner, exit criteria, escalation path, and whether `Q-Run` protocol can carry the hypercare rules without a Quality Alert.
+- `Q-Run` build protocol only covers the first `29` units. There is no protocol governing device builds beyond this.
+- Hypercare goals
+  - Everything in box.
+  - Everything meets visual standards.
+- Create initial Hypercare checklist.
+  - As the team does not see issues after `X` units, cross that check off the list.
+  - New hypercare checks could come from observed issues in manufacturing or feedback from the field.
+  - Proposal is `30` units with a minimum of `3` of each model with no issues to take an item off the Hypercare checklist.
+  - Include performance checks similar to what Zone did by running `BP` measurements and reviewing data.
+    - [TODO - 6/4] Come up with strategy for Hypercare performance testing.
+- One quality and one design representative should cover hypercare. No third manufacturing representative is needed.
+- Installation Hypercare
+  - `NGO` sends a quality and engineering representative to each site for install. The group sees that as overkill for Cor.
+  - Biggest install risk is plug-in.
+  - Discuss install hypercare during Friday meeting with service.
+- *Context added from Outlook email: "FW: NGO Hypercare" from Leslie Gaier Brown at 9:28 AM on 2026-06-02. Leslie forwarded Rob Sackett's reminder that hypercare is meant to keep eyes close to the line, validate work instructions and checklists, surface improvement opportunities, and protect the customer experience before issues get downstream; the note also framed stabilization as the next phase after hypercare. Source: Outlook email.*
+
+### 2026-06-02
+#### Hypercare - Cor - 12:30pm
+- Attendees: Jason Barhorst, Leslie Gaier Brown, Andrew Carroll, Adam Clutter, Maggie Stahl
+- Purpose: define what hypercare is and is not for Cor.
+- Decisions: who owns the hypercare process, escalation path, and launch-support expectations.
+- There is a `QMS` document for visual acceptance criteria for finished products. It varies by material.
+- Hypercare checklists for `NGO` were released in Agile under a Quality Alert.
+- `ADO` can be used for the action-item list.
+- Open question: how do we get out of hypercare?
+  - `2% IQS? (Initial Quality S)`
+- Don't need a Quality Alert for `Q-Run`; the team can use the `Q-Run` build protocol to capture hypercare rules.
+- There is flexibility in how the team implements this.
+
+### 2026-05-14
+#### Midmark Usability Study Results Readout - 2:00pm
+- Attendees: Agatha Kalinchenko, Andrew Carroll, Bill Pawlak, Erica Johnson, Jessica Fortkamp, Leslie Gaier Brown, Nick Ross, Shannon Halgren
+- Recommendation: attend if results affect FDA/launch evidence; otherwise delegate Leslie/Erica notes.
+- Purpose: Sage readout for completed usability testing.
+- Decisions needed: severity of findings, report format, whether anything affects FDA response or launch confidence.
+- Related unread email: Sage/Parameters return shipment is in motion; Misty owes package weights, then Dylan/Corporate Logistics can arrange pickup.
+- `50%` of participants started in SPRINT mode, expecting it to be Spot.
+- Open question: why don't we have a manual BP entry option?
+- Suggestion: show real-time pressure readings.
+
+### 2026-05-08
+#### Midmark - DVSD Usability Testing - P7 - 11:00am
+- Attendees: Agatha Kalinchenko, Jessica Fortkamp, Erica Johnson, Leslie Gaier Brown, James Lua, Andrew Carroll, Bill Pawlak
+- Optional.
+- Recommendation: request highlights unless a same-day usability signal changes FDA response, labeling, or launch risk.
+- *Context added from Outlook meeting: "Midmark - DVSD Usability Testing - P7" at 11:00 AM on 2026-05-08. The invite identified this as a DVSD usability test session hosted by Sage Research with the listed Midmark attendees. Source: Outlook calendar.*
+
+#### Midmark - DVSD Usability Testing - P8 - 1:30pm
+- Attendees: Agatha Kalinchenko, Jessica Fortkamp, Erica Johnson, Leslie Gaier Brown, James Lua, Andrew Carroll, Bill Pawlak
+- Optional.
+- Recommendation: request notes; the staff meeting is probably the higher-leverage use of your time.
+- *Context added from Outlook meeting: "Midmark - DVSD Usability Testing - P8" at 1:30 PM on 2026-05-08. The invite identified this as a DVSD usability test session hosted by Sage Research with the listed Midmark attendees. Source: Outlook calendar.*
+
+#### Midmark - DVSD Usability Testing - P9 - 4:30pm
+- Attendees: Agatha Kalinchenko, Jessica Fortkamp, Erica Johnson, Leslie Gaier Brown, James Lua, Andrew Carroll, Bill Pawlak
+- Optional.
+- Recommendation: request notes unless P7 or P8 surfaced something that now needs live follow-up.
+- *Context added from Outlook meeting: "Midmark - DVSD Usability Testing - P9" at 4:30 PM on 2026-05-08. The invite identified this as a DVSD usability test session hosted by Sage Research with the listed Midmark attendees. Source: Outlook calendar.*
+
+### 2026-05-06
+#### Midmark - DVSD Usability Testing - P3 - 11:00am
+- Attendees: Agatha Kalinchenko, Jessica Fortkamp, Erica Johnson, Leslie Gaier Brown, James Lua, Andrew Carroll, Bill Pawlak
+- Optional.
+- Relevant reminders: attend only if you want firsthand usability signal; otherwise request highlights, issues, and anything that changes FDA-response or launch risk.
+
+#### Midmark - DVSD Usability Testing - P4 - 1:30pm
+- Attendees: Agatha Kalinchenko, Jessica Fortkamp, Erica Johnson, Leslie Gaier Brown, James Lua, Andrew Carroll, Bill Pawlak
+- Optional.
+- Recommendation: same rule as P3; delegate to summary unless an issue emerges that needs your call.
+
+#### Midmark - DVSD Usability Testing - P5 - 4:30pm
+- Attendees: Agatha Kalinchenko, Jessica Fortkamp, Erica Johnson, Leslie Gaier Brown, James Lua, Andrew Carroll, Bill Pawlak
+- Optional.
+- Recommendation: request highlights unless the earlier sessions surface something that needs live follow-up.
 
 ### 2026-05-01
 #### Hold: Review Data from Parameters - 3:00pm

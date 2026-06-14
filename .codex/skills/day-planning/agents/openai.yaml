@@ -1,4 +1,4 @@
 interface:
   display_name: "Day Planning"
   short_description: "Executive day triage from Outlook and Teams"
-  default_prompt: "Use $day-planning to triage today's meetings, emails, and Teams follow-ups."
+  default_prompt: "Use $day-planning to triage today's meetings, emails, Teams follow-ups, project TODO files, and `profiles.md` relationship context. Include TODOs, recurring TODOs, milestones, open questions, and actions for others from `*_todos.md` in the day-plan summary when present."

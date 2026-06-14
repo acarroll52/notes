@@ -4,9 +4,25 @@
 
 ## Raw Notes Capture Status
 
-- Captured through Raw_Notes: 2026-04-20
+- Captured through Raw_Notes: 2026-06-12
 
 ### Capture Ledger
+- 2026-06-12: processed `CN Events Committee Meeting - 10:30am`; `Clinical Operations Manager On-Site Interview: Garrett Clifford - 12:30pm`; `1:1 | Andrew + Josh - 2:00pm`; `Andrew/Radouane 1:1 - 2:30pm`; `Andrew/Rig 1:1 - 4:00pm` with no substantive non-generated notes to capture.
+- 2026-06-11: processed `Monthly NPD Resource Planning & Constraint Review - 12:30pm`; `PI Planning for DD FW - 2:30pm` with no substantive non-generated notes to capture.
+- 2026-06-05: processed `Andrew/Rick 1:1 - 2:30pm` with no substantive non-generated notes to capture.
+- 2026-06-04: processed `CCB Meeting - 1:00pm`; `Andrew/Jeromy 1:1 - 2:00pm` with no substantive non-generated notes to capture.
+- 2026-06-02: captured into Admin notes. Meetings: `Diagnostics Hiring Touchbase - 2:30pm`. Processed `AI Automations Cincy Campus - 8:00am`; `Digital Diagnostics Sprint Review - 11:00am`; `CCB Meeting - 1:00pm`; `DD R&D Staff Meeting - 3:00pm` with no substantive non-generated notes to capture.
+- 2026-05-29: captured into Admin notes. Meetings: `Andrew/Pam 1:1 - 2:00pm`; `Resource Planning and Management - Cor 2.0 and Cor 1.0 - 3:00pm`.
+- 2026-05-28: captured into Admin notes. Meetings: `CN Events Committee Meeting - 2:00pm`; `Andrew/Radouane 1:1 - 4:00pm`. Processed `Meet and Greet - 3:00pm` with no substantive non-generated notes to capture.
+- 2026-05-27: processed `AI-Centric Requirements - 1:00pm`; `AI-Centric NPD - 2:00pm`; `Andrew/Nick 1:1 - 3:00pm`; `Andrew/Rig 1:1 - 4:00pm` with no substantive non-generated notes to capture.
+- 2026-05-26: processed with no substantive non-generated notes to capture. Meetings: `May 2026 Monthly Project Sponsor Meeting - 8:00am`; `CCB Meeting - 1:00pm`; `Andrew/Soumajit 1:1 - 2:00pm`.
+- 2026-05-21: captured into Admin notes. Meetings: `SIR | Strategic Innovation Review - 1:00pm`. Processed `CCB Meeting - 1:00pm`; `Andrew/Rick 1:1 - 1:30pm`; `Andrew/Dan 1:1 - 2:30pm` with no substantive non-generated notes to capture.
+- 2026-05-20: processed with no substantive non-generated notes to capture. Meetings: `Evelyn MRI - 8:00am`; `Catered CN Office Lunch - 12:00pm`; `Monthly open forum for our new office (next 3 months) - 2:00pm`.
+- 2026-05-18: captured into Admin notes. Meetings: `Monthly NPD Resource Planning & Constraint Review - 9:00am`.
+- 2026-05-14: captured into Admin notes. Meetings: `Director Meeting - 7:15am`.
+- 2026-05-11: captured into Admin notes. Meetings: `Cincinnati Office - 3:00pm`.
+- 2026-05-08: captured into Admin notes. Meetings: `DD R&D Staff Meeting - 2:00pm`; `Andrew/Jeromy 1:1 - 3:30pm`.
+- 2026-05-07: captured into Admin notes. Meetings: `Andrew/Rick 1:1 - 1:30pm`; `Andrew/Dan 1:1 - 2:30pm`.
 - 2026-04-08: captured into Admin notes. Meetings: `MIP impact of Upstream Standard work`; `Beals, Pamela - Onsite Interview - R+D Quality Engineer - 12:30pm`.
 - 2026-04-09: captured into Admin notes. Meetings: `Andrew/Rick 1:1 - 1:30pm`; `Andrew/Jeromy 1:1 - 2:00pm`; `Andrew/Dan 1:1 - 2:30pm`.
 - 2026-04-13: captured into Admin notes. Meetings: `Cincinnati Office - 3:00pm`.
@@ -20,8 +36,115 @@
 - 2026-04-29: captured into Admin notes. Meetings: `Andrew/Nick 1:1 - 3:00pm`; `Andrew/Rig 1:1 - 4:00pm`; `CN April Happy Hour - 5:00pm`.
 - 2026-04-30: captured into Admin notes. Meetings: `Diagnostics Technical Publications - 1:30pm`; `Andrew/Radouane 1:1 - 4:00pm`; misc note `2027 co-op hiring / advanced offers`.
 - 2026-05-01: captured into Admin notes. Meetings: `Andrew/Nick 1:1 - 9:00am`; `Andrew/Soumajit 1:1 - 9:30am`; `Lunch with the Jeffs - 11:30am`.
+- 2026-05-06: captured into Admin notes. Meetings: `Andrew/Leslie Transition Plan - 9:30am`; `Diagnostics 2026 Q2 Townhall - 10:00am`.
 
 ## business
+
+### 2026-06-10
+#### General Notes
+- TODO_2026-06-12 Respond to Rick Sr about borrowing Yuriy.
+- TODO_2026-06-12 Talk to Craig Rammel about improving the test engineering `TR` review timeline and whether Jacobis can be added to approval authority.
+
+### 2026-06-02
+#### Diagnostics Hiring Touchbase - 2:30pm
+- Attendees: Bethany S. Menke
+- Bethany is getting married this weekend.
+- Has a daughter and *likely at least one son*.
+- There will be no exit interview with Irvine employees.
+- Bethany said they want a junior `EE` (`level 1` or `2`) and would consider a graduating co-op.
+- Josh says there will be no co-ops through the end of the year.
+- Put in the budget ask for `2027`; budget, hiring, promotion, and succession planning starts in August.
+- *Context added from Outlook meeting: "Diagnostics Hiring Touchbase" at 2:30 PM on 2026-06-02. The invite said the cadence had changed to once a month. Source: Outlook calendar.*
+
+### 2026-05-29
+#### Andrew/Pam 1:1 - 2:00pm
+- Attendees: Pamela Beals
+- Pam Beals is moving back home to be nearer family and previously worked in medical devices at Baxter and Hillrom.
+- Pam is expected to join as an incoming `R+D Quality Engineer` on Cor 1.0 and backfill Nick Doseck as he shifts toward robustness and reliability.
+
+#### Resource Planning and Management - Cor 2.0 and Cor 1.0 - 3:00pm
+- Attendees: Soumajit Sen, Andrew Carroll
+- Purpose: align Cor 1.0 / Cor 2.0 resource needs, utilization, constraints, planning confidence, and NPD resource-review inputs.
+- Current staffing reminders: `GL` Iaro and Dmytro are paid through `2026-06-12` with possible no-charge overrun through `2026-06-25`; Maggie Stahl's contract currently ends `2026-07-15`; Pam Beals is expected to backfill Nick Doseck on Cor 1.0.
+- Decision needed: determine what should go to Ethan's Monthly `NPD` Resource Planning and Constraint Review.
+
+### 2026-05-28
+#### CN Events Committee Meeting - 2:00pm
+- Picnic is scheduled for Wednesday, `2026-06-24`.
+- Eli's BBQ is being evaluated for delivery.
+- Ben is organizing the cornhole tournament.
+- Prize money is `$300` for the cornhole winners.
+- Everyone will bring dessert and vote on the best one.
+- Jeromy has cornhole and `KanJam`, Andrew has `KanJam`, and Nick has bocce ball.
+
+#### Andrew/Radouane 1:1 - 4:00pm
+- Attendees: Radouane Bouguerra
+- "Fudge factors" were adjusted using clinical-study data.
+- Radouane thinks calibration stopped when Zone manufacturing moved to Creation, around `2021` to `2022`.
+
+### 2026-05-21
+#### SIR | Strategic Innovation Review - 1:00pm
+- Attendees: Many.
+- CVD starts after MIP2 and replaces PDP plus MIP 3-4 for software or firmware feature-add projects.
+- Bug fixes and/or cyber patches with no new features would be owned by sustaining, outside MIP or CVD.
+- *Context added from Outlook meeting: "SIR | Strategic Innovation Review" at 1:00 PM on 2026-05-21. The recurring SIR invite identifies Sailesh Tangirala as requestor and frames the meeting as an invite-only strategic innovation review. Source: Outlook calendar.*
+
+### 2026-05-18
+#### Monthly NPD Resource Planning & Constraint Review - 9:00am
+- Attendees: Many
+- Andrew asked Soumajit Sen to set up a monthly meeting with the two of them to discuss resource planning.
+- *Context added from Outlook meeting: "Monthly NPD Resource Planning & Constraint Review" at 9:00 AM on 2026-05-18. Ethan Bruns framed the meeting around upcoming resource needs, timing changes, constraints across active NPD projects, overloaded functions, project conflicts, follow-ups with resource managers, and escalation items; it was not intended as a general project-status meeting. Source: Outlook calendar.*
+
+### 2026-05-14
+#### Director Meeting - 7:15am
+- Attendees: Many
+- Recommendation: Attend; mandatory leadership meeting and Jeff is present.
+- Purpose: business/leadership alignment across functions.
+- Talking points: capture implications for DD R&D priorities, staffing, Cor1/Cor2 visibility, and any leadership asks.
+
+### 2026-05-11
+#### Cincinnati Office - 3:00pm
+- Attendees: Many
+- Recommendation: Attend; Jeff/Josh involvement makes this high priority by default.
+- Previous notes: Midmark sign approved/Jennifer Brickler working install; local support and in-office friction are recurring themes.
+- Talking points: Cincinnati support/admin needs, site visibility, anything requiring Jeff/Josh alignment.
+
+### 2026-05-08
+#### DD R&D Staff Meeting - 2:00pm
+- Attendees: Andrew Carroll, Jeromy Raczak, Nick Ross, Rick J. Schuman, Soumajit Sen, Radouane Bouguerra, Daniel Herman
+- Attend.
+- Relevant reminders: use this to clear owner confusion after the morning NIBP call, surface [ACTION 0014] if Radouane still owes movement, and make any Cor1/Cor2 staffing tradeoffs explicit.
+- *Context added from Outlook meeting: "DD R&D Staff Meeting" at 2:00 PM on 2026-05-08. The invite included Andrew, Jeromy, Nick, Rick, Soumajit, Radouane, and Daniel; the body noted Andrew would be in Versailles. Source: Outlook calendar.*
+
+#### Andrew/Jeromy 1:1 - 3:30pm
+- Attendees: Jeromy Raczak
+- Personal catch-up: wife is Abby.
+- Follow ups from last meeting:
+  - What still needs director help to keep NIBP scope and 1.3.0 execution moving?
+  - Any places where the team is waiting on "Midmark standard" clarity instead of just deciding and moving?
+- Open questions:
+  - None found in TODO markdown files.
+- *Context added from Outlook meeting: "Andrew/Jeromy 1:1" at 3:30 PM on 2026-05-08. The invite shows this as a 1:1 with Jeromy Raczak. Source: Outlook calendar.*
+
+### 2026-05-07
+#### Andrew/Rick 1:1 - 1:30pm
+- Attendees: Rick J. Schuman
+- Personal catch-up: lives in Harrison; in-laws are staying through May while their new home is being built.
+- Follow ups from last meeting:
+  - Did you reach out to Kinetic Vision?
+  - Any progress with InDesign or other external partners already under agreement?
+- Completed IDP.
+- Discussed SDP.
+
+#### Andrew/Dan 1:1 - 2:30pm
+- Attendees: Daniel Herman
+- Personal catch-up: girlfriend's name is Emma.
+- Follow ups from last meeting:
+  - Where does the alternate-construction EMC testing plan stand?
+- Open questions:
+  - [ACTION 0019] 2026-05-01: Dan Herman - Plan for alternate construction EMC testing.
+- Still need to finish battery VT tests.
+- Valve testing complete.
 
 ### 2026-04-28
 #### April 2026 Monthly Project Sponsor Meeting - 8:00am
@@ -130,6 +253,23 @@
 - Purpose: team/leadership relationship time. If Jeff Bargemann is actually joining, treat as high-priority informal alignment.
 - Talking points: Cincinnati team visibility, Cor1 risk posture, Zone support load, and what the team needs from leadership.
 - *Context added from Outlook meeting: "Lunch with the Jeffs" at 11:30 AM on 2026-05-01. The invite included Andrew Carroll, Nick Ross, Daniel Herman, and Jeromy Raczak, with location TBD. Source: Outlook calendar.*
+
+### 2026-05-06
+#### Andrew/Leslie Transition Plan - 9:30am
+- Attendees: Leslie Gaier Brown
+- Personal catch-up: no useful personal notes found.
+- Follow ups from last meeting:
+  - Can we finalize the transition owner map for project leadership and the Pat-to-Nick technical handoff?
+  - What still depends on Leslie for FDA resubmission coverage and CB1 readiness?
+  - What should be explicitly covered before your upcoming time out on `2026-05-08` and `2026-05-13` to `2026-05-27`?
+- Topics (raw capture):
+  - Zone testing: set screw update; flash testing; run Hackensack units through new hypercare `EOLT`; back-to-back testing flash vs no flash; get new production unit to Cinci Friday morning; John Shevlin.
+  - Cor 1.0: BP clinical study; `1.3.0` scope and timing; NIBP tester updates (updates in and stability testing now; validation docs ready to go); baseline data; Rob meeting.
+
+#### Diagnostics 2026 Q2 Townhall - 10:00am
+- Attendees: Many
+- Key message (raw capture): broaden townhall beyond software to the full Diagnostics org; use the forum to share pipeline, build excitement, and connect work to Diagnostics strategy.
+- Reminder from the meeting: Rigved asked for Q2 birthdays, announcements, celebrations, certifications, and headshots for the slides, and asked you to forward the invite to your team.
 
 ### 2026-04-13
 #### General Notes
